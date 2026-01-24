@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+data/raw_papers/
+data/processed/
+data/metadata_index.json
+*.index
+.env
+.DS_Store
