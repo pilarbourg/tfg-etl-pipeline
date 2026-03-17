@@ -1,0 +1,2350 @@
+2026-03-07 17:27:35,028 - INFO - Processing PMID: 41782527
+2026-03-07 17:27:35,643 - INFO - Successfully indexed: [Selective neurodegeneration i...
+2026-03-07 17:27:36,148 - INFO - Processing PMID: 41780778
+2026-03-07 17:27:36,660 - INFO - Successfully indexed: Neurofilament light chain prot...
+2026-03-07 17:27:37,166 - INFO - Processing PMID: 41780488
+2026-03-07 17:27:37,704 - INFO - Successfully indexed: Deep learning-based MRI segmen...
+2026-03-07 17:27:38,206 - INFO - Extraction complete. Index saved to data/metadata_index.json
+2026-03-07 17:27:59,406 - INFO - Processing PMID: 41782527
+2026-03-07 17:28:00,058 - INFO - Successfully indexed: [Selective neurodegeneration i...
+2026-03-07 17:28:00,561 - INFO - Processing PMID: 41780778
+2026-03-07 17:28:01,185 - INFO - Successfully indexed: Neurofilament light chain prot...
+2026-03-07 17:28:01,690 - INFO - Processing PMID: 41780488
+2026-03-07 17:28:02,202 - INFO - Successfully indexed: Deep learning-based MRI segmen...
+2026-03-07 17:28:02,707 - INFO - Processing PMID: 41780475
+2026-03-07 17:28:03,260 - INFO - Successfully indexed: Exploring the phthalates-induc...
+2026-03-07 17:28:03,766 - INFO - Processing PMID: 41779097
+2026-03-07 17:28:04,396 - INFO - Successfully indexed: Single Intraperitoneal Injecti...
+2026-03-07 17:28:04,901 - INFO - Processing PMID: 41778714
+2026-03-07 17:28:05,421 - INFO - Successfully indexed: Exosomes and microRNAs in the ...
+2026-03-07 17:28:05,926 - INFO - Processing PMID: 41777501
+2026-03-07 17:28:06,579 - INFO - Successfully indexed: Tonsillar Alpha-Synuclein Accu...
+2026-03-07 17:28:07,085 - INFO - Processing PMID: 41776571
+2026-03-07 17:28:07,736 - INFO - Successfully indexed: Sex-specific metabolic and mic...
+2026-03-07 17:28:08,241 - INFO - Processing PMID: 41775741
+2026-03-07 17:28:08,932 - INFO - Successfully indexed: Ultra-performance liquid chrom...
+2026-03-07 17:28:09,437 - INFO - Processing PMID: 41774796
+2026-03-07 17:28:09,973 - INFO - Successfully indexed: SV2A PET reveals synaptic dens...
+2026-03-07 17:28:10,479 - INFO - Extraction complete. Index saved to data/metadata_index.json
+2026-03-07 18:14:00,533 - INFO - Processing pmcid: 41782527
+2026-03-07 18:14:01,219 - INFO - Successfully indexed: [Selective neurodegeneration i...
+2026-03-07 18:14:01,724 - INFO - Processing pmcid: 41780778
+2026-03-07 18:14:02,236 - INFO - Successfully indexed: Neurofilament light chain prot...
+2026-03-07 18:14:02,741 - INFO - Processing pmcid: 41780488
+2026-03-07 18:14:03,264 - INFO - Successfully indexed: Deep learning-based MRI segmen...
+2026-03-07 18:14:03,767 - INFO - Processing pmcid: 41780475
+2026-03-07 18:14:04,385 - INFO - Successfully indexed: Exploring the phthalates-induc...
+2026-03-07 18:14:04,890 - INFO - Processing pmcid: 41779097
+2026-03-07 18:14:05,518 - INFO - Successfully indexed: Single Intraperitoneal Injecti...
+2026-03-07 18:14:06,023 - INFO - Processing pmcid: 41778714
+2026-03-07 18:14:06,531 - INFO - Successfully indexed: Exosomes and microRNAs in the ...
+2026-03-07 18:14:07,036 - INFO - Processing pmcid: 41777501
+2026-03-07 18:14:07,653 - INFO - Successfully indexed: Tonsillar Alpha-Synuclein Accu...
+2026-03-07 18:14:08,157 - INFO - Processing pmcid: 41776571
+2026-03-07 18:14:08,810 - INFO - Successfully indexed: Sex-specific metabolic and mic...
+2026-03-07 18:14:09,315 - INFO - Processing pmcid: 41775741
+2026-03-07 18:14:10,034 - INFO - Successfully indexed: Ultra-performance liquid chrom...
+2026-03-07 18:14:10,539 - INFO - Processing pmcid: 41774796
+2026-03-07 18:14:11,180 - INFO - Successfully indexed: SV2A PET reveals synaptic dens...
+2026-03-07 18:14:11,688 - INFO - Extraction complete. Index saved to data/metadata_index.json
+2026-03-07 18:21:49,881 - INFO - Processing pmid: 41782527
+2026-03-07 18:21:55,413 - INFO - Processing pmid: 41782527
+2026-03-07 18:21:56,260 - INFO - Successfully indexed: [Selective neurodegeneration i...
+2026-03-07 18:21:56,765 - INFO - Processing pmid: 41780778
+2026-03-07 18:21:57,285 - INFO - Successfully indexed: Neurofilament light chain prot...
+2026-03-07 18:21:57,786 - INFO - Processing pmid: 41780488
+2026-03-07 18:21:58,424 - INFO - Successfully indexed: Deep learning-based MRI segmen...
+2026-03-07 18:21:58,931 - INFO - Extraction complete. Index saved to data/metadata_index.json
+2026-03-07 18:23:47,751 - INFO - Extraction complete. Index saved to data/metadata_index.json
+2026-03-07 18:25:18,926 - INFO - Extraction complete. Index saved to data/metadata_index.json
+2026-03-07 18:25:22,505 - INFO - Extraction complete. Index saved to data/metadata_index.json
+2026-03-08 14:16:49,423 - INFO - Searching PubMed...
+2026-03-08 14:16:50,399 - INFO - Found 50 PMIDs
+2026-03-08 14:16:50,399 - INFO - [1/50] Processing PMID 41786819
+2026-03-08 14:16:52,716 - INFO -   ~ Abstract only (no PMC link)
+2026-03-08 14:16:53,121 - INFO - [2/50] Processing PMID 41782527
+2026-03-08 14:16:55,009 - INFO -   ~ Abstract only (no PMC link)
+2026-03-08 14:16:55,410 - INFO - [3/50] Processing PMID 41780778
+2026-03-08 14:16:58,084 - INFO -   ~ Abstract only (no PMC link)
+2026-03-08 14:17:13,906 - INFO - Searching PubMed...
+2026-03-08 14:17:14,490 - INFO - Found 10 PMIDs
+2026-03-08 14:17:14,490 - INFO - [1/10] Processing PMID 41786819
+2026-03-08 14:17:16,113 - INFO -   ~ Abstract only (no PMC link)
+2026-03-08 14:17:16,519 - INFO - [2/10] Processing PMID 41782527
+2026-03-08 14:17:18,711 - INFO -   ~ Abstract only (no PMC link)
+2026-03-08 14:17:19,116 - INFO - [3/10] Processing PMID 41780778
+2026-03-08 14:17:20,969 - INFO -   ~ Abstract only (no PMC link)
+2026-03-08 14:17:21,372 - INFO - [4/10] Processing PMID 41780488
+2026-03-08 14:17:23,014 - INFO -   ~ Abstract only (no PMC link)
+2026-03-08 14:17:23,417 - INFO - [5/10] Processing PMID 41778714
+2026-03-08 14:17:25,428 - INFO -   ~ Abstract only (no PMC link)
+2026-03-08 14:17:25,829 - INFO - [6/10] Processing PMID 41776571
+2026-03-08 14:17:27,469 - INFO -   ~ Abstract only (no PMC link)
+2026-03-08 14:17:27,872 - INFO - [7/10] Processing PMID 41750699
+2026-03-08 14:17:29,624 - INFO -   ✓ PMC full-text available: PMC12939763
+2026-03-08 14:17:30,029 - INFO - [8/10] Processing PMID 41750176
+2026-03-08 14:17:31,571 - INFO -   ✓ PMC full-text available: PMC12939130
+2026-03-08 14:17:31,972 - INFO - [9/10] Processing PMID 41744388
+2026-03-08 14:17:33,743 - INFO -   ~ Abstract only (no PMC link)
+2026-03-08 14:17:34,149 - INFO - [10/10] Processing PMID 41738058
+2026-03-08 14:17:36,119 - INFO -   ✓ PMC full-text available: PMC12927845
+2026-03-08 14:17:36,522 - INFO - Done. 10 papers saved → 3 have PMC full-text, 10 have abstracts. Index at data/metadata_index.json
+2026-03-08 14:21:05,431 - INFO - [1/10] Linking cortical morphology and neurophysiological dynamics 
+2026-03-08 14:21:05,431 - INFO -   → Trying Unpaywall...
+2026-03-08 14:21:05,985 - WARNING - Unpaywall failed for 10.1038/s41598-026-41274-z: 422 Client Error: Unprocessable Entity for url: https://api.unpaywall.org/v2/10.1038/s41598-026-41274-z?email=your_email%40example.com
+2026-03-08 14:21:05,988 - INFO -   ~ No open-access PDF on Unpaywall
+2026-03-08 14:21:07,490 - INFO -   → Trying Semantic Scholar...
+2026-03-08 14:21:09,644 - INFO -   ~ Falling back to abstract only
+2026-03-08 14:21:09,644 - INFO - [2/10] [Selective neurodegeneration in patients with parkinson's di
+2026-03-08 14:21:09,644 - INFO -   → Trying Unpaywall...
+2026-03-08 14:21:10,103 - WARNING - Unpaywall failed for 10.17116/jnevro202612602123: 422 Client Error: Unprocessable Entity for url: https://api.unpaywall.org/v2/10.17116/jnevro202612602123?email=your_email%40example.com
+2026-03-08 14:21:10,105 - INFO -   ~ No open-access PDF on Unpaywall
+2026-03-08 14:21:11,611 - INFO -   → Trying Semantic Scholar...
+2026-03-08 14:21:12,158 - INFO -   ~ Semantic Scholar: abstract only
+2026-03-08 14:21:13,663 - INFO -   ~ Falling back to abstract only
+2026-03-08 14:21:13,664 - INFO - [3/10] Neurofilament light chain protein exposure contributes to pr
+2026-03-08 14:21:13,664 - INFO -   → Trying Unpaywall...
+2026-03-08 14:21:14,148 - WARNING - Unpaywall failed for 10.1016/j.ijbiomac.2026.151150: 422 Client Error: Unprocessable Entity for url: https://api.unpaywall.org/v2/10.1016/j.ijbiomac.2026.151150?email=your_email%40example.com
+2026-03-08 14:21:14,150 - INFO -   ~ No open-access PDF on Unpaywall
+2026-03-08 14:21:15,653 - INFO -   → Trying Semantic Scholar...
+2026-03-08 14:21:16,247 - INFO -   ~ Semantic Scholar: abstract only
+2026-03-08 14:21:17,752 - INFO -   ~ Falling back to abstract only
+2026-03-08 14:21:17,753 - INFO - [4/10] Deep learning-based MRI segmentation for substantia nigra in
+2026-03-08 14:21:17,753 - INFO -   → Trying Unpaywall...
+2026-03-08 14:21:18,262 - WARNING - Unpaywall failed for 10.1016/j.parkreldis.2026.108260: 422 Client Error: Unprocessable Entity for url: https://api.unpaywall.org/v2/10.1016/j.parkreldis.2026.108260?email=your_email%40example.com
+2026-03-08 14:21:18,265 - INFO -   ~ No open-access PDF on Unpaywall
+2026-03-08 14:21:19,770 - INFO -   → Trying Semantic Scholar...
+2026-03-08 14:21:20,047 - INFO -   ~ Semantic Scholar: abstract only
+2026-03-08 14:21:21,552 - INFO -   ~ Falling back to abstract only
+2026-03-08 14:21:21,553 - INFO - [5/10] Exosomes and microRNAs in the treatment of in vivo and in vi
+2026-03-08 14:21:21,553 - INFO -   → Trying Unpaywall...
+2026-03-08 14:21:22,029 - WARNING - Unpaywall failed for 10.4103/NRR.NRR-D-25-01867: 422 Client Error: Unprocessable Entity for url: https://api.unpaywall.org/v2/10.4103/NRR.NRR-D-25-01867?email=your_email%40example.com
+2026-03-08 14:21:22,032 - INFO -   ~ No open-access PDF on Unpaywall
+2026-03-08 14:21:23,537 - INFO -   → Trying Semantic Scholar...
+2026-03-08 14:21:24,179 - INFO -   ~ Semantic Scholar: abstract only
+2026-03-08 14:21:25,685 - INFO -   ~ Falling back to abstract only
+2026-03-08 14:21:25,685 - INFO - [6/10] Sex-specific metabolic and microbial remodeling in a rotenon
+2026-03-08 14:21:25,685 - INFO -   → Trying Unpaywall...
+2026-03-08 14:21:26,165 - WARNING - Unpaywall failed for 10.1186/s13293-026-00865-1: 422 Client Error: Unprocessable Entity for url: https://api.unpaywall.org/v2/10.1186/s13293-026-00865-1?email=your_email%40example.com
+2026-03-08 14:21:26,167 - INFO -   ~ No open-access PDF on Unpaywall
+2026-03-08 14:21:27,669 - INFO -   → Trying Semantic Scholar...
+2026-03-08 14:21:29,826 - INFO -   ~ Falling back to abstract only
+2026-03-08 14:21:29,827 - INFO - [7/10] Early Diagnosis of Parkinson's Disease Through Lite HGWA-Net
+2026-03-08 14:21:29,827 - INFO -   → Trying PMC (PMC12939763)...
+2026-03-08 14:21:30,868 - INFO -   ✓ PMC success (84201 chars)
+2026-03-08 14:21:32,372 - INFO - [8/10] Computational Modeling of Parkinson's Disease Across Scales:
+2026-03-08 14:21:32,373 - INFO -   → Trying PMC (PMC12939130)...
+2026-03-08 14:21:33,519 - INFO -   ✓ PMC success (173739 chars)
+2026-03-08 14:21:35,024 - INFO - [9/10] Quantitative measures of total and phosphorylated alpha-synu
+2026-03-08 14:21:35,025 - INFO -   → Trying Unpaywall...
+2026-03-08 14:21:35,499 - WARNING - Unpaywall failed for 10.1177/1877718X261420669: 422 Client Error: Unprocessable Entity for url: https://api.unpaywall.org/v2/10.1177/1877718X261420669?email=your_email%40example.com
+2026-03-08 14:21:35,502 - INFO -   ~ No open-access PDF on Unpaywall
+2026-03-08 14:21:37,007 - INFO -   → Trying Semantic Scholar...
+2026-03-08 14:21:37,240 - INFO -   ~ Semantic Scholar: abstract only
+2026-03-08 14:21:38,745 - INFO -   ~ Falling back to abstract only
+2026-03-08 14:21:38,746 - INFO - [10/10] Functional MRI in Multiple System Atrophy: A Promising Bioma
+2026-03-08 14:21:38,746 - INFO -   → Trying PMC (PMC12927845)...
+2026-03-08 14:21:39,905 - INFO -   ✓ PMC success (101990 chars)
+2026-03-08 14:21:41,416 - INFO - 
+Done. 3/10 papers have full text, 10 have abstracts. Index updated.
+2026-03-08 14:28:09,641 - INFO - [1/10] Linking cortical morphology and neurophysiological dynamics 
+2026-03-08 14:28:09,642 - INFO -   → Trying Unpaywall...
+2026-03-08 14:28:10,180 - WARNING - Unpaywall failed for 10.1038/s41598-026-41274-z: 422 Client Error: Unprocessable Entity for url: https://api.unpaywall.org/v2/10.1038/s41598-026-41274-z
+2026-03-08 14:28:10,182 - INFO -   ~ No open-access PDF on Unpaywall
+2026-03-08 14:28:11,688 - INFO -   → Trying Semantic Scholar...
+2026-03-08 14:28:13,900 - INFO -   ~ Falling back to abstract only
+2026-03-08 14:28:13,900 - INFO - [2/10] [Selective neurodegeneration in patients with parkinson's di
+2026-03-08 14:28:13,900 - INFO -   → Trying Unpaywall...
+2026-03-08 14:28:14,346 - WARNING - Unpaywall failed for 10.17116/jnevro202612602123: 422 Client Error: Unprocessable Entity for url: https://api.unpaywall.org/v2/10.17116/jnevro202612602123
+2026-03-08 14:28:14,348 - INFO -   ~ No open-access PDF on Unpaywall
+2026-03-08 14:28:15,853 - INFO -   → Trying Semantic Scholar...
+2026-03-08 14:28:16,107 - INFO -   ~ Semantic Scholar: abstract only
+2026-03-08 14:28:17,613 - INFO -   ~ Falling back to abstract only
+2026-03-08 14:28:17,613 - INFO - [3/10] Neurofilament light chain protein exposure contributes to pr
+2026-03-08 14:28:17,613 - INFO -   → Trying Unpaywall...
+2026-03-08 14:28:18,096 - WARNING - Unpaywall failed for 10.1016/j.ijbiomac.2026.151150: 422 Client Error: Unprocessable Entity for url: https://api.unpaywall.org/v2/10.1016/j.ijbiomac.2026.151150
+2026-03-08 14:28:18,099 - INFO -   ~ No open-access PDF on Unpaywall
+2026-03-08 14:28:19,600 - INFO -   → Trying Semantic Scholar...
+2026-03-08 14:28:19,843 - INFO -   ~ Semantic Scholar: abstract only
+2026-03-08 14:28:21,348 - INFO -   ~ Falling back to abstract only
+2026-03-08 14:28:21,349 - INFO - [4/10] Deep learning-based MRI segmentation for substantia nigra in
+2026-03-08 14:28:21,349 - INFO -   → Trying Unpaywall...
+2026-03-08 14:28:21,823 - WARNING - Unpaywall failed for 10.1016/j.parkreldis.2026.108260: 422 Client Error: Unprocessable Entity for url: https://api.unpaywall.org/v2/10.1016/j.parkreldis.2026.108260
+2026-03-08 14:28:21,825 - INFO -   ~ No open-access PDF on Unpaywall
+2026-03-08 14:28:23,326 - INFO -   → Trying Semantic Scholar...
+2026-03-08 14:28:23,970 - INFO -   ~ Semantic Scholar: abstract only
+2026-03-08 14:28:25,476 - INFO -   ~ Falling back to abstract only
+2026-03-08 14:28:25,476 - INFO - [5/10] Exosomes and microRNAs in the treatment of in vivo and in vi
+2026-03-08 14:28:25,476 - INFO -   → Trying Unpaywall...
+2026-03-08 14:28:25,952 - WARNING - Unpaywall failed for 10.4103/NRR.NRR-D-25-01867: 422 Client Error: Unprocessable Entity for url: https://api.unpaywall.org/v2/10.4103/NRR.NRR-D-25-01867
+2026-03-08 14:28:25,954 - INFO -   ~ No open-access PDF on Unpaywall
+2026-03-08 14:28:27,455 - INFO -   → Trying Semantic Scholar...
+2026-03-08 14:28:28,070 - INFO -   ~ Semantic Scholar: abstract only
+2026-03-08 14:28:29,574 - INFO -   ~ Falling back to abstract only
+2026-03-08 14:28:29,575 - INFO - [6/10] Sex-specific metabolic and microbial remodeling in a rotenon
+2026-03-08 14:28:29,575 - INFO -   → Trying Unpaywall...
+2026-03-08 14:28:30,020 - WARNING - Unpaywall failed for 10.1186/s13293-026-00865-1: 422 Client Error: Unprocessable Entity for url: https://api.unpaywall.org/v2/10.1186/s13293-026-00865-1
+2026-03-08 14:28:30,023 - INFO -   ~ No open-access PDF on Unpaywall
+2026-03-08 14:28:31,528 - INFO -   → Trying Semantic Scholar...
+2026-03-08 14:28:33,584 - INFO -   ~ Falling back to abstract only
+2026-03-08 14:28:33,584 - INFO - [9/10] Quantitative measures of total and phosphorylated alpha-synu
+2026-03-08 14:28:33,584 - INFO -   → Trying Unpaywall...
+2026-03-08 14:28:34,057 - WARNING - Unpaywall failed for 10.1177/1877718X261420669: 422 Client Error: Unprocessable Entity for url: https://api.unpaywall.org/v2/10.1177/1877718X261420669
+2026-03-08 14:28:34,060 - INFO -   ~ No open-access PDF on Unpaywall
+2026-03-08 14:28:35,563 - INFO -   → Trying Semantic Scholar...
+2026-03-08 14:28:35,808 - INFO -   ~ Semantic Scholar: abstract only
+2026-03-08 14:28:37,313 - INFO -   ~ Falling back to abstract only
+2026-03-08 14:28:37,321 - INFO - 
+Done. 3/10 papers have full text, 10 have abstracts. Index updated.
+2026-03-08 14:31:52,885 - INFO - Searching PubMed...
+2026-03-08 14:31:53,518 - INFO - Found 100 PMIDs
+2026-03-08 14:31:53,518 - INFO - [1/100] Processing PMID 41786819
+2026-03-08 14:31:55,690 - INFO -   ~ Abstract only (no PMC link)
+2026-03-08 14:31:56,096 - INFO - [2/100] Processing PMID 41782527
+2026-03-08 14:31:57,911 - INFO -   ~ Abstract only (no PMC link)
+2026-03-08 14:31:58,315 - INFO - [3/100] Processing PMID 41780778
+2026-03-08 14:31:59,629 - INFO -   ~ Abstract only (no PMC link)
+2026-03-08 14:32:00,035 - INFO - [4/100] Processing PMID 41780488
+2026-03-08 14:32:01,478 - INFO -   ~ Abstract only (no PMC link)
+2026-03-08 14:32:01,883 - INFO - [5/100] Processing PMID 41778714
+2026-03-08 14:32:03,366 - INFO -   ~ Abstract only (no PMC link)
+2026-03-08 14:32:03,769 - INFO - [6/100] Processing PMID 41776571
+2026-03-08 14:32:05,970 - INFO -   ~ Abstract only (no PMC link)
+2026-03-08 14:32:06,376 - INFO - [7/100] Processing PMID 41750699
+2026-03-08 14:32:08,516 - INFO -   ✓ PMC full-text available: PMC12939763
+2026-03-08 14:32:08,922 - INFO - [8/100] Processing PMID 41750176
+2026-03-08 14:32:11,312 - INFO -   ✓ PMC full-text available: PMC12939130
+2026-03-08 14:32:11,718 - INFO - [9/100] Processing PMID 41744388
+2026-03-08 14:32:13,642 - INFO -   ~ Abstract only (no PMC link)
+2026-03-08 14:32:14,047 - INFO - [10/100] Processing PMID 41738058
+2026-03-08 14:32:15,685 - INFO -   ✓ PMC full-text available: PMC12927845
+2026-03-08 14:32:16,090 - INFO - [11/100] Processing PMID 41737006
+2026-03-08 14:32:17,884 - INFO -   ✓ PMC full-text available: PMC12926348
+2026-03-08 14:32:18,285 - INFO - [12/100] Processing PMID 41730497
+2026-03-08 14:32:19,785 - INFO -   ~ Abstract only (no PMC link)
+2026-03-08 14:32:20,189 - INFO - [13/100] Processing PMID 41699128
+2026-03-08 14:32:22,094 - INFO -   ~ Abstract only (no PMC link)
+2026-03-08 14:32:22,499 - INFO - [14/100] Processing PMID 41696884
+2026-03-08 14:32:24,149 - INFO -   ~ Abstract only (no PMC link)
+2026-03-08 14:32:24,554 - INFO - [15/100] Processing PMID 41688474
+2026-03-08 14:32:26,127 - INFO -   ~ Abstract only (no PMC link)
+2026-03-08 14:32:26,533 - INFO - [16/100] Processing PMID 41686905
+2026-03-08 14:32:28,282 - INFO -   ✓ PMC full-text available: PMC12904197
+2026-03-08 14:32:28,688 - INFO - [17/100] Processing PMID 41682687
+2026-03-08 14:32:30,711 - INFO -   ✓ PMC full-text available: PMC12898416
+2026-03-08 14:32:31,114 - INFO - [18/100] Processing PMID 41677652
+2026-03-08 14:32:32,779 - INFO -   ✓ PMC full-text available: PMC12896428
+2026-03-08 14:32:33,184 - INFO - [19/100] Processing PMID 41673341
+2026-03-08 14:32:35,116 - INFO -   ~ Abstract only (no PMC link)
+2026-03-08 14:32:35,517 - INFO - [20/100] Processing PMID 41673053
+2026-03-08 14:32:37,325 - INFO -   ~ Abstract only (no PMC link)
+2026-03-08 14:32:37,728 - INFO - [21/100] Processing PMID 41670296
+2026-03-08 14:32:39,473 - INFO -   ✓ PMC full-text available: PMC12892403
+2026-03-08 14:32:39,878 - INFO - [22/100] Processing PMID 41665706
+2026-03-08 14:32:41,588 - INFO -   ✓ PMC full-text available: PMC12891262
+2026-03-08 14:32:41,989 - INFO - [23/100] Processing PMID 41659980
+2026-03-08 14:32:44,440 - INFO -   ✓ PMC full-text available: PMC12873708
+2026-03-08 14:32:44,846 - INFO - [24/100] Processing PMID 41654200
+2026-03-08 14:32:46,557 - INFO -   ~ Abstract only (no PMC link)
+2026-03-08 14:32:46,960 - INFO - [25/100] Processing PMID 41646362
+2026-03-08 14:32:48,738 - INFO -   ✓ PMC full-text available: PMC12869688
+2026-03-08 14:32:49,143 - INFO - [26/100] Processing PMID 41633447
+2026-03-08 14:32:50,614 - INFO -   ~ Abstract only (no PMC link)
+2026-03-08 14:32:51,020 - INFO - [27/100] Processing PMID 41622469
+2026-03-08 14:32:52,632 - INFO -   ~ Abstract only (no PMC link)
+2026-03-08 14:32:53,039 - INFO - [28/100] Processing PMID 41620489
+2026-03-08 14:32:55,412 - INFO -   ✓ PMC full-text available: PMC12963478
+2026-03-08 14:32:55,818 - INFO - [29/100] Processing PMID 41619527
+2026-03-08 14:32:57,597 - INFO -   ~ Abstract only (no PMC link)
+2026-03-08 14:32:58,002 - INFO - [30/100] Processing PMID 41606412
+2026-03-08 14:32:59,980 - INFO -   ~ Abstract only (no PMC link)
+2026-03-08 14:33:00,386 - INFO - [31/100] Processing PMID 41603647
+2026-03-08 14:33:02,463 - INFO -   ~ Abstract only (no PMC link)
+2026-03-08 14:33:02,870 - INFO - [32/100] Processing PMID 41603617
+2026-03-08 14:33:04,368 - INFO -   ~ Abstract only (no PMC link)
+2026-03-08 14:33:04,773 - INFO - [33/100] Processing PMID 41598431
+2026-03-08 14:33:06,581 - INFO -   ✓ PMC full-text available: PMC12842032
+2026-03-08 14:33:06,987 - INFO - [34/100] Processing PMID 41594601
+2026-03-08 14:33:08,699 - INFO -   ✓ PMC full-text available: PMC12838655
+2026-03-08 14:33:09,105 - INFO - [35/100] Processing PMID 41571695
+2026-03-08 14:33:10,787 - INFO -   ✓ PMC full-text available: PMC12909943
+2026-03-08 14:33:11,192 - INFO - [36/100] Processing PMID 41571558
+2026-03-08 14:33:12,574 - INFO -   ~ Abstract only (no PMC link)
+2026-03-08 14:33:12,981 - INFO - [37/100] Processing PMID 41549883
+2026-03-08 14:33:14,673 - INFO -   ~ Abstract only (no PMC link)
+2026-03-08 14:33:15,076 - INFO - [38/100] Processing PMID 41549084
+2026-03-08 14:33:16,768 - INFO -   ✓ PMC full-text available: PMC12891709
+2026-03-08 14:33:17,173 - INFO - [39/100] Processing PMID 41540043
+2026-03-08 14:33:18,698 - INFO -   ✓ PMC full-text available: PMC12820131
+2026-03-08 14:33:19,103 - INFO - [40/100] Processing PMID 41540037
+2026-03-08 14:33:20,704 - INFO -   ✓ PMC full-text available: PMC12909848
+2026-03-08 14:33:21,107 - INFO - [41/100] Processing PMID 41525793
+2026-03-08 14:33:22,586 - INFO -   ~ Abstract only (no PMC link)
+2026-03-08 14:33:22,989 - INFO - [42/100] Processing PMID 41517809
+2026-03-08 14:33:24,531 - INFO -   ✓ PMC full-text available: PMC12802056
+2026-03-08 14:33:24,937 - INFO - [43/100] Processing PMID 41516359
+2026-03-08 14:33:26,738 - INFO -   ✓ PMC full-text available: PMC12786970
+2026-03-08 14:33:27,144 - INFO - [44/100] Processing PMID 41495462
+2026-03-08 14:33:28,987 - INFO -   ✓ PMC full-text available: PMC12819914
+2026-03-08 14:33:29,392 - INFO - [45/100] Processing PMID 41492395
+2026-03-08 14:33:31,504 - INFO -   ✓ PMC full-text available: PMC12765053
+2026-03-08 14:33:31,909 - INFO - [46/100] Processing PMID 41484429
+2026-03-08 14:33:33,947 - INFO -   ~ Abstract only (no PMC link)
+2026-03-08 14:33:34,353 - INFO - [47/100] Processing PMID 41480095
+2026-03-08 14:33:36,184 - INFO -   ✓ PMC full-text available: PMC12753937
+2026-03-08 14:33:36,589 - INFO - [48/100] Processing PMID 41479687
+2026-03-08 14:33:38,257 - INFO -   ✓ PMC full-text available: PMC12754217
+2026-03-08 14:33:38,663 - INFO - [49/100] Processing PMID 41467326
+2026-03-08 14:33:40,242 - INFO -   ~ Abstract only (no PMC link)
+2026-03-08 14:33:40,647 - INFO - [50/100] Processing PMID 41462629
+2026-03-08 14:33:42,926 - INFO -   ✓ PMC full-text available: PMC12729909
+2026-03-08 14:33:43,331 - INFO - [51/100] Processing PMID 41462565
+2026-03-08 14:33:45,311 - INFO -   ✓ PMC full-text available: PMC12955899
+2026-03-08 14:33:45,715 - INFO - [52/100] Processing PMID 41440056
+2026-03-08 14:33:47,444 - INFO -   ✓ PMC full-text available: PMC12731173
+2026-03-08 14:33:47,849 - INFO - [53/100] Processing PMID 41425069
+2026-03-08 14:33:49,656 - INFO -   ✓ PMC full-text available: PMC12712803
+2026-03-08 14:33:50,061 - INFO - [54/100] Processing PMID 41415889
+2026-03-08 14:33:51,709 - INFO -   ✓ PMC full-text available: PMC12708609
+2026-03-08 14:33:52,111 - INFO - [55/100] Processing PMID 41408061
+2026-03-08 14:33:53,933 - INFO -   ✓ PMC full-text available: PMC12711994
+2026-03-08 14:33:54,338 - INFO - [56/100] Processing PMID 41399243
+2026-03-08 14:33:56,032 - INFO -   ~ Abstract only (no PMC link)
+2026-03-08 14:33:56,434 - INFO - [57/100] Processing PMID 41390775
+2026-03-08 14:33:58,290 - INFO -   ✓ PMC full-text available: PMC12738572
+2026-03-08 14:33:58,696 - INFO - [58/100] Processing PMID 41373767
+2026-03-08 14:34:00,600 - INFO -   ✓ PMC full-text available: PMC12692639
+2026-03-08 14:34:01,005 - INFO - [59/100] Processing PMID 41371383
+2026-03-08 14:34:02,696 - INFO -   ~ Abstract only (no PMC link)
+2026-03-08 14:34:03,098 - INFO - [60/100] Processing PMID 41367207
+2026-03-08 14:34:04,332 - INFO -   ~ Abstract only (no PMC link)
+2026-03-08 14:34:04,736 - INFO - [61/100] Processing PMID 41361705
+2026-03-08 14:34:06,900 - INFO -   ~ Abstract only (no PMC link)
+2026-03-08 14:34:07,306 - INFO - [62/100] Processing PMID 41356369
+2026-03-08 14:34:08,985 - INFO -   ✓ PMC full-text available: PMC12676390
+2026-03-08 14:34:09,389 - INFO - [63/100] Processing PMID 41354321
+2026-03-08 14:34:11,234 - INFO -   ✓ PMC full-text available: PMC12828830
+2026-03-08 14:34:11,638 - INFO - [64/100] Processing PMID 41346780
+2026-03-08 14:34:13,581 - INFO -   ✓ PMC full-text available: PMC12672545
+2026-03-08 14:34:13,986 - INFO - [65/100] Processing PMID 41334620
+2026-03-08 14:34:15,376 - INFO -   ~ Abstract only (no PMC link)
+2026-03-08 14:34:15,780 - INFO - [66/100] Processing PMID 41334612
+2026-03-08 14:34:17,649 - INFO -   ~ Abstract only (no PMC link)
+2026-03-08 14:34:18,054 - INFO - [67/100] Processing PMID 41324729
+2026-03-08 14:34:20,722 - INFO -   ✓ PMC full-text available: PMC12669358
+2026-03-08 14:34:21,126 - INFO - [68/100] Processing PMID 41323222
+2026-03-08 14:34:22,882 - INFO -   ✓ PMC full-text available: PMC12657439
+2026-03-08 14:34:23,288 - INFO - [69/100] Processing PMID 41320758
+2026-03-08 14:34:25,144 - INFO -   ~ Abstract only (no PMC link)
+2026-03-08 14:34:25,550 - INFO - [70/100] Processing PMID 41316345
+2026-03-08 14:34:27,093 - INFO -   ✓ PMC full-text available: PMC12661803
+2026-03-08 14:34:27,500 - INFO - [71/100] Processing PMID 41316227
+2026-03-08 14:34:29,464 - INFO -   ✓ PMC full-text available: PMC12752232
+2026-03-08 14:34:29,870 - INFO - [72/100] Processing PMID 41315429
+2026-03-08 14:34:32,169 - INFO -   ✓ PMC full-text available: PMC12663206
+2026-03-08 14:34:32,574 - INFO - [73/100] Processing PMID 41309400
+2026-03-08 14:34:34,124 - INFO -   ~ Abstract only (no PMC link)
+2026-03-08 14:34:34,524 - INFO - [74/100] Processing PMID 41302488
+2026-03-08 14:34:36,436 - INFO -   ✓ PMC full-text available: PMC12655267
+2026-03-08 14:34:36,839 - INFO - [75/100] Processing PMID 41301903
+2026-03-08 14:34:38,610 - INFO -   ✓ PMC full-text available: PMC12649921
+2026-03-08 14:34:39,016 - INFO - [76/100] Processing PMID 41298978
+2026-03-08 14:34:41,116 - INFO -   ~ Abstract only (no PMC link)
+2026-03-08 14:34:41,521 - INFO - [77/100] Processing PMID 41284151
+2026-03-08 14:34:43,241 - INFO -   ✓ PMC full-text available: PMC12644372
+2026-03-08 14:34:43,647 - INFO - [78/100] Processing PMID 41256487
+2026-03-08 14:34:45,519 - INFO -   ✓ PMC full-text available: PMC12622019
+2026-03-08 14:34:45,925 - INFO - [79/100] Processing PMID 41254231
+2026-03-08 14:34:48,190 - INFO -   ✓ PMC full-text available: PMC12627653
+2026-03-08 14:34:48,596 - INFO - [80/100] Processing PMID 41238316
+2026-03-08 14:34:50,382 - INFO -   ~ Abstract only (no PMC link)
+2026-03-08 14:34:50,787 - INFO - [81/100] Processing PMID 41230915
+2026-03-08 14:34:52,554 - INFO -   ~ Abstract only (no PMC link)
+2026-03-08 14:34:52,959 - INFO - [82/100] Processing PMID 41226792
+2026-03-08 14:34:55,281 - INFO -   ✓ PMC full-text available: PMC12611073
+2026-03-08 14:34:55,686 - INFO - [83/100] Processing PMID 41226780
+2026-03-08 14:34:57,902 - INFO -   ✓ PMC full-text available: PMC12608514
+2026-03-08 14:34:58,308 - INFO - [84/100] Processing PMID 41221779
+2026-03-08 14:35:00,064 - INFO -   ~ Abstract only (no PMC link)
+2026-03-08 14:35:00,469 - INFO - [85/100] Processing PMID 41189023
+2026-03-08 14:35:01,926 - INFO -   ✓ PMC full-text available: PMC12584206
+2026-03-08 14:35:02,332 - INFO - [86/100] Processing PMID 41184000
+2026-03-08 14:35:03,895 - INFO -   ~ Abstract only (no PMC link)
+2026-03-08 14:35:04,298 - INFO - [87/100] Processing PMID 41173226
+2026-03-08 14:35:06,018 - INFO -   ~ Abstract only (no PMC link)
+2026-03-08 14:35:06,422 - INFO - [88/100] Processing PMID 41168073
+2026-03-08 14:35:08,358 - INFO -   ✓ PMC full-text available: PMC12790593
+2026-03-08 14:35:08,764 - INFO - [89/100] Processing PMID 41166007
+2026-03-08 14:35:10,571 - INFO -   ✓ PMC full-text available: PMC12575455
+2026-03-08 14:35:10,975 - INFO - [90/100] Processing PMID 41163272
+2026-03-08 14:35:12,659 - INFO -   ~ Abstract only (no PMC link)
+2026-03-08 14:35:13,064 - INFO - [91/100] Processing PMID 41152463
+2026-03-08 14:35:15,037 - INFO -   ✓ PMC full-text available: PMC12569090
+2026-03-08 14:35:15,442 - INFO - [92/100] Processing PMID 41143877
+2026-03-08 14:35:17,042 - INFO -   ~ Abstract only (no PMC link)
+2026-03-08 14:35:17,448 - INFO - [93/100] Processing PMID 41138763
+2026-03-08 14:35:19,121 - INFO -   ~ Abstract only (no PMC link)
+2026-03-08 14:35:19,524 - INFO - [94/100] Processing PMID 41137866
+2026-03-08 14:35:21,717 - INFO -   ~ Abstract only (no PMC link)
+2026-03-08 14:35:22,118 - INFO - [95/100] Processing PMID 41130067
+2026-03-08 14:35:23,800 - INFO -   ~ Abstract only (no PMC link)
+2026-03-08 14:35:24,205 - INFO - [96/100] Processing PMID 41126410
+2026-03-08 14:35:25,844 - INFO -   ~ Abstract only (no PMC link)
+2026-03-08 14:35:26,247 - INFO - [97/100] Processing PMID 41125573
+2026-03-08 14:35:28,066 - INFO -   ✓ PMC full-text available: PMC12546768
+2026-03-08 14:35:28,471 - INFO - [98/100] Processing PMID 41103725
+2026-03-08 14:35:30,162 - INFO -   ✓ PMC full-text available: PMC12521202
+2026-03-08 14:35:30,567 - INFO - [99/100] Processing PMID 41101605
+2026-03-08 14:35:32,008 - INFO -   ~ Abstract only (no PMC link)
+2026-03-08 14:35:32,413 - INFO - [100/100] Processing PMID 41099888
+2026-03-08 14:35:34,289 - INFO -   ✓ PMC full-text available: PMC12532642
+2026-03-08 14:35:34,700 - INFO - Done. 100 papers saved → 54 have PMC full-text, 100 have abstracts. Index at data/metadata_index.json
+2026-03-08 14:36:48,348 - INFO - [1/100] Linking cortical morphology and neurophysiological dynamics 
+2026-03-08 14:36:48,349 - INFO -   → Trying Unpaywall...
+2026-03-08 14:36:48,928 - WARNING - Unpaywall failed for 10.1038/s41598-026-41274-z: 422 Client Error: Unprocessable Entity for url: https://api.unpaywall.org/v2/10.1038/s41598-026-41274-z
+2026-03-08 14:36:48,931 - INFO -   ~ No open-access PDF on Unpaywall
+2026-03-08 14:36:50,436 - INFO -   → Trying Semantic Scholar...
+2026-03-08 14:36:52,226 - INFO -   ~ Falling back to abstract only
+2026-03-08 14:36:52,227 - INFO - [2/100] [Selective neurodegeneration in patients with parkinson's di
+2026-03-08 14:36:52,227 - INFO -   → Trying Unpaywall...
+2026-03-08 14:36:52,678 - WARNING - Unpaywall failed for 10.17116/jnevro202612602123: 422 Client Error: Unprocessable Entity for url: https://api.unpaywall.org/v2/10.17116/jnevro202612602123
+2026-03-08 14:36:52,680 - INFO -   ~ No open-access PDF on Unpaywall
+2026-03-08 14:36:54,185 - INFO -   → Trying Semantic Scholar...
+2026-03-08 14:36:54,753 - INFO -   ~ Semantic Scholar: abstract only
+2026-03-08 14:36:56,258 - INFO -   ~ Falling back to abstract only
+2026-03-08 14:36:56,259 - INFO - [3/100] Neurofilament light chain protein exposure contributes to pr
+2026-03-08 14:36:56,259 - INFO -   → Trying Unpaywall...
+2026-03-08 14:36:56,736 - WARNING - Unpaywall failed for 10.1016/j.ijbiomac.2026.151150: 422 Client Error: Unprocessable Entity for url: https://api.unpaywall.org/v2/10.1016/j.ijbiomac.2026.151150
+2026-03-08 14:36:56,738 - INFO -   ~ No open-access PDF on Unpaywall
+2026-03-08 14:36:58,243 - INFO -   → Trying Semantic Scholar...
+2026-03-08 14:36:58,779 - INFO -   ~ Semantic Scholar: abstract only
+2026-03-08 14:37:00,280 - INFO -   ~ Falling back to abstract only
+2026-03-08 14:37:00,280 - INFO - [4/100] Deep learning-based MRI segmentation for substantia nigra in
+2026-03-08 14:37:00,280 - INFO -   → Trying Unpaywall...
+2026-03-08 14:37:00,724 - WARNING - Unpaywall failed for 10.1016/j.parkreldis.2026.108260: 422 Client Error: Unprocessable Entity for url: https://api.unpaywall.org/v2/10.1016/j.parkreldis.2026.108260
+2026-03-08 14:37:00,727 - INFO -   ~ No open-access PDF on Unpaywall
+2026-03-08 14:37:02,232 - INFO -   → Trying Semantic Scholar...
+2026-03-08 14:37:02,779 - INFO -   ~ Semantic Scholar: abstract only
+2026-03-08 14:37:04,280 - INFO -   ~ Falling back to abstract only
+2026-03-08 14:37:04,281 - INFO - [5/100] Exosomes and microRNAs in the treatment of in vivo and in vi
+2026-03-08 14:37:04,281 - INFO -   → Trying Unpaywall...
+2026-03-08 14:37:04,742 - WARNING - Unpaywall failed for 10.4103/NRR.NRR-D-25-01867: 422 Client Error: Unprocessable Entity for url: https://api.unpaywall.org/v2/10.4103/NRR.NRR-D-25-01867
+2026-03-08 14:37:04,746 - INFO -   ~ No open-access PDF on Unpaywall
+2026-03-08 14:37:06,247 - INFO -   → Trying Semantic Scholar...
+2026-03-08 14:37:06,837 - INFO -   ~ Semantic Scholar: abstract only
+2026-03-08 14:37:08,342 - INFO -   ~ Falling back to abstract only
+2026-03-08 14:37:08,343 - INFO - [6/100] Sex-specific metabolic and microbial remodeling in a rotenon
+2026-03-08 14:37:08,343 - INFO -   → Trying Unpaywall...
+2026-03-08 14:37:08,785 - WARNING - Unpaywall failed for 10.1186/s13293-026-00865-1: 422 Client Error: Unprocessable Entity for url: https://api.unpaywall.org/v2/10.1186/s13293-026-00865-1
+2026-03-08 14:37:08,787 - INFO -   ~ No open-access PDF on Unpaywall
+2026-03-08 14:37:10,292 - INFO -   → Trying Semantic Scholar...
+2026-03-08 14:37:12,340 - INFO -   ~ Falling back to abstract only
+2026-03-08 14:37:12,340 - INFO - [7/100] Early Diagnosis of Parkinson's Disease Through Lite HGWA-Net
+2026-03-08 14:37:12,340 - INFO -   → Trying PMC (PMC12939763)...
+2026-03-08 14:37:13,429 - INFO -   ✓ PMC success (84201 chars)
+2026-03-08 14:37:14,935 - INFO - [8/100] Computational Modeling of Parkinson's Disease Across Scales:
+2026-03-08 14:37:14,935 - INFO -   → Trying PMC (PMC12939130)...
+2026-03-08 14:37:16,029 - INFO -   ✓ PMC success (173739 chars)
+2026-03-08 14:37:17,535 - INFO - [9/100] Quantitative measures of total and phosphorylated alpha-synu
+2026-03-08 14:37:17,535 - INFO -   → Trying Unpaywall...
+2026-03-08 14:37:17,988 - WARNING - Unpaywall failed for 10.1177/1877718X261420669: 422 Client Error: Unprocessable Entity for url: https://api.unpaywall.org/v2/10.1177/1877718X261420669
+2026-03-08 14:37:17,991 - INFO -   ~ No open-access PDF on Unpaywall
+2026-03-08 14:37:19,495 - INFO -   → Trying Semantic Scholar...
+2026-03-08 14:37:19,764 - INFO -   ~ Semantic Scholar: abstract only
+2026-03-08 14:37:21,267 - INFO -   ~ Falling back to abstract only
+2026-03-08 14:37:21,267 - INFO - [10/100] Functional MRI in Multiple System Atrophy: A Promising Bioma
+2026-03-08 14:37:21,267 - INFO -   → Trying PMC (PMC12927845)...
+2026-03-08 14:37:22,083 - INFO -   ✓ PMC success (101990 chars)
+2026-03-08 14:37:23,589 - INFO - [11/100] Volumetric signatures of basal ganglia-thalamo-cortical and 
+2026-03-08 14:37:23,589 - INFO -   → Trying PMC (PMC12926348)...
+2026-03-08 14:37:24,724 - INFO -   ✓ PMC success (178084 chars)
+2026-03-08 14:37:26,229 - INFO - [12/100] How cytochrome P450 enzymes in humans are involved in Parkin
+2026-03-08 14:37:26,229 - INFO -   → Trying Unpaywall...
+2026-03-08 14:37:26,711 - WARNING - Unpaywall failed for 10.1016/j.neuroscience.2026.02.036: 422 Client Error: Unprocessable Entity for url: https://api.unpaywall.org/v2/10.1016/j.neuroscience.2026.02.036
+2026-03-08 14:37:26,713 - INFO -   ~ No open-access PDF on Unpaywall
+2026-03-08 14:37:28,216 - INFO -   → Trying Semantic Scholar...
+2026-03-08 14:37:28,794 - INFO -   ~ Semantic Scholar: abstract only
+2026-03-08 14:37:30,296 - INFO -   ~ Falling back to abstract only
+2026-03-08 14:37:30,296 - INFO - [13/100] A quantitative DOPA decarboxylase biomarker for diagnosis in
+2026-03-08 14:37:30,296 - INFO -   → Trying Unpaywall...
+2026-03-08 14:37:30,781 - WARNING - Unpaywall failed for 10.1038/s41591-026-04212-0: 422 Client Error: Unprocessable Entity for url: https://api.unpaywall.org/v2/10.1038/s41591-026-04212-0
+2026-03-08 14:37:30,784 - INFO -   ~ No open-access PDF on Unpaywall
+2026-03-08 14:37:32,289 - INFO -   → Trying Semantic Scholar...
+2026-03-08 14:37:34,329 - INFO -   ~ Falling back to abstract only
+2026-03-08 14:37:34,330 - INFO - [14/100] Model-Based Design of Subthalamic Nucleus Neurons using Hybr
+2026-03-08 14:37:34,330 - INFO -   → Trying Unpaywall...
+2026-03-08 14:37:34,822 - WARNING - Unpaywall failed for 10.1152/jn.00424.2025: 422 Client Error: Unprocessable Entity for url: https://api.unpaywall.org/v2/10.1152/jn.00424.2025
+2026-03-08 14:37:34,825 - INFO -   ~ No open-access PDF on Unpaywall
+2026-03-08 14:37:36,330 - INFO -   → Trying Semantic Scholar...
+2026-03-08 14:37:36,888 - INFO -   ~ Semantic Scholar: abstract only
+2026-03-08 14:37:38,391 - INFO -   ~ Falling back to abstract only
+2026-03-08 14:37:38,392 - INFO - [15/100] Neuromelanin imaging outperforms free water imaging in diagn
+2026-03-08 14:37:38,392 - INFO -   → Trying Unpaywall...
+2026-03-08 14:37:38,863 - WARNING - Unpaywall failed for 10.1038/s41531-026-01286-y: 422 Client Error: Unprocessable Entity for url: https://api.unpaywall.org/v2/10.1038/s41531-026-01286-y
+2026-03-08 14:37:38,865 - INFO -   ~ No open-access PDF on Unpaywall
+2026-03-08 14:37:40,370 - INFO -   → Trying Semantic Scholar...
+2026-03-08 14:37:42,105 - INFO -   ~ Falling back to abstract only
+2026-03-08 14:37:42,105 - INFO - [16/100] At-home movement state classification using totally implanta
+2026-03-08 14:37:42,105 - INFO -   → Trying PMC (PMC12904197)...
+2026-03-08 14:37:43,223 - INFO -   ✓ PMC success (152253 chars)
+2026-03-08 14:37:44,729 - INFO - [17/100] Speech Impairment in Early Parkinson's Disease Is Associated
+2026-03-08 14:37:44,729 - INFO -   → Trying PMC (PMC12898416)...
+2026-03-08 14:37:45,878 - INFO -   ✓ PMC success (120327 chars)
+2026-03-08 14:37:47,384 - INFO - [18/100] Copper, Ceruloplasmin, Zinc, and Manganese Levels in Brain a
+2026-03-08 14:37:47,384 - INFO -   → Trying PMC (PMC12896428)...
+2026-03-08 14:37:48,842 - INFO -   ✓ PMC success (93856 chars)
+2026-03-08 14:37:50,347 - INFO - [19/100] Resting-state motor network connectivity as a biomarker of L
+2026-03-08 14:37:50,348 - INFO -   → Trying Unpaywall...
+2026-03-08 14:37:50,825 - WARNING - Unpaywall failed for 10.1007/s11682-026-01066-5: 422 Client Error: Unprocessable Entity for url: https://api.unpaywall.org/v2/10.1007/s11682-026-01066-5
+2026-03-08 14:37:50,828 - INFO -   ~ No open-access PDF on Unpaywall
+2026-03-08 14:37:52,333 - INFO -   → Trying Semantic Scholar...
+2026-03-08 14:37:54,402 - INFO -   ~ Falling back to abstract only
+2026-03-08 14:37:54,403 - INFO - [20/100] Free water in the external globus pallidus predicts mild cog
+2026-03-08 14:37:54,403 - INFO -   → Trying Unpaywall...
+2026-03-08 14:37:54,873 - WARNING - Unpaywall failed for 10.1038/s41531-026-01291-1: 422 Client Error: Unprocessable Entity for url: https://api.unpaywall.org/v2/10.1038/s41531-026-01291-1
+2026-03-08 14:37:54,876 - INFO -   ~ No open-access PDF on Unpaywall
+2026-03-08 14:37:56,381 - INFO -   → Trying Semantic Scholar...
+2026-03-08 14:37:58,512 - INFO -   ~ Falling back to abstract only
+2026-03-08 14:37:58,512 - INFO - [21/100] Cycloastragenol Derivatives Improve Tyrosine Metabolism, Reg
+2026-03-08 14:37:58,513 - INFO -   → Trying PMC (PMC12892403)...
+2026-03-08 14:37:59,493 - INFO -   ✓ PMC success (143760 chars)
+2026-03-08 14:38:00,999 - INFO - [22/100] Eye tracking as a digital biomarker in neurodegenerative dis
+2026-03-08 14:38:00,999 - INFO -   → Trying PMC (PMC12891262)...
+2026-03-08 14:38:02,067 - INFO -   ✓ PMC success (125205 chars)
+2026-03-08 14:38:03,573 - INFO - [23/100] Smooth pursuit and memory saccades are impaired in early-sta
+2026-03-08 14:38:03,573 - INFO -   → Trying PMC (PMC12873708)...
+2026-03-08 14:38:04,379 - INFO -   ✓ PMC success (68929 chars)
+2026-03-08 14:38:05,883 - INFO - [24/100] Cognitive impairment in SCA3: A multi-center cohort study wi
+2026-03-08 14:38:05,884 - INFO -   → Trying Unpaywall...
+2026-03-08 14:38:06,451 - WARNING - Unpaywall failed for 10.1016/j.nbd.2026.107301: 422 Client Error: Unprocessable Entity for url: https://api.unpaywall.org/v2/10.1016/j.nbd.2026.107301
+2026-03-08 14:38:06,453 - INFO -   ~ No open-access PDF on Unpaywall
+2026-03-08 14:38:07,954 - INFO -   → Trying Semantic Scholar...
+2026-03-08 14:38:08,311 - INFO -   ~ Semantic Scholar: abstract only
+2026-03-08 14:38:09,817 - INFO -   ~ Falling back to abstract only
+2026-03-08 14:38:09,817 - INFO - [25/100] A Canonical Neural Map and Its Deviations Shape Parkinson's 
+2026-03-08 14:38:09,817 - INFO -   → Trying PMC (PMC12869688)...
+2026-03-08 14:38:10,911 - INFO -   ✓ PMC success (157853 chars)
+2026-03-08 14:38:12,416 - INFO - [26/100] Leukocytic Dopamine D2 Receptors as Biomarkers for Brain Dop
+2026-03-08 14:38:12,417 - INFO -   → Trying Unpaywall...
+2026-03-08 14:38:12,875 - WARNING - Unpaywall failed for 10.1016/j.ajpath.2026.01.003: 422 Client Error: Unprocessable Entity for url: https://api.unpaywall.org/v2/10.1016/j.ajpath.2026.01.003
+2026-03-08 14:38:12,878 - INFO -   ~ No open-access PDF on Unpaywall
+2026-03-08 14:38:14,380 - INFO -   → Trying Semantic Scholar...
+2026-03-08 14:38:14,942 - INFO -   ~ Semantic Scholar: abstract only
+2026-03-08 14:38:16,448 - INFO -   ~ Falling back to abstract only
+2026-03-08 14:38:16,448 - INFO - [27/100] Photonic biosensing and optogenetic technologies: Emerging t
+2026-03-08 14:38:16,448 - INFO -   → Trying Unpaywall...
+2026-03-08 14:38:16,917 - WARNING - Unpaywall failed for 10.4103/NRR.NRR-D-25-00711: 422 Client Error: Unprocessable Entity for url: https://api.unpaywall.org/v2/10.4103/NRR.NRR-D-25-00711
+2026-03-08 14:38:16,920 - INFO -   ~ No open-access PDF on Unpaywall
+2026-03-08 14:38:18,421 - INFO -   → Trying Semantic Scholar...
+2026-03-08 14:38:18,966 - INFO -   ~ Semantic Scholar: abstract only
+2026-03-08 14:38:20,472 - INFO -   ~ Falling back to abstract only
+2026-03-08 14:38:20,472 - INFO - [28/100] Decoding the impact of visual states on adaptive deep brain 
+2026-03-08 14:38:20,472 - INFO -   → Trying PMC (PMC12963478)...
+2026-03-08 14:38:21,435 - INFO -   ✓ PMC success (118659 chars)
+2026-03-08 14:38:22,940 - INFO - [29/100] Neuromelanin-sensitive MRI as a biomarker for individualized
+2026-03-08 14:38:22,940 - INFO -   → Trying Unpaywall...
+2026-03-08 14:38:23,446 - WARNING - Unpaywall failed for 10.1016/j.parkreldis.2026.108205: 422 Client Error: Unprocessable Entity for url: https://api.unpaywall.org/v2/10.1016/j.parkreldis.2026.108205
+2026-03-08 14:38:23,448 - INFO -   ~ No open-access PDF on Unpaywall
+2026-03-08 14:38:24,953 - INFO -   → Trying Semantic Scholar...
+2026-03-08 14:38:25,495 - INFO -   ~ Semantic Scholar: abstract only
+2026-03-08 14:38:27,001 - INFO -   ~ Falling back to abstract only
+2026-03-08 14:38:27,001 - INFO - [30/100] Roseburia intestinalis Offers Vagus-Dependent Neuroprotectio
+2026-03-08 14:38:27,001 - INFO -   → Trying Unpaywall...
+2026-03-08 14:38:27,468 - WARNING - Unpaywall failed for 10.1007/s12035-026-05707-0: 422 Client Error: Unprocessable Entity for url: https://api.unpaywall.org/v2/10.1007/s12035-026-05707-0
+2026-03-08 14:38:27,470 - INFO -   ~ No open-access PDF on Unpaywall
+2026-03-08 14:38:28,971 - INFO -   → Trying Semantic Scholar...
+2026-03-08 14:38:31,021 - INFO -   ~ Falling back to abstract only
+2026-03-08 14:38:31,022 - INFO - [31/100] Discordance of Dopaminergic Dysfunction and Subcortical Atro
+2026-03-08 14:38:31,022 - INFO -   → Trying Unpaywall...
+2026-03-08 14:38:31,491 - WARNING - Unpaywall failed for 10.1002/mds.70186: 422 Client Error: Unprocessable Entity for url: https://api.unpaywall.org/v2/10.1002/mds.70186
+2026-03-08 14:38:31,493 - INFO -   ~ No open-access PDF on Unpaywall
+2026-03-08 14:38:32,996 - INFO -   → Trying Semantic Scholar...
+2026-03-08 14:38:33,244 - INFO -   ~ Semantic Scholar: abstract only
+2026-03-08 14:38:34,749 - INFO -   ~ Falling back to abstract only
+2026-03-08 14:38:34,750 - INFO - [32/100] Clinical and Imaging Characteristics of Parkinson's Disease 
+2026-03-08 14:38:34,750 - INFO -   → Trying Unpaywall...
+2026-03-08 14:38:35,200 - WARNING - Unpaywall failed for 10.1002/mds.70197: 422 Client Error: Unprocessable Entity for url: https://api.unpaywall.org/v2/10.1002/mds.70197
+2026-03-08 14:38:35,202 - INFO -   ~ No open-access PDF on Unpaywall
+2026-03-08 14:38:36,704 - INFO -   → Trying Semantic Scholar...
+2026-03-08 14:38:41,120 - INFO -   ~ Falling back to abstract only
+2026-03-08 14:38:41,122 - INFO - [33/100] Deep Brain Stimulation as a Rehabilitation Amplifier: A Prec
+2026-03-08 14:38:41,122 - INFO -   → Trying PMC (PMC12842032)...
+2026-03-08 14:38:42,117 - INFO -   ✓ PMC success (83204 chars)
+2026-03-08 14:38:43,622 - INFO - [34/100] Melanin and Neuromelanin in Humans: Insights Across Health, 
+2026-03-08 14:38:43,623 - INFO -   → Trying PMC (PMC12838655)...
+2026-03-08 14:38:44,815 - INFO -   ✓ PMC success (230743 chars)
+2026-03-08 14:38:46,320 - INFO - [35/100] Pallidal beta power is associated with depression in Parkins
+2026-03-08 14:38:46,320 - INFO -   → Trying PMC (PMC12909943)...
+2026-03-08 14:38:47,369 - INFO -   ✓ PMC success (119838 chars)
+2026-03-08 14:38:48,874 - INFO - [36/100] Hypergraph-Based Multimodal MRI Reveals Thalamus-Mediated Ne
+2026-03-08 14:38:48,875 - INFO -   → Trying Unpaywall...
+2026-03-08 14:38:49,332 - WARNING - Unpaywall failed for 10.1016/j.acra.2025.12.025: 422 Client Error: Unprocessable Entity for url: https://api.unpaywall.org/v2/10.1016/j.acra.2025.12.025
+2026-03-08 14:38:49,335 - INFO -   ~ No open-access PDF on Unpaywall
+2026-03-08 14:38:50,837 - INFO -   → Trying Semantic Scholar...
+2026-03-08 14:38:51,394 - INFO -   ~ Semantic Scholar: abstract only
+2026-03-08 14:38:52,899 - INFO -   ~ Falling back to abstract only
+2026-03-08 14:38:52,900 - INFO - [37/100] MRI Assessment of Nigrosome in Parkinson's Disease: Is it Cu
+2026-03-08 14:38:52,900 - INFO -   → Trying Unpaywall...
+2026-03-08 14:38:53,362 - WARNING - Unpaywall failed for 10.1002/mdc3.70530: 422 Client Error: Unprocessable Entity for url: https://api.unpaywall.org/v2/10.1002/mdc3.70530
+2026-03-08 14:38:53,365 - INFO -   ~ No open-access PDF on Unpaywall
+2026-03-08 14:38:54,870 - INFO -   → Trying Semantic Scholar...
+2026-03-08 14:38:55,117 - INFO -   ~ Semantic Scholar: abstract only
+2026-03-08 14:38:56,623 - INFO -   ~ Falling back to abstract only
+2026-03-08 14:38:56,623 - INFO - [38/100] Elevated cerebral oxygen extraction fraction in Parkinson's 
+2026-03-08 14:38:56,623 - INFO -   → Trying PMC (PMC12891709)...
+2026-03-08 14:38:57,530 - INFO -   ✓ PMC success (73788 chars)
+2026-03-08 14:38:59,036 - INFO - [39/100] Low-frequency activity in the subthalamic nucleus informs ab
+2026-03-08 14:38:59,036 - INFO -   → Trying PMC (PMC12820131)...
+2026-03-08 14:38:59,929 - INFO -   ✓ PMC success (115517 chars)
+2026-03-08 14:39:01,435 - INFO - [40/100] UQCRC1 deficiency impairs mitophagy via PINK1-dependent mech
+2026-03-08 14:39:01,436 - INFO -   → Trying PMC (PMC12909848)...
+2026-03-08 14:39:02,408 - INFO -   ✓ PMC success (110783 chars)
+2026-03-08 14:39:03,914 - INFO - [41/100] Study of blood linear RNA nominates CD55 and DLD as early-st
+2026-03-08 14:39:03,914 - INFO -   → Trying Unpaywall...
+2026-03-08 14:39:04,407 - WARNING - Unpaywall failed for 10.1093/brain/awag014: 422 Client Error: Unprocessable Entity for url: https://api.unpaywall.org/v2/10.1093/brain/awag014
+2026-03-08 14:39:04,409 - INFO -   ~ No open-access PDF on Unpaywall
+2026-03-08 14:39:05,915 - INFO -   → Trying Semantic Scholar...
+2026-03-08 14:39:06,458 - INFO -   ~ Semantic Scholar: abstract only
+2026-03-08 14:39:07,964 - INFO -   ~ Falling back to abstract only
+2026-03-08 14:39:07,964 - INFO - [42/100] Preclinical Catecholaminergic Biomarkers of Central Lewy Bod
+2026-03-08 14:39:07,964 - INFO -   → Trying PMC (PMC12802056)...
+2026-03-08 14:39:08,958 - INFO -   ✓ PMC success (49156 chars)
+2026-03-08 14:39:10,463 - INFO - [43/100] Mitophagy-NLRP3 Inflammasome Crosstalk in Parkinson's Diseas
+2026-03-08 14:39:10,463 - INFO -   → Trying PMC (PMC12786970)...
+2026-03-08 14:39:12,740 - INFO -   ✓ PMC success (113343 chars)
+2026-03-08 14:39:14,245 - INFO - [44/100] RRx-001 ameliorates astrocyte pyroptosis by regulating LCN2-
+2026-03-08 14:39:14,246 - INFO -   → Trying PMC (PMC12819914)...
+2026-03-08 14:39:15,284 - INFO -   ✓ PMC success (147386 chars)
+2026-03-08 14:39:16,789 - INFO - [45/100] Neural and biomarker correlates of the Parkinson's Disease-C
+2026-03-08 14:39:16,790 - INFO -   → Trying PMC (PMC12765053)...
+2026-03-08 14:39:17,645 - INFO -   ✓ PMC success (100575 chars)
+2026-03-08 14:39:19,151 - INFO - [46/100] Parkinson's disease subtypes and their relationship to demen
+2026-03-08 14:39:19,151 - INFO -   → Trying Unpaywall...
+2026-03-08 14:39:19,641 - WARNING - Unpaywall failed for 10.1007/s00702-025-03097-6: 422 Client Error: Unprocessable Entity for url: https://api.unpaywall.org/v2/10.1007/s00702-025-03097-6
+2026-03-08 14:39:19,643 - INFO -   ~ No open-access PDF on Unpaywall
+2026-03-08 14:39:21,149 - INFO -   → Trying Semantic Scholar...
+2026-03-08 14:39:23,227 - INFO -   ~ Falling back to abstract only
+2026-03-08 14:39:23,228 - INFO - [47/100] The application of fecal microbiota transplantation in Parki
+2026-03-08 14:39:23,228 - INFO -   → Trying PMC (PMC12753937)...
+2026-03-08 14:39:24,443 - INFO -   ✓ PMC success (316684 chars)
+2026-03-08 14:39:25,948 - INFO - [48/100] The diagnostic value of transcranial sonography in Swedish p
+2026-03-08 14:39:25,949 - INFO -   → Trying PMC (PMC12754217)...
+2026-03-08 14:39:26,754 - INFO -   ✓ PMC success (60489 chars)
+2026-03-08 14:39:28,259 - INFO - [49/100] Integration of Volumetric, Iron, and Neuromelanin Magnetic R
+2026-03-08 14:39:28,260 - INFO -   → Trying Unpaywall...
+2026-03-08 14:39:28,753 - WARNING - Unpaywall failed for 10.1002/mds.70153: 422 Client Error: Unprocessable Entity for url: https://api.unpaywall.org/v2/10.1002/mds.70153
+2026-03-08 14:39:28,756 - INFO -   ~ No open-access PDF on Unpaywall
+2026-03-08 14:39:30,257 - INFO -   → Trying Semantic Scholar...
+2026-03-08 14:39:30,858 - INFO -   ~ Semantic Scholar: abstract only
+2026-03-08 14:39:32,364 - INFO -   ~ Falling back to abstract only
+2026-03-08 14:39:32,364 - INFO - [50/100] Short-Chain Fatty Acids Enhance EAAT2-Mediated Glutamate Cle
+2026-03-08 14:39:32,364 - INFO -   → Trying PMC (PMC12729909)...
+2026-03-08 14:39:33,347 - INFO -   ✓ PMC success (80083 chars)
+2026-03-08 14:39:34,852 - INFO - [51/100] Targeting Microglial CD49a Inhibits Neuroinflammation and De
+2026-03-08 14:39:34,852 - INFO -   → Trying PMC (PMC12955899)...
+2026-03-08 14:39:36,080 - INFO -   ✓ PMC success (230168 chars)
+2026-03-08 14:39:37,585 - INFO - [52/100] Alpha-Synuclein Neurobiology in Parkinson's Disease: A Compr
+2026-03-08 14:39:37,586 - INFO -   → Trying PMC (PMC12731173)...
+2026-03-08 14:39:39,267 - INFO -   ✓ PMC success (227786 chars)
+2026-03-08 14:39:40,773 - INFO - [53/100] Brain atrophy and cholinergic denervation in progressive sup
+2026-03-08 14:39:40,773 - INFO -   → Trying PMC (PMC12712803)...
+2026-03-08 14:39:41,762 - INFO -   ✓ PMC success (79265 chars)
+2026-03-08 14:39:43,268 - INFO - [54/100] Abnormal subthalamic nucleus functional connectivity and mac
+2026-03-08 14:39:43,268 - INFO -   → Trying PMC (PMC12708609)...
+2026-03-08 14:39:44,123 - INFO -   ✓ PMC success (54255 chars)
+2026-03-08 14:39:45,629 - INFO - [55/100] Alternate-day fasting ameliorates α-synuclein pathology and 
+2026-03-08 14:39:45,629 - INFO -   → Trying PMC (PMC12711994)...
+2026-03-08 14:39:47,544 - INFO -   ✓ PMC success (171007 chars)
+2026-03-08 14:39:49,049 - INFO - [56/100] Cortico-basal oscillations index naturalistic movements duri
+2026-03-08 14:39:49,050 - INFO -   → Trying Unpaywall...
+2026-03-08 14:39:49,505 - WARNING - Unpaywall failed for 10.1093/brain/awaf466: 422 Client Error: Unprocessable Entity for url: https://api.unpaywall.org/v2/10.1093/brain/awaf466
+2026-03-08 14:39:49,507 - INFO -   ~ No open-access PDF on Unpaywall
+2026-03-08 14:39:51,013 - INFO -   → Trying Semantic Scholar...
+2026-03-08 14:39:51,588 - INFO -   ~ Semantic Scholar: abstract only
+2026-03-08 14:39:53,088 - INFO -   ~ Falling back to abstract only
+2026-03-08 14:39:53,089 - INFO - [57/100] Optogenetic-induced α-synuclein accumulation reveals early s
+2026-03-08 14:39:53,089 - INFO -   → Trying PMC (PMC12738572)...
+2026-03-08 14:39:54,232 - INFO -   ✓ PMC success (224200 chars)
+2026-03-08 14:39:55,737 - INFO - [58/100] Cell-Free DNA and Mitochondria in Parkinson's Disease.
+2026-03-08 14:39:55,738 - INFO -   → Trying PMC (PMC12692639)...
+2026-03-08 14:39:56,905 - INFO -   ✓ PMC success (125898 chars)
+2026-03-08 14:39:58,410 - INFO - [59/100] OCT-based retinal biomarkers forecast central nervous system
+2026-03-08 14:39:58,411 - INFO -   → Trying Unpaywall...
+2026-03-08 14:39:58,870 - WARNING - Unpaywall failed for 10.1016/j.pdpdt.2025.105310: 422 Client Error: Unprocessable Entity for url: https://api.unpaywall.org/v2/10.1016/j.pdpdt.2025.105310
+2026-03-08 14:39:58,873 - INFO -   ~ No open-access PDF on Unpaywall
+2026-03-08 14:40:00,374 - INFO -   → Trying Semantic Scholar...
+2026-03-08 14:40:00,659 - INFO -   ~ Semantic Scholar: abstract only
+2026-03-08 14:40:02,161 - INFO -   ~ Falling back to abstract only
+2026-03-08 14:40:02,161 - INFO - [60/100] Quantification of Neuromelanin as a Neuroimaging Biomarker f
+2026-03-08 14:40:02,161 - INFO -   → Trying Unpaywall...
+2026-03-08 14:40:02,668 - WARNING - Unpaywall failed for 10.1017/cjn.2025.10490: 422 Client Error: Unprocessable Entity for url: https://api.unpaywall.org/v2/10.1017/cjn.2025.10490
+2026-03-08 14:40:02,670 - INFO -   ~ No open-access PDF on Unpaywall
+2026-03-08 14:40:04,175 - INFO -   → Trying Semantic Scholar...
+2026-03-08 14:40:06,245 - INFO -   ~ Falling back to abstract only
+2026-03-08 14:40:06,245 - INFO - [61/100] Changing chronomics of clock, immune and Parkinson's disease
+2026-03-08 14:40:06,246 - INFO -   → Trying Unpaywall...
+2026-03-08 14:40:06,764 - WARNING - Unpaywall failed for 10.1007/s10522-025-10346-4: 422 Client Error: Unprocessable Entity for url: https://api.unpaywall.org/v2/10.1007/s10522-025-10346-4
+2026-03-08 14:40:06,766 - INFO -   ~ No open-access PDF on Unpaywall
+2026-03-08 14:40:08,270 - INFO -   → Trying Semantic Scholar...
+2026-03-08 14:40:10,316 - INFO -   ~ Falling back to abstract only
+2026-03-08 14:40:10,316 - INFO - [62/100] Linking Cortical Morphology and Neurophysiological Dynamics 
+2026-03-08 14:40:10,316 - INFO -   → Trying PMC (PMC12676390)...
+2026-03-08 14:40:11,285 - INFO -   ✓ PMC success (142411 chars)
+2026-03-08 14:40:12,790 - INFO - [63/100] Dysregulated metabolism of ceramides and glycosphingolipids 
+2026-03-08 14:40:12,791 - INFO -   → Trying PMC (PMC12828830)...
+2026-03-08 14:40:13,821 - INFO -   ✓ PMC success (93551 chars)
+2026-03-08 14:40:15,326 - INFO - [64/100] Computational analysis of transcriptome data and mapping of 
+2026-03-08 14:40:15,327 - INFO -   → Trying PMC (PMC12672545)...
+2026-03-08 14:40:16,400 - INFO -   ✓ PMC success (96749 chars)
+2026-03-08 14:40:17,906 - INFO - [65/100] MRI susceptibility map weighted imaging (SMWI) as a neurodeg
+2026-03-08 14:40:17,906 - INFO -   → Trying Unpaywall...
+2026-03-08 14:40:18,410 - WARNING - Unpaywall failed for 10.1177/1877718X251387027: 422 Client Error: Unprocessable Entity for url: https://api.unpaywall.org/v2/10.1177/1877718X251387027
+2026-03-08 14:40:18,412 - INFO -   ~ No open-access PDF on Unpaywall
+2026-03-08 14:40:19,914 - INFO -   → Trying Semantic Scholar...
+2026-03-08 14:40:20,473 - INFO -   ~ Semantic Scholar: abstract only
+2026-03-08 14:40:21,978 - INFO -   ~ Falling back to abstract only
+2026-03-08 14:40:21,979 - INFO - [66/100] Evaluation of Hemodynamic and Blood Oxygen Metabolism Altera
+2026-03-08 14:40:21,979 - INFO -   → Trying Unpaywall...
+2026-03-08 14:40:22,450 - WARNING - Unpaywall failed for 10.2174/011570159X385539250706094824: 422 Client Error: Unprocessable Entity for url: https://api.unpaywall.org/v2/10.2174/011570159X385539250706094824
+2026-03-08 14:40:22,453 - INFO -   ~ No open-access PDF on Unpaywall
+2026-03-08 14:40:23,956 - INFO -   → Trying Semantic Scholar...
+2026-03-08 14:40:24,516 - INFO -   ~ Semantic Scholar: abstract only
+2026-03-08 14:40:26,021 - INFO -   ~ Falling back to abstract only
+2026-03-08 14:40:26,021 - INFO - [67/100] Deciphering Ferroptosis-Related Astrocyte Subpopulations and
+2026-03-08 14:40:26,021 - INFO -   → Trying PMC (PMC12669358)...
+2026-03-08 14:40:27,738 - INFO -   ✓ PMC success (128628 chars)
+2026-03-08 14:40:29,243 - INFO - [68/100] Metabolic-stem cell crosstalk in PD: NK1 cells as key mediat
+2026-03-08 14:40:29,243 - INFO -   → Trying PMC (PMC12657439)...
+2026-03-08 14:40:30,217 - INFO -   ✓ PMC success (124349 chars)
+2026-03-08 14:40:31,722 - INFO - [69/100] Beyond Parkinson's Disease: A Narrative Review of Neuromelan
+2026-03-08 14:40:31,723 - INFO -   → Trying Unpaywall...
+2026-03-08 14:40:32,198 - WARNING - Unpaywall failed for 10.1111/jon.70113: 422 Client Error: Unprocessable Entity for url: https://api.unpaywall.org/v2/10.1111/jon.70113
+2026-03-08 14:40:32,200 - INFO -   ~ No open-access PDF on Unpaywall
+2026-03-08 14:40:33,705 - INFO -   → Trying Semantic Scholar...
+2026-03-08 14:40:34,300 - INFO -   ~ Semantic Scholar: abstract only
+2026-03-08 14:40:35,805 - INFO -   ~ Falling back to abstract only
+2026-03-08 14:40:35,806 - INFO - [70/100] Isoliquiritigenin ameliorates Parkinson's disease via gut mi
+2026-03-08 14:40:35,806 - INFO -   → Trying PMC (PMC12661803)...
+2026-03-08 14:40:36,798 - INFO -   ✓ PMC success (150605 chars)
+2026-03-08 14:40:38,303 - INFO - [71/100] Early classification of functional connectomes in Parkinson'
+2026-03-08 14:40:38,304 - INFO -   → Trying PMC (PMC12752232)...
+2026-03-08 14:40:39,401 - INFO -   ✓ PMC success (152644 chars)
+2026-03-08 14:40:40,906 - INFO - [72/100] Limited predictive value of preoperative nigrosome integrity
+2026-03-08 14:40:40,907 - INFO -   → Trying PMC (PMC12663206)...
+2026-03-08 14:40:41,918 - INFO -   ✓ PMC success (91831 chars)
+2026-03-08 14:40:43,424 - INFO - [73/100] The Association of Enlarged Perivascular Space with Cerebros
+2026-03-08 14:40:43,424 - INFO -   → Trying Unpaywall...
+2026-03-08 14:40:43,887 - WARNING - Unpaywall failed for 10.1016/j.acra.2025.11.008: 422 Client Error: Unprocessable Entity for url: https://api.unpaywall.org/v2/10.1016/j.acra.2025.11.008
+2026-03-08 14:40:43,890 - INFO -   ~ No open-access PDF on Unpaywall
+2026-03-08 14:40:45,395 - INFO -   → Trying Semantic Scholar...
+2026-03-08 14:40:45,636 - INFO -   ~ Semantic Scholar: abstract only
+2026-03-08 14:40:47,142 - INFO -   ~ Falling back to abstract only
+2026-03-08 14:40:47,143 - INFO - [74/100] Summarizing the Role of Selected Adipokines in Parkinson's D
+2026-03-08 14:40:47,143 - INFO -   → Trying PMC (PMC12655267)...
+2026-03-08 14:40:48,470 - INFO -   ✓ PMC success (143071 chars)
+2026-03-08 14:40:49,975 - INFO - [75/100] Unraveling the Function of PPARα in Neurodegenerative Disord
+2026-03-08 14:40:49,976 - INFO -   → Trying PMC (PMC12649921)...
+2026-03-08 14:40:51,277 - INFO -   ✓ PMC success (180033 chars)
+2026-03-08 14:40:52,783 - INFO - [76/100] Kynurenine pathway in Parkinson's disease: pathophysiologica
+2026-03-08 14:40:52,783 - INFO -   → Trying Unpaywall...
+2026-03-08 14:40:53,317 - WARNING - Unpaywall failed for 10.1007/s10787-025-02052-x: 422 Client Error: Unprocessable Entity for url: https://api.unpaywall.org/v2/10.1007/s10787-025-02052-x
+2026-03-08 14:40:53,320 - INFO -   ~ No open-access PDF on Unpaywall
+2026-03-08 14:40:54,825 - INFO -   → Trying Semantic Scholar...
+2026-03-08 14:40:56,585 - INFO -   ~ Falling back to abstract only
+2026-03-08 14:40:56,585 - INFO - [77/100] Neuromelanin-targeted 18F-P3BZA PET/MR imaging of the substa
+2026-03-08 14:40:56,586 - INFO -   → Trying PMC (PMC12644372)...
+2026-03-08 14:40:57,491 - INFO -   ✓ PMC success (61938 chars)
+2026-03-08 14:40:58,996 - INFO - [78/100] Independent Associations of Sleep and Walking with Cognition
+2026-03-08 14:40:58,996 - INFO -   → Trying PMC (PMC12622019)...
+2026-03-08 14:40:59,836 - INFO -   ✓ PMC success (78065 chars)
+2026-03-08 14:41:01,341 - INFO - [79/100] Functional PET for mapping metabolic dynamics in Parkinson's
+2026-03-08 14:41:01,342 - INFO -   → Trying PMC (PMC12627653)...
+2026-03-08 14:41:02,345 - INFO -   ✓ PMC success (136175 chars)
+2026-03-08 14:41:03,851 - INFO - [80/100] Prodromal Parkinson's disease.
+2026-03-08 14:41:03,851 - INFO -   → Trying Unpaywall...
+2026-03-08 14:41:04,382 - WARNING - Unpaywall failed for 10.1016/j.neurol.2025.06.012: 422 Client Error: Unprocessable Entity for url: https://api.unpaywall.org/v2/10.1016/j.neurol.2025.06.012
+2026-03-08 14:41:04,384 - INFO -   ~ No open-access PDF on Unpaywall
+2026-03-08 14:41:05,890 - INFO -   → Trying Semantic Scholar...
+2026-03-08 14:41:06,470 - INFO -   ~ Semantic Scholar: abstract only
+2026-03-08 14:41:07,973 - INFO -   ~ Falling back to abstract only
+2026-03-08 14:41:07,974 - INFO - [81/100] A Preliminary Investigation of Dopamine Transporter Binding 
+2026-03-08 14:41:07,975 - INFO -   → Trying Unpaywall...
+2026-03-08 14:41:08,485 - WARNING - Unpaywall failed for 10.1002/aur.70144: 422 Client Error: Unprocessable Entity for url: https://api.unpaywall.org/v2/10.1002/aur.70144
+2026-03-08 14:41:08,488 - INFO -   ~ No open-access PDF on Unpaywall
+2026-03-08 14:41:09,993 - INFO -   → Trying Semantic Scholar...
+2026-03-08 14:41:10,553 - INFO -   ~ Semantic Scholar: abstract only
+2026-03-08 14:41:12,058 - INFO -   ~ Falling back to abstract only
+2026-03-08 14:41:12,059 - INFO - [82/100] Contribution of Cerebellar Glutamatergic and GABAergic Syste
+2026-03-08 14:41:12,059 - INFO -   → Trying PMC (PMC12611073)...
+2026-03-08 14:41:13,190 - INFO -   ✓ PMC success (118478 chars)
+2026-03-08 14:41:14,695 - INFO - [83/100] GLP-1 and the Degenerating Brain: Exploring Mechanistic Insi
+2026-03-08 14:41:14,695 - INFO -   → Trying PMC (PMC12608514)...
+2026-03-08 14:41:15,931 - INFO -   ✓ PMC success (259487 chars)
+2026-03-08 14:41:17,437 - INFO - [84/100] Depression in Premanifest Huntington's Disease: Aberrant Eff
+2026-03-08 14:41:17,437 - INFO -   → Trying Unpaywall...
+2026-03-08 14:41:17,944 - WARNING - Unpaywall failed for 10.1002/mds.70075: 422 Client Error: Unprocessable Entity for url: https://api.unpaywall.org/v2/10.1002/mds.70075
+2026-03-08 14:41:17,947 - INFO -   ~ No open-access PDF on Unpaywall
+2026-03-08 14:41:19,452 - INFO -   → Trying Semantic Scholar...
+2026-03-08 14:41:19,699 - INFO -   ~ Semantic Scholar: abstract only
+2026-03-08 14:41:21,205 - INFO -   ~ Falling back to abstract only
+2026-03-08 14:41:21,205 - INFO - [85/100] Transaldolase 1 impacts Parkinson's disease pathogenesis via
+2026-03-08 14:41:21,206 - INFO -   → Trying PMC (PMC12584206)...
+2026-03-08 14:41:22,374 - INFO -   ✓ PMC success (188955 chars)
+2026-03-08 14:41:23,879 - INFO - [86/100] Utility of Locus Coeruleus Signal Intensity on High-resoluti
+2026-03-08 14:41:23,880 - INFO -   → Trying Unpaywall...
+2026-03-08 14:41:24,326 - WARNING - Unpaywall failed for 10.2463/mrms.mp.2025-0126: 422 Client Error: Unprocessable Entity for url: https://api.unpaywall.org/v2/10.2463/mrms.mp.2025-0126
+2026-03-08 14:41:24,329 - INFO -   ~ No open-access PDF on Unpaywall
+2026-03-08 14:41:25,833 - INFO -   → Trying Semantic Scholar...
+2026-03-08 14:41:26,423 - INFO -   ~ Semantic Scholar: abstract only
+2026-03-08 14:41:27,928 - INFO -   ~ Falling back to abstract only
+2026-03-08 14:41:27,930 - INFO - [87/100] Histo-radiological correlations in an early-stage model of a
+2026-03-08 14:41:27,930 - INFO -   → Trying Unpaywall...
+2026-03-08 14:41:28,408 - WARNING - Unpaywall failed for 10.1016/j.expneurol.2025.115538: 422 Client Error: Unprocessable Entity for url: https://api.unpaywall.org/v2/10.1016/j.expneurol.2025.115538
+2026-03-08 14:41:28,411 - INFO -   ~ No open-access PDF on Unpaywall
+2026-03-08 14:41:29,916 - INFO -   → Trying Semantic Scholar...
+2026-03-08 14:41:30,159 - INFO -   ~ Semantic Scholar: abstract only
+2026-03-08 14:41:31,664 - INFO -   ~ Falling back to abstract only
+2026-03-08 14:41:31,664 - INFO - [88/100] Beyond beta rhythms: subthalamic aperiodic broadband power s
+2026-03-08 14:41:31,664 - INFO -   → Trying PMC (PMC12790593)...
+2026-03-08 14:41:32,967 - INFO -   ✓ PMC success (214108 chars)
+2026-03-08 14:41:34,473 - INFO - [89/100] Early Dopaminergic Dysfunction Induces PRO-VGF Changes in Bl
+2026-03-08 14:41:34,473 - INFO -   → Trying PMC (PMC12575455)...
+2026-03-08 14:41:35,475 - INFO -   ✓ PMC success (131716 chars)
+2026-03-08 14:41:36,980 - INFO - [90/100] Nanocarrier-Based Therapies: A Breakthrough in Parkinson's D
+2026-03-08 14:41:36,981 - INFO -   → Trying Unpaywall...
+2026-03-08 14:41:37,503 - WARNING - Unpaywall failed for 10.2174/0113816128404289251010202113: 422 Client Error: Unprocessable Entity for url: https://api.unpaywall.org/v2/10.2174/0113816128404289251010202113
+2026-03-08 14:41:37,505 - INFO -   ~ No open-access PDF on Unpaywall
+2026-03-08 14:41:39,006 - INFO -   → Trying Semantic Scholar...
+2026-03-08 14:41:39,566 - INFO -   ~ Semantic Scholar: abstract only
+2026-03-08 14:41:41,069 - INFO -   ~ Falling back to abstract only
+2026-03-08 14:41:41,070 - INFO - [91/100] Machine learning identifies lactate metabolism biomarkers an
+2026-03-08 14:41:41,070 - INFO -   → Trying PMC (PMC12569090)...
+2026-03-08 14:41:42,084 - INFO -   ✓ PMC success (134548 chars)
+2026-03-08 14:41:43,590 - INFO - [92/100] Relationship between striatal dopaminergic depletion and cog
+2026-03-08 14:41:43,590 - INFO -   → Trying Unpaywall...
+2026-03-08 14:41:44,074 - WARNING - Unpaywall failed for 10.1177/13872877251386839: 422 Client Error: Unprocessable Entity for url: https://api.unpaywall.org/v2/10.1177/13872877251386839
+2026-03-08 14:41:44,076 - INFO -   ~ No open-access PDF on Unpaywall
+2026-03-08 14:41:45,577 - INFO -   → Trying Semantic Scholar...
+2026-03-08 14:41:46,234 - INFO -   ~ Semantic Scholar: abstract only
+2026-03-08 14:41:47,744 - INFO -   ~ Falling back to abstract only
+2026-03-08 14:41:47,745 - INFO - [93/100] The enhanced Wnt/β-catenin pathway upregulation by sacubitri
+2026-03-08 14:41:47,745 - INFO -   → Trying Unpaywall...
+2026-03-08 14:41:48,207 - WARNING - Unpaywall failed for 10.1016/j.neuropharm.2025.110734: 422 Client Error: Unprocessable Entity for url: https://api.unpaywall.org/v2/10.1016/j.neuropharm.2025.110734
+2026-03-08 14:41:48,210 - INFO -   ~ No open-access PDF on Unpaywall
+2026-03-08 14:41:49,719 - INFO -   → Trying Semantic Scholar...
+2026-03-08 14:41:50,249 - INFO -   ~ Semantic Scholar: abstract only
+2026-03-08 14:41:51,759 - INFO -   ~ Falling back to abstract only
+2026-03-08 14:41:51,760 - INFO - [94/100] Neuroprotective mechanisms of sodium butyrate in Parkinson's
+2026-03-08 14:41:51,760 - INFO -   → Trying Unpaywall...
+2026-03-08 14:41:52,208 - WARNING - Unpaywall failed for 10.1007/s00210-025-04740-5: 422 Client Error: Unprocessable Entity for url: https://api.unpaywall.org/v2/10.1007/s00210-025-04740-5
+2026-03-08 14:41:52,210 - INFO -   ~ No open-access PDF on Unpaywall
+2026-03-08 14:41:53,717 - INFO -   → Trying Semantic Scholar...
+2026-03-08 14:41:55,857 - INFO -   ~ Falling back to abstract only
+2026-03-08 14:41:55,857 - INFO - [95/100] Atrazine induces neurotoxic effects in dopaminergic systems 
+2026-03-08 14:41:55,857 - INFO -   → Trying Unpaywall...
+2026-03-08 14:41:56,352 - WARNING - Unpaywall failed for 10.1016/j.ecoenv.2025.119253: 422 Client Error: Unprocessable Entity for url: https://api.unpaywall.org/v2/10.1016/j.ecoenv.2025.119253
+2026-03-08 14:41:56,354 - INFO -   ~ No open-access PDF on Unpaywall
+2026-03-08 14:41:57,859 - INFO -   → Trying Semantic Scholar...
+2026-03-08 14:41:58,424 - INFO -   ~ Semantic Scholar: abstract only
+2026-03-08 14:41:59,935 - INFO -   ~ Falling back to abstract only
+2026-03-08 14:41:59,936 - INFO - [96/100] Role of 5-Hydroxydecanoate in the Neuroprotective Activity o
+2026-03-08 14:41:59,936 - INFO -   → Trying Unpaywall...
+2026-03-08 14:42:00,453 - WARNING - Unpaywall failed for 10.2174/0109298665398088250904074136: 422 Client Error: Unprocessable Entity for url: https://api.unpaywall.org/v2/10.2174/0109298665398088250904074136
+2026-03-08 14:42:00,455 - INFO -   ~ No open-access PDF on Unpaywall
+2026-03-08 14:42:01,960 - INFO -   → Trying Semantic Scholar...
+2026-03-08 14:42:02,209 - INFO -   ~ Semantic Scholar: abstract only
+2026-03-08 14:42:03,719 - INFO -   ~ Falling back to abstract only
+2026-03-08 14:42:03,720 - INFO - [97/100] Status dystonicus is a distinct state characterized by palli
+2026-03-08 14:42:03,720 - INFO -   → Trying PMC (PMC12546768)...
+2026-03-08 14:42:04,880 - INFO -   ✓ PMC success (194868 chars)
+2026-03-08 14:42:06,390 - INFO - [98/100] Evaluating the efficacy of probiotics in treating Parkinson'
+2026-03-08 14:42:06,391 - INFO -   → Trying PMC (PMC12521202)...
+2026-03-08 14:42:07,231 - INFO -   ✓ PMC success (102881 chars)
+2026-03-08 14:42:08,741 - INFO - [99/100] Rhynchophylline self-micelle solid dispersion integrated in 
+2026-03-08 14:42:08,741 - INFO -   → Trying Unpaywall...
+2026-03-08 14:42:09,241 - WARNING - Unpaywall failed for 10.1016/j.ijpharm.2025.126285: 422 Client Error: Unprocessable Entity for url: https://api.unpaywall.org/v2/10.1016/j.ijpharm.2025.126285
+2026-03-08 14:42:09,244 - INFO -   ~ No open-access PDF on Unpaywall
+2026-03-08 14:42:10,754 - INFO -   → Trying Semantic Scholar...
+2026-03-08 14:42:11,377 - INFO -   ~ Semantic Scholar: abstract only
+2026-03-08 14:42:12,879 - INFO -   ~ Falling back to abstract only
+2026-03-08 14:42:12,879 - INFO - [100/100] Spatial metabolomics reveals the effects of Acanthopanax sen
+2026-03-08 14:42:12,880 - INFO -   → Trying PMC (PMC12532642)...
+2026-03-08 14:42:13,917 - INFO -   ✓ PMC success (160374 chars)
+2026-03-08 14:42:15,476 - INFO - 
+Done. 54/100 papers have full text, 100 have abstracts. Index updated.
+2026-03-08 16:26:28,699 - INFO - [1/100] Linking cortical morphology and neurophysiological dynamics 
+2026-03-08 16:26:28,700 - INFO -   → Trying Unpaywall...
+2026-03-08 16:26:29,233 - INFO -   ✓ Open-access PDF found, downloading...
+2026-03-08 16:26:38,113 - INFO - detected formats: [<InputFormat.PDF: 'pdf'>]
+2026-03-08 16:26:38,174 - INFO - Going to convert document batch...
+2026-03-08 16:26:38,175 - INFO - Initializing pipeline for StandardPdfPipeline with options hash 4cd07a478e2a1f2e311da02c270edd8f
+2026-03-08 16:26:38,196 - INFO - Loading plugin 'docling_defaults'
+2026-03-08 16:26:38,198 - INFO - Registered picture descriptions: ['vlm', 'api']
+2026-03-08 16:26:38,215 - INFO - Loading plugin 'docling_defaults'
+2026-03-08 16:26:38,219 - INFO - Registered ocr engines: ['auto', 'easyocr', 'ocrmac', 'rapidocr', 'tesserocr', 'tesseract']
+2026-03-08 16:26:47,685 - INFO - Auto OCR model selected ocrmac.
+2026-03-08 16:26:47,706 - INFO - Loading plugin 'docling_defaults'
+2026-03-08 16:26:47,709 - INFO - Registered layout engines: ['docling_layout_default', 'docling_experimental_table_crops_layout']
+2026-03-08 16:26:54,135 - INFO - Accelerator device: 'mps'
+2026-03-08 16:27:00,401 - INFO - Loading plugin 'docling_defaults'
+2026-03-08 16:27:00,404 - INFO - Registered table structure engines: ['docling_tableformer']
+2026-03-08 16:27:25,949 - INFO - Accelerator device: 'mps'
+2026-03-08 16:27:26,484 - INFO - Processing document 41786819.pdf
+2026-03-08 16:28:00,868 - INFO - Finished converting document 41786819.pdf in 82.76 sec.
+2026-03-08 16:28:00,958 - INFO -   ✓ Unpaywall PDF parsed → /Users/pilarbourg/Desktop/tfg-pipeline/data/markdown/41786819.md
+2026-03-08 16:28:02,463 - INFO - [2/100] [Selective neurodegeneration in patients with parkinson's di
+2026-03-08 16:28:02,464 - INFO -   → Trying Unpaywall...
+2026-03-08 16:28:03,174 - INFO -   ~ No open-access PDF on Unpaywall
+2026-03-08 16:28:04,675 - INFO -   → Trying Semantic Scholar...
+2026-03-08 16:28:05,557 - WARNING - Semantic Scholar failed for 10.17116/jnevro202612602123: 403 Client Error: Forbidden for url: https://api.semanticscholar.org/graph/v1/paper/DOI:10.17116/jnevro202612602123?fields=title%2Cabstract%2CopenAccessPdf%2CexternalIds
+2026-03-08 16:28:07,060 - INFO -   ~ Falling back to abstract only
+2026-03-08 16:28:07,060 - INFO - [3/100] Neurofilament light chain protein exposure contributes to pr
+2026-03-08 16:28:07,060 - INFO -   → Trying Unpaywall...
+2026-03-08 16:28:07,619 - INFO -   ~ No open-access PDF on Unpaywall
+2026-03-08 16:28:09,123 - INFO -   → Trying Semantic Scholar...
+2026-03-08 16:28:09,768 - WARNING - Semantic Scholar failed for 10.1016/j.ijbiomac.2026.151150: 403 Client Error: Forbidden for url: https://api.semanticscholar.org/graph/v1/paper/DOI:10.1016/j.ijbiomac.2026.151150?fields=title%2Cabstract%2CopenAccessPdf%2CexternalIds
+2026-03-08 16:28:11,276 - INFO -   ~ Falling back to abstract only
+2026-03-08 16:28:11,276 - INFO - [4/100] Deep learning-based MRI segmentation for substantia nigra in
+2026-03-08 16:28:11,276 - INFO -   → Trying Unpaywall...
+2026-03-08 16:28:11,829 - INFO -   ~ No open-access PDF on Unpaywall
+2026-03-08 16:28:13,330 - INFO -   → Trying Semantic Scholar...
+2026-03-08 16:28:14,005 - WARNING - Semantic Scholar failed for 10.1016/j.parkreldis.2026.108260: 403 Client Error: Forbidden for url: https://api.semanticscholar.org/graph/v1/paper/DOI:10.1016/j.parkreldis.2026.108260?fields=title%2Cabstract%2CopenAccessPdf%2CexternalIds
+2026-03-08 16:28:15,513 - INFO -   ~ Falling back to abstract only
+2026-03-08 16:28:15,513 - INFO - [5/100] Exosomes and microRNAs in the treatment of in vivo and in vi
+2026-03-08 16:28:15,513 - INFO -   → Trying Unpaywall...
+2026-03-08 16:28:16,079 - INFO -   ~ No open-access PDF on Unpaywall
+2026-03-08 16:28:17,584 - INFO -   → Trying Semantic Scholar...
+2026-03-08 16:28:17,918 - WARNING - Semantic Scholar failed for 10.4103/NRR.NRR-D-25-01867: 403 Client Error: Forbidden for url: https://api.semanticscholar.org/graph/v1/paper/DOI:10.4103/NRR.NRR-D-25-01867?fields=title%2Cabstract%2CopenAccessPdf%2CexternalIds
+2026-03-08 16:28:19,424 - INFO -   ~ Falling back to abstract only
+2026-03-08 16:28:19,426 - INFO - [6/100] Sex-specific metabolic and microbial remodeling in a rotenon
+2026-03-08 16:28:19,426 - INFO -   → Trying Unpaywall...
+2026-03-08 16:28:20,023 - INFO -   ~ No open-access PDF on Unpaywall
+2026-03-08 16:28:21,524 - INFO -   → Trying Semantic Scholar...
+2026-03-08 16:28:22,169 - WARNING - Semantic Scholar failed for 10.1186/s13293-026-00865-1: 403 Client Error: Forbidden for url: https://api.semanticscholar.org/graph/v1/paper/DOI:10.1186/s13293-026-00865-1?fields=title%2Cabstract%2CopenAccessPdf%2CexternalIds
+2026-03-08 16:28:23,677 - INFO -   ~ Falling back to abstract only
+2026-03-08 16:28:23,677 - INFO - [7/100] Early Diagnosis of Parkinson's Disease Through Lite HGWA-Net
+2026-03-08 16:28:23,677 - INFO -   → Trying PMC (PMC12939763)...
+2026-03-08 16:28:24,813 - INFO -   ✓ PMC success → /Users/pilarbourg/Desktop/tfg-pipeline/data/markdown/41750699.md (84201 chars)
+2026-03-08 16:28:26,319 - INFO - [8/100] Computational Modeling of Parkinson's Disease Across Scales:
+2026-03-08 16:28:26,319 - INFO -   → Trying PMC (PMC12939130)...
+2026-03-08 16:28:27,579 - INFO -   ✓ PMC success → /Users/pilarbourg/Desktop/tfg-pipeline/data/markdown/41750176.md (173739 chars)
+2026-03-08 16:28:29,084 - INFO - [9/100] Quantitative measures of total and phosphorylated alpha-synu
+2026-03-08 16:28:29,085 - INFO -   → Trying Unpaywall...
+2026-03-08 16:28:29,606 - INFO -   ~ No open-access PDF on Unpaywall
+2026-03-08 16:28:31,112 - INFO -   → Trying Semantic Scholar...
+2026-03-08 16:28:31,688 - WARNING - Semantic Scholar failed for 10.1177/1877718X261420669: 403 Client Error: Forbidden for url: https://api.semanticscholar.org/graph/v1/paper/DOI:10.1177/1877718X261420669?fields=title%2Cabstract%2CopenAccessPdf%2CexternalIds
+2026-03-08 16:28:33,192 - INFO -   ~ Falling back to abstract only
+2026-03-08 16:28:33,192 - INFO - [10/100] Functional MRI in Multiple System Atrophy: A Promising Bioma
+2026-03-08 16:28:33,192 - INFO -   → Trying PMC (PMC12927845)...
+2026-03-08 16:28:34,095 - INFO -   ✓ PMC success → /Users/pilarbourg/Desktop/tfg-pipeline/data/markdown/41738058.md (101990 chars)
+2026-03-08 16:28:35,600 - INFO - [11/100] Volumetric signatures of basal ganglia-thalamo-cortical and 
+2026-03-08 16:28:35,601 - INFO -   → Trying PMC (PMC12926348)...
+2026-03-08 16:28:36,722 - INFO -   ✓ PMC success → /Users/pilarbourg/Desktop/tfg-pipeline/data/markdown/41737006.md (178084 chars)
+2026-03-08 16:28:38,231 - INFO - [12/100] How cytochrome P450 enzymes in humans are involved in Parkin
+2026-03-08 16:28:38,232 - INFO -   → Trying Unpaywall...
+2026-03-08 16:28:38,751 - INFO -   ~ No open-access PDF on Unpaywall
+2026-03-08 16:28:40,256 - INFO -   → Trying Semantic Scholar...
+2026-03-08 16:28:40,797 - WARNING - Semantic Scholar failed for 10.1016/j.neuroscience.2026.02.036: 403 Client Error: Forbidden for url: https://api.semanticscholar.org/graph/v1/paper/DOI:10.1016/j.neuroscience.2026.02.036?fields=title%2Cabstract%2CopenAccessPdf%2CexternalIds
+2026-03-08 16:28:42,303 - INFO -   ~ Falling back to abstract only
+2026-03-08 16:28:42,303 - INFO - [13/100] A quantitative DOPA decarboxylase biomarker for diagnosis in
+2026-03-08 16:28:42,303 - INFO -   → Trying Unpaywall...
+2026-03-08 16:28:42,936 - INFO -   ~ No open-access PDF on Unpaywall
+2026-03-08 16:28:44,438 - INFO -   → Trying Semantic Scholar...
+2026-03-08 16:28:44,659 - WARNING - Semantic Scholar failed for 10.1038/s41591-026-04212-0: 403 Client Error: Forbidden for url: https://api.semanticscholar.org/graph/v1/paper/DOI:10.1038/s41591-026-04212-0?fields=title%2Cabstract%2CopenAccessPdf%2CexternalIds
+2026-03-08 16:28:46,166 - INFO -   ~ Falling back to abstract only
+2026-03-08 16:28:46,166 - INFO - [14/100] Model-Based Design of Subthalamic Nucleus Neurons using Hybr
+2026-03-08 16:28:46,167 - INFO -   → Trying Unpaywall...
+2026-03-08 16:28:46,630 - INFO -   ~ No open-access PDF on Unpaywall
+2026-03-08 16:28:48,132 - INFO -   → Trying Semantic Scholar...
+2026-03-08 16:28:48,639 - WARNING - Semantic Scholar failed for 10.1152/jn.00424.2025: 403 Client Error: Forbidden for url: https://api.semanticscholar.org/graph/v1/paper/DOI:10.1152/jn.00424.2025?fields=title%2Cabstract%2CopenAccessPdf%2CexternalIds
+2026-03-08 16:28:50,144 - INFO -   ~ Falling back to abstract only
+2026-03-08 16:28:50,144 - INFO - [15/100] Neuromelanin imaging outperforms free water imaging in diagn
+2026-03-08 16:28:50,144 - INFO -   → Trying Unpaywall...
+2026-03-08 16:28:50,639 - INFO -   ✓ Open-access PDF found, downloading...
+2026-03-08 16:28:54,309 - INFO - detected formats: [<InputFormat.PDF: 'pdf'>]
+2026-03-08 16:28:54,333 - INFO - Going to convert document batch...
+2026-03-08 16:28:54,334 - INFO - Processing document 41688474.pdf
+2026-03-08 16:29:12,336 - INFO - Finished converting document 41688474.pdf in 18.03 sec.
+2026-03-08 16:29:12,372 - INFO -   ✓ Unpaywall PDF parsed → /Users/pilarbourg/Desktop/tfg-pipeline/data/markdown/41688474.md
+2026-03-08 16:29:13,877 - INFO - [16/100] At-home movement state classification using totally implanta
+2026-03-08 16:29:13,878 - INFO -   → Trying PMC (PMC12904197)...
+2026-03-08 16:29:14,993 - INFO -   ✓ PMC success → /Users/pilarbourg/Desktop/tfg-pipeline/data/markdown/41686905.md (152253 chars)
+2026-03-08 16:29:16,494 - INFO - [17/100] Speech Impairment in Early Parkinson's Disease Is Associated
+2026-03-08 16:29:16,494 - INFO -   → Trying PMC (PMC12898416)...
+2026-03-08 16:29:17,702 - INFO -   ✓ PMC success → /Users/pilarbourg/Desktop/tfg-pipeline/data/markdown/41682687.md (120327 chars)
+2026-03-08 16:29:19,207 - INFO - [18/100] Copper, Ceruloplasmin, Zinc, and Manganese Levels in Brain a
+2026-03-08 16:29:19,207 - INFO -   → Trying PMC (PMC12896428)...
+2026-03-08 16:29:20,641 - INFO -   ✓ PMC success → /Users/pilarbourg/Desktop/tfg-pipeline/data/markdown/41677652.md (93856 chars)
+2026-03-08 16:29:22,146 - INFO - [19/100] Resting-state motor network connectivity as a biomarker of L
+2026-03-08 16:29:22,146 - INFO -   → Trying Unpaywall...
+2026-03-08 16:29:22,773 - INFO -   ~ No open-access PDF on Unpaywall
+2026-03-08 16:29:24,279 - INFO -   → Trying Semantic Scholar...
+2026-03-08 16:29:24,870 - WARNING - Semantic Scholar failed for 10.1007/s11682-026-01066-5: 403 Client Error: Forbidden for url: https://api.semanticscholar.org/graph/v1/paper/DOI:10.1007/s11682-026-01066-5?fields=title%2Cabstract%2CopenAccessPdf%2CexternalIds
+2026-03-08 16:29:26,373 - INFO -   ~ Falling back to abstract only
+2026-03-08 16:29:26,373 - INFO - [20/100] Free water in the external globus pallidus predicts mild cog
+2026-03-08 16:29:26,374 - INFO -   → Trying Unpaywall...
+2026-03-08 16:29:26,829 - INFO -   ✓ Open-access PDF found, downloading...
+2026-03-08 16:29:30,784 - INFO - detected formats: [<InputFormat.PDF: 'pdf'>]
+2026-03-08 16:29:30,790 - INFO - Going to convert document batch...
+2026-03-08 16:29:30,791 - INFO - Processing document 41673053.pdf
+2026-03-08 16:30:01,437 - INFO - Finished converting document 41673053.pdf in 30.68 sec.
+2026-03-08 16:30:01,486 - INFO -   ✓ Unpaywall PDF parsed → /Users/pilarbourg/Desktop/tfg-pipeline/data/markdown/41673053.md
+2026-03-08 16:30:02,992 - INFO - [21/100] Cycloastragenol Derivatives Improve Tyrosine Metabolism, Reg
+2026-03-08 16:30:02,992 - INFO -   → Trying PMC (PMC12892403)...
+2026-03-08 16:30:03,957 - INFO -   ✓ PMC success → /Users/pilarbourg/Desktop/tfg-pipeline/data/markdown/41670296.md (143760 chars)
+2026-03-08 16:30:05,463 - INFO - [22/100] Eye tracking as a digital biomarker in neurodegenerative dis
+2026-03-08 16:30:05,463 - INFO -   → Trying PMC (PMC12891262)...
+2026-03-08 16:30:06,515 - INFO -   ✓ PMC success → /Users/pilarbourg/Desktop/tfg-pipeline/data/markdown/41665706.md (125205 chars)
+2026-03-08 16:30:08,020 - INFO - [23/100] Smooth pursuit and memory saccades are impaired in early-sta
+2026-03-08 16:30:08,021 - INFO -   → Trying PMC (PMC12873708)...
+2026-03-08 16:30:08,797 - INFO -   ✓ PMC success → /Users/pilarbourg/Desktop/tfg-pipeline/data/markdown/41659980.md (68929 chars)
+2026-03-08 16:30:10,302 - INFO - [24/100] Cognitive impairment in SCA3: A multi-center cohort study wi
+2026-03-08 16:30:10,303 - INFO -   → Trying Unpaywall...
+2026-03-08 16:30:10,793 - INFO -   ✓ Open-access PDF found, downloading...
+2026-03-08 16:30:12,062 - INFO - detected formats: [<InputFormat.PDF: 'pdf'>]
+2026-03-08 16:30:12,072 - INFO - Going to convert document batch...
+2026-03-08 16:30:12,073 - INFO - Processing document 41654200.pdf
+2026-03-08 16:30:18,993 - INFO - Finished converting document 41654200.pdf in 6.93 sec.
+2026-03-08 16:30:19,043 - INFO -   ✓ Unpaywall PDF parsed → /Users/pilarbourg/Desktop/tfg-pipeline/data/markdown/41654200.md
+2026-03-08 16:30:20,548 - INFO - [25/100] A Canonical Neural Map and Its Deviations Shape Parkinson's 
+2026-03-08 16:30:20,548 - INFO -   → Trying PMC (PMC12869688)...
+2026-03-08 16:30:21,628 - INFO -   ✓ PMC success → /Users/pilarbourg/Desktop/tfg-pipeline/data/markdown/41646362.md (157853 chars)
+2026-03-08 16:30:23,134 - INFO - [26/100] Leukocytic Dopamine D2 Receptors as Biomarkers for Brain Dop
+2026-03-08 16:30:23,134 - INFO -   → Trying Unpaywall...
+2026-03-08 16:30:23,646 - INFO -   ~ No open-access PDF on Unpaywall
+2026-03-08 16:30:25,151 - INFO -   → Trying Semantic Scholar...
+2026-03-08 16:30:25,679 - WARNING - Semantic Scholar failed for 10.1016/j.ajpath.2026.01.003: 403 Client Error: Forbidden for url: https://api.semanticscholar.org/graph/v1/paper/DOI:10.1016/j.ajpath.2026.01.003?fields=title%2Cabstract%2CopenAccessPdf%2CexternalIds
+2026-03-08 16:30:27,186 - INFO -   ~ Falling back to abstract only
+2026-03-08 16:30:27,186 - INFO - [27/100] Photonic biosensing and optogenetic technologies: Emerging t
+2026-03-08 16:30:27,186 - INFO -   → Trying Unpaywall...
+2026-03-08 16:30:27,648 - INFO -   ~ No open-access PDF on Unpaywall
+2026-03-08 16:30:29,154 - INFO -   → Trying Semantic Scholar...
+2026-03-08 16:30:29,675 - WARNING - Semantic Scholar failed for 10.4103/NRR.NRR-D-25-00711: 403 Client Error: Forbidden for url: https://api.semanticscholar.org/graph/v1/paper/DOI:10.4103/NRR.NRR-D-25-00711?fields=title%2Cabstract%2CopenAccessPdf%2CexternalIds
+2026-03-08 16:30:31,183 - INFO -   ~ Falling back to abstract only
+2026-03-08 16:30:31,183 - INFO - [28/100] Decoding the impact of visual states on adaptive deep brain 
+2026-03-08 16:30:31,183 - INFO -   → Trying PMC (PMC12963478)...
+2026-03-08 16:30:32,634 - INFO -   ✓ PMC success → /Users/pilarbourg/Desktop/tfg-pipeline/data/markdown/41620489.md (118659 chars)
+2026-03-08 16:30:34,139 - INFO - [29/100] Neuromelanin-sensitive MRI as a biomarker for individualized
+2026-03-08 16:30:34,140 - INFO -   → Trying Unpaywall...
+2026-03-08 16:30:34,635 - INFO -   ~ No open-access PDF on Unpaywall
+2026-03-08 16:30:36,140 - INFO -   → Trying Semantic Scholar...
+2026-03-08 16:30:36,676 - WARNING - Semantic Scholar failed for 10.1016/j.parkreldis.2026.108205: 403 Client Error: Forbidden for url: https://api.semanticscholar.org/graph/v1/paper/DOI:10.1016/j.parkreldis.2026.108205?fields=title%2Cabstract%2CopenAccessPdf%2CexternalIds
+2026-03-08 16:30:38,182 - INFO -   ~ Falling back to abstract only
+2026-03-08 16:30:38,183 - INFO - [30/100] Roseburia intestinalis Offers Vagus-Dependent Neuroprotectio
+2026-03-08 16:30:38,183 - INFO -   → Trying Unpaywall...
+2026-03-08 16:30:38,639 - INFO -   ~ No open-access PDF on Unpaywall
+2026-03-08 16:30:40,141 - INFO -   → Trying Semantic Scholar...
+2026-03-08 16:30:40,711 - WARNING - Semantic Scholar failed for 10.1007/s12035-026-05707-0: 403 Client Error: Forbidden for url: https://api.semanticscholar.org/graph/v1/paper/DOI:10.1007/s12035-026-05707-0?fields=title%2Cabstract%2CopenAccessPdf%2CexternalIds
+2026-03-08 16:30:42,220 - INFO -   ~ Falling back to abstract only
+2026-03-08 16:30:42,220 - INFO - [31/100] Discordance of Dopaminergic Dysfunction and Subcortical Atro
+2026-03-08 16:30:42,220 - INFO -   → Trying Unpaywall...
+2026-03-08 16:30:42,768 - INFO -   ✓ Open-access PDF found, downloading...
+2026-03-08 16:30:42,933 - WARNING - PDF download/parse failed (https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/mds.70186): 403 Client Error: Forbidden for url: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/mds.70186
+2026-03-08 16:30:44,439 - INFO -   → Trying Semantic Scholar...
+2026-03-08 16:30:44,964 - WARNING - Semantic Scholar failed for 10.1002/mds.70186: 403 Client Error: Forbidden for url: https://api.semanticscholar.org/graph/v1/paper/DOI:10.1002/mds.70186?fields=title%2Cabstract%2CopenAccessPdf%2CexternalIds
+2026-03-08 16:30:46,472 - INFO -   ~ Falling back to abstract only
+2026-03-08 16:30:46,472 - INFO - [32/100] Clinical and Imaging Characteristics of Parkinson's Disease 
+2026-03-08 16:30:46,472 - INFO -   → Trying Unpaywall...
+2026-03-08 16:30:46,926 - INFO -   ~ No open-access PDF on Unpaywall
+2026-03-08 16:30:48,433 - INFO -   → Trying Semantic Scholar...
+2026-03-08 16:30:48,960 - WARNING - Semantic Scholar failed for 10.1002/mds.70197: 403 Client Error: Forbidden for url: https://api.semanticscholar.org/graph/v1/paper/DOI:10.1002/mds.70197?fields=title%2Cabstract%2CopenAccessPdf%2CexternalIds
+2026-03-08 16:30:50,468 - INFO -   ~ Falling back to abstract only
+2026-03-08 16:30:50,469 - INFO - [33/100] Deep Brain Stimulation as a Rehabilitation Amplifier: A Prec
+2026-03-08 16:30:50,469 - INFO -   → Trying PMC (PMC12842032)...
+2026-03-08 16:30:51,569 - INFO -   ✓ PMC success → /Users/pilarbourg/Desktop/tfg-pipeline/data/markdown/41598431.md (83204 chars)
+2026-03-08 16:30:53,075 - INFO - [34/100] Melanin and Neuromelanin in Humans: Insights Across Health, 
+2026-03-08 16:30:53,075 - INFO -   → Trying PMC (PMC12838655)...
+2026-03-08 16:30:54,188 - INFO -   ✓ PMC success → /Users/pilarbourg/Desktop/tfg-pipeline/data/markdown/41594601.md (230743 chars)
+2026-03-08 16:30:55,693 - INFO - [35/100] Pallidal beta power is associated with depression in Parkins
+2026-03-08 16:30:55,694 - INFO -   → Trying PMC (PMC12909943)...
+2026-03-08 16:30:56,840 - INFO -   ✓ PMC success → /Users/pilarbourg/Desktop/tfg-pipeline/data/markdown/41571695.md (119838 chars)
+2026-03-08 16:30:58,346 - INFO - [36/100] Hypergraph-Based Multimodal MRI Reveals Thalamus-Mediated Ne
+2026-03-08 16:30:58,346 - INFO -   → Trying Unpaywall...
+2026-03-08 16:30:58,806 - INFO -   ~ No open-access PDF on Unpaywall
+2026-03-08 16:31:00,312 - INFO -   → Trying Semantic Scholar...
+2026-03-08 16:31:00,841 - WARNING - Semantic Scholar failed for 10.1016/j.acra.2025.12.025: 403 Client Error: Forbidden for url: https://api.semanticscholar.org/graph/v1/paper/DOI:10.1016/j.acra.2025.12.025?fields=title%2Cabstract%2CopenAccessPdf%2CexternalIds
+2026-03-08 16:31:02,348 - INFO -   ~ Falling back to abstract only
+2026-03-08 16:31:02,348 - INFO - [37/100] MRI Assessment of Nigrosome in Parkinson's Disease: Is it Cu
+2026-03-08 16:31:02,348 - INFO -   → Trying Unpaywall...
+2026-03-08 16:31:02,803 - INFO -   ~ No open-access PDF on Unpaywall
+2026-03-08 16:31:04,308 - INFO -   → Trying Semantic Scholar...
+2026-03-08 16:31:04,856 - WARNING - Semantic Scholar failed for 10.1002/mdc3.70530: 403 Client Error: Forbidden for url: https://api.semanticscholar.org/graph/v1/paper/DOI:10.1002/mdc3.70530?fields=title%2Cabstract%2CopenAccessPdf%2CexternalIds
+2026-03-08 16:31:06,364 - INFO -   ~ Falling back to abstract only
+2026-03-08 16:31:06,365 - INFO - [38/100] Elevated cerebral oxygen extraction fraction in Parkinson's 
+2026-03-08 16:31:06,365 - INFO -   → Trying PMC (PMC12891709)...
+2026-03-08 16:31:07,152 - INFO -   ✓ PMC success → /Users/pilarbourg/Desktop/tfg-pipeline/data/markdown/41549084.md (73788 chars)
+2026-03-08 16:31:08,658 - INFO - [39/100] Low-frequency activity in the subthalamic nucleus informs ab
+2026-03-08 16:31:08,658 - INFO -   → Trying PMC (PMC12820131)...
+2026-03-08 16:31:09,729 - INFO -   ✓ PMC success → /Users/pilarbourg/Desktop/tfg-pipeline/data/markdown/41540043.md (115517 chars)
+2026-03-08 16:31:11,234 - INFO - [40/100] UQCRC1 deficiency impairs mitophagy via PINK1-dependent mech
+2026-03-08 16:31:11,234 - INFO -   → Trying PMC (PMC12909848)...
+2026-03-08 16:31:12,394 - INFO -   ✓ PMC success → /Users/pilarbourg/Desktop/tfg-pipeline/data/markdown/41540037.md (110783 chars)
+2026-03-08 16:31:13,899 - INFO - [41/100] Study of blood linear RNA nominates CD55 and DLD as early-st
+2026-03-08 16:31:13,900 - INFO -   → Trying Unpaywall...
+2026-03-08 16:31:14,419 - INFO -   ~ No open-access PDF on Unpaywall
+2026-03-08 16:31:15,920 - INFO -   → Trying Semantic Scholar...
+2026-03-08 16:31:16,430 - WARNING - Semantic Scholar failed for 10.1093/brain/awag014: 403 Client Error: Forbidden for url: https://api.semanticscholar.org/graph/v1/paper/DOI:10.1093/brain/awag014?fields=title%2Cabstract%2CopenAccessPdf%2CexternalIds
+2026-03-08 16:31:17,938 - INFO -   ~ Falling back to abstract only
+2026-03-08 16:31:17,938 - INFO - [42/100] Preclinical Catecholaminergic Biomarkers of Central Lewy Bod
+2026-03-08 16:31:17,938 - INFO -   → Trying PMC (PMC12802056)...
+2026-03-08 16:31:18,915 - INFO -   ✓ PMC success → /Users/pilarbourg/Desktop/tfg-pipeline/data/markdown/41517809.md (49156 chars)
+2026-03-08 16:31:20,421 - INFO - [43/100] Mitophagy-NLRP3 Inflammasome Crosstalk in Parkinson's Diseas
+2026-03-08 16:31:20,421 - INFO -   → Trying PMC (PMC12786970)...
+2026-03-08 16:31:21,784 - INFO -   ✓ PMC success → /Users/pilarbourg/Desktop/tfg-pipeline/data/markdown/41516359.md (113343 chars)
+2026-03-08 16:31:23,285 - INFO - [44/100] RRx-001 ameliorates astrocyte pyroptosis by regulating LCN2-
+2026-03-08 16:31:23,285 - INFO -   → Trying PMC (PMC12819914)...
+2026-03-08 16:31:24,225 - INFO -   ✓ PMC success → /Users/pilarbourg/Desktop/tfg-pipeline/data/markdown/41495462.md (147386 chars)
+2026-03-08 16:31:25,730 - INFO - [45/100] Neural and biomarker correlates of the Parkinson's Disease-C
+2026-03-08 16:31:25,730 - INFO -   → Trying PMC (PMC12765053)...
+2026-03-08 16:31:26,532 - INFO -   ✓ PMC success → /Users/pilarbourg/Desktop/tfg-pipeline/data/markdown/41492395.md (100575 chars)
+2026-03-08 16:31:28,037 - INFO - [46/100] Parkinson's disease subtypes and their relationship to demen
+2026-03-08 16:31:28,037 - INFO -   → Trying Unpaywall...
+2026-03-08 16:31:28,500 - INFO -   ~ No open-access PDF on Unpaywall
+2026-03-08 16:31:30,005 - INFO -   → Trying Semantic Scholar...
+2026-03-08 16:31:30,528 - WARNING - Semantic Scholar failed for 10.1007/s00702-025-03097-6: 403 Client Error: Forbidden for url: https://api.semanticscholar.org/graph/v1/paper/DOI:10.1007/s00702-025-03097-6?fields=title%2Cabstract%2CopenAccessPdf%2CexternalIds
+2026-03-08 16:31:32,036 - INFO -   ~ Falling back to abstract only
+2026-03-08 16:31:32,037 - INFO - [47/100] The application of fecal microbiota transplantation in Parki
+2026-03-08 16:31:32,037 - INFO -   → Trying PMC (PMC12753937)...
+2026-03-08 16:31:33,323 - INFO -   ✓ PMC success → /Users/pilarbourg/Desktop/tfg-pipeline/data/markdown/41480095.md (316684 chars)
+2026-03-08 16:31:34,828 - INFO - [48/100] The diagnostic value of transcranial sonography in Swedish p
+2026-03-08 16:31:34,829 - INFO -   → Trying PMC (PMC12754217)...
+2026-03-08 16:31:35,663 - INFO -   ✓ PMC success → /Users/pilarbourg/Desktop/tfg-pipeline/data/markdown/41479687.md (60489 chars)
+2026-03-08 16:31:37,168 - INFO - [49/100] Integration of Volumetric, Iron, and Neuromelanin Magnetic R
+2026-03-08 16:31:37,168 - INFO -   → Trying Unpaywall...
+2026-03-08 16:31:37,628 - INFO -   ~ No open-access PDF on Unpaywall
+2026-03-08 16:31:39,131 - INFO -   → Trying Semantic Scholar...
+2026-03-08 16:31:39,642 - WARNING - Semantic Scholar failed for 10.1002/mds.70153: 403 Client Error: Forbidden for url: https://api.semanticscholar.org/graph/v1/paper/DOI:10.1002/mds.70153?fields=title%2Cabstract%2CopenAccessPdf%2CexternalIds
+2026-03-08 16:31:41,150 - INFO -   ~ Falling back to abstract only
+2026-03-08 16:31:41,150 - INFO - [50/100] Short-Chain Fatty Acids Enhance EAAT2-Mediated Glutamate Cle
+2026-03-08 16:31:41,150 - INFO -   → Trying PMC (PMC12729909)...
+2026-03-08 16:31:42,160 - INFO -   ✓ PMC success → /Users/pilarbourg/Desktop/tfg-pipeline/data/markdown/41462629.md (80083 chars)
+2026-03-08 16:31:43,665 - INFO - [51/100] Targeting Microglial CD49a Inhibits Neuroinflammation and De
+2026-03-08 16:31:43,666 - INFO -   → Trying PMC (PMC12955899)...
+2026-03-08 16:31:44,927 - INFO -   ✓ PMC success → /Users/pilarbourg/Desktop/tfg-pipeline/data/markdown/41462565.md (230168 chars)
+2026-03-08 16:31:46,432 - INFO - [52/100] Alpha-Synuclein Neurobiology in Parkinson's Disease: A Compr
+2026-03-08 16:31:46,433 - INFO -   → Trying PMC (PMC12731173)...
+2026-03-08 16:31:48,046 - INFO -   ✓ PMC success → /Users/pilarbourg/Desktop/tfg-pipeline/data/markdown/41440056.md (227786 chars)
+2026-03-08 16:31:49,551 - INFO - [53/100] Brain atrophy and cholinergic denervation in progressive sup
+2026-03-08 16:31:49,552 - INFO -   → Trying PMC (PMC12712803)...
+2026-03-08 16:31:50,397 - INFO -   ✓ PMC success → /Users/pilarbourg/Desktop/tfg-pipeline/data/markdown/41425069.md (79265 chars)
+2026-03-08 16:31:51,902 - INFO - [54/100] Abnormal subthalamic nucleus functional connectivity and mac
+2026-03-08 16:31:51,902 - INFO -   → Trying PMC (PMC12708609)...
+2026-03-08 16:31:52,679 - INFO -   ✓ PMC success → /Users/pilarbourg/Desktop/tfg-pipeline/data/markdown/41415889.md (54255 chars)
+2026-03-08 16:31:54,185 - INFO - [55/100] Alternate-day fasting ameliorates α-synuclein pathology and 
+2026-03-08 16:31:54,185 - INFO -   → Trying PMC (PMC12711994)...
+2026-03-08 16:31:55,408 - INFO -   ✓ PMC success → /Users/pilarbourg/Desktop/tfg-pipeline/data/markdown/41408061.md (171007 chars)
+2026-03-08 16:31:56,913 - INFO - [56/100] Cortico-basal oscillations index naturalistic movements duri
+2026-03-08 16:31:56,914 - INFO -   → Trying Unpaywall...
+2026-03-08 16:31:57,406 - INFO -   ✓ Open-access PDF found, downloading...
+2026-03-08 16:31:57,515 - WARNING - PDF download/parse failed (https://academic.oup.com/brain/advance-article-pdf/doi/10.1093/brain/awaf466/65904436/awaf466.pdf): 403 Client Error: Forbidden for url: https://academic.oup.com/brain/advance-article-pdf/doi/10.1093/brain/awaf466/65904436/awaf466.pdf
+2026-03-08 16:31:59,019 - INFO -   → Trying Semantic Scholar...
+2026-03-08 16:31:59,636 - WARNING - Semantic Scholar failed for 10.1093/brain/awaf466: 403 Client Error: Forbidden for url: https://api.semanticscholar.org/graph/v1/paper/DOI:10.1093/brain/awaf466?fields=title%2Cabstract%2CopenAccessPdf%2CexternalIds
+2026-03-08 16:32:01,142 - INFO -   ~ Falling back to abstract only
+2026-03-08 16:32:01,143 - INFO - [57/100] Optogenetic-induced α-synuclein accumulation reveals early s
+2026-03-08 16:32:01,144 - INFO -   → Trying PMC (PMC12738572)...
+2026-03-08 16:32:02,462 - INFO -   ✓ PMC success → /Users/pilarbourg/Desktop/tfg-pipeline/data/markdown/41390775.md (224200 chars)
+2026-03-08 16:32:03,967 - INFO - [58/100] Cell-Free DNA and Mitochondria in Parkinson's Disease.
+2026-03-08 16:32:03,967 - INFO -   → Trying PMC (PMC12692639)...
+2026-03-08 16:32:05,169 - INFO -   ✓ PMC success → /Users/pilarbourg/Desktop/tfg-pipeline/data/markdown/41373767.md (125898 chars)
+2026-03-08 16:32:06,674 - INFO - [59/100] OCT-based retinal biomarkers forecast central nervous system
+2026-03-08 16:32:06,675 - INFO -   → Trying Unpaywall...
+2026-03-08 16:32:07,181 - INFO -   ~ No open-access PDF on Unpaywall
+2026-03-08 16:32:08,687 - INFO -   → Trying Semantic Scholar...
+2026-03-08 16:32:09,240 - WARNING - Semantic Scholar failed for 10.1016/j.pdpdt.2025.105310: 403 Client Error: Forbidden for url: https://api.semanticscholar.org/graph/v1/paper/DOI:10.1016/j.pdpdt.2025.105310?fields=title%2Cabstract%2CopenAccessPdf%2CexternalIds
+2026-03-08 16:32:10,746 - INFO -   ~ Falling back to abstract only
+2026-03-08 16:32:10,748 - INFO - [60/100] Quantification of Neuromelanin as a Neuroimaging Biomarker f
+2026-03-08 16:32:10,748 - INFO -   → Trying Unpaywall...
+2026-03-08 16:32:11,215 - INFO -   ~ No open-access PDF on Unpaywall
+2026-03-08 16:32:12,719 - INFO -   → Trying Semantic Scholar...
+2026-03-08 16:32:13,237 - WARNING - Semantic Scholar failed for 10.1017/cjn.2025.10490: 403 Client Error: Forbidden for url: https://api.semanticscholar.org/graph/v1/paper/DOI:10.1017/cjn.2025.10490?fields=title%2Cabstract%2CopenAccessPdf%2CexternalIds
+2026-03-08 16:32:14,742 - INFO -   ~ Falling back to abstract only
+2026-03-08 16:32:14,742 - INFO - [61/100] Changing chronomics of clock, immune and Parkinson's disease
+2026-03-08 16:32:14,743 - INFO -   → Trying Unpaywall...
+2026-03-08 16:32:15,245 - INFO -   ~ No open-access PDF on Unpaywall
+2026-03-08 16:32:16,747 - INFO -   → Trying Semantic Scholar...
+2026-03-08 16:32:17,276 - WARNING - Semantic Scholar failed for 10.1007/s10522-025-10346-4: 403 Client Error: Forbidden for url: https://api.semanticscholar.org/graph/v1/paper/DOI:10.1007/s10522-025-10346-4?fields=title%2Cabstract%2CopenAccessPdf%2CexternalIds
+2026-03-08 16:32:18,783 - INFO -   ~ Falling back to abstract only
+2026-03-08 16:32:18,787 - INFO - [62/100] Linking Cortical Morphology and Neurophysiological Dynamics 
+2026-03-08 16:32:18,787 - INFO -   → Trying PMC (PMC12676390)...
+2026-03-08 16:32:19,723 - INFO -   ✓ PMC success → /Users/pilarbourg/Desktop/tfg-pipeline/data/markdown/41356369.md (142411 chars)
+2026-03-08 16:32:21,225 - INFO - [63/100] Dysregulated metabolism of ceramides and glycosphingolipids 
+2026-03-08 16:32:21,226 - INFO -   → Trying PMC (PMC12828830)...
+2026-03-08 16:32:22,206 - INFO -   ✓ PMC success → /Users/pilarbourg/Desktop/tfg-pipeline/data/markdown/41354321.md (93551 chars)
+2026-03-08 16:32:23,712 - INFO - [64/100] Computational analysis of transcriptome data and mapping of 
+2026-03-08 16:32:23,712 - INFO -   → Trying PMC (PMC12672545)...
+2026-03-08 16:32:24,626 - INFO -   ✓ PMC success → /Users/pilarbourg/Desktop/tfg-pipeline/data/markdown/41346780.md (96749 chars)
+2026-03-08 16:32:26,131 - INFO - [65/100] MRI susceptibility map weighted imaging (SMWI) as a neurodeg
+2026-03-08 16:32:26,131 - INFO -   → Trying Unpaywall...
+2026-03-08 16:32:26,622 - INFO -   ~ No open-access PDF on Unpaywall
+2026-03-08 16:32:28,122 - INFO -   → Trying Semantic Scholar...
+2026-03-08 16:32:28,370 - WARNING - Semantic Scholar failed for 10.1177/1877718X251387027: 403 Client Error: Forbidden for url: https://api.semanticscholar.org/graph/v1/paper/DOI:10.1177/1877718X251387027?fields=title%2Cabstract%2CopenAccessPdf%2CexternalIds
+2026-03-08 16:32:29,876 - INFO -   ~ Falling back to abstract only
+2026-03-08 16:32:29,877 - INFO - [66/100] Evaluation of Hemodynamic and Blood Oxygen Metabolism Altera
+2026-03-08 16:32:29,877 - INFO -   → Trying Unpaywall...
+2026-03-08 16:32:30,412 - INFO -   ~ No open-access PDF on Unpaywall
+2026-03-08 16:32:31,913 - INFO -   → Trying Semantic Scholar...
+2026-03-08 16:32:32,171 - WARNING - Semantic Scholar failed for 10.2174/011570159X385539250706094824: 403 Client Error: Forbidden for url: https://api.semanticscholar.org/graph/v1/paper/DOI:10.2174/011570159X385539250706094824?fields=title%2Cabstract%2CopenAccessPdf%2CexternalIds
+2026-03-08 16:32:33,677 - INFO -   ~ Falling back to abstract only
+2026-03-08 16:32:33,677 - INFO - [67/100] Deciphering Ferroptosis-Related Astrocyte Subpopulations and
+2026-03-08 16:32:33,677 - INFO -   → Trying PMC (PMC12669358)...
+2026-03-08 16:32:34,752 - INFO -   ✓ PMC success → /Users/pilarbourg/Desktop/tfg-pipeline/data/markdown/41324729.md (128628 chars)
+2026-03-08 16:32:36,258 - INFO - [68/100] Metabolic-stem cell crosstalk in PD: NK1 cells as key mediat
+2026-03-08 16:32:36,258 - INFO -   → Trying PMC (PMC12657439)...
+2026-03-08 16:32:37,234 - INFO -   ✓ PMC success → /Users/pilarbourg/Desktop/tfg-pipeline/data/markdown/41323222.md (124349 chars)
+2026-03-08 16:32:38,739 - INFO - [69/100] Beyond Parkinson's Disease: A Narrative Review of Neuromelan
+2026-03-08 16:32:38,740 - INFO -   → Trying Unpaywall...
+2026-03-08 16:32:39,183 - INFO -   ~ No open-access PDF on Unpaywall
+2026-03-08 16:32:40,689 - INFO -   → Trying Semantic Scholar...
+2026-03-08 16:32:41,234 - WARNING - Semantic Scholar failed for 10.1111/jon.70113: 403 Client Error: Forbidden for url: https://api.semanticscholar.org/graph/v1/paper/DOI:10.1111/jon.70113?fields=title%2Cabstract%2CopenAccessPdf%2CexternalIds
+2026-03-08 16:32:42,737 - INFO -   ~ Falling back to abstract only
+2026-03-08 16:32:42,737 - INFO - [70/100] Isoliquiritigenin ameliorates Parkinson's disease via gut mi
+2026-03-08 16:32:42,737 - INFO -   → Trying PMC (PMC12661803)...
+2026-03-08 16:32:43,687 - INFO -   ✓ PMC success → /Users/pilarbourg/Desktop/tfg-pipeline/data/markdown/41316345.md (150605 chars)
+2026-03-08 21:34:50,485 - INFO - Searching PubMed...
+2026-03-08 21:34:51,737 - INFO - Found 5 PMIDs
+2026-03-08 21:34:51,738 - INFO - [1/5] Processing PMID 41786819
+2026-03-08 21:34:53,368 - INFO - Abstract only (no PMC)
+2026-03-08 21:34:53,774 - INFO - [2/5] Processing PMID 41782527
+2026-03-08 21:34:55,750 - INFO - Abstract only (no PMC)
+2026-03-08 21:34:56,155 - INFO - [3/5] Processing PMID 41780778
+2026-03-08 21:34:57,536 - ERROR - Error fetching PMCID for 41780778: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-03-08 21:34:57,537 - INFO - Abstract only (no PMC)
+2026-03-08 21:34:57,942 - INFO - [4/5] Processing PMID 41780488
+2026-03-08 21:34:59,264 - INFO - Abstract only (no PMC)
+2026-03-08 21:34:59,665 - INFO - [5/5] Processing PMID 41778714
+2026-03-08 21:35:01,551 - INFO - Abstract only (no PMC)
+2026-03-08 21:35:01,958 - INFO - Processing completed. 5 papers saved --> 0 have PMC full-text, 5 have abstracts. 
+2026-03-08 21:38:07,348 - INFO - Use pytorch device_name: mps
+2026-03-08 21:38:07,351 - INFO - Load pretrained SentenceTransformer: pritamdeka/S-PubMedBert-MS-MARCO
+2026-03-08 21:40:05,938 - INFO - Use pytorch device_name: mps
+2026-03-08 21:40:05,940 - INFO - Load pretrained SentenceTransformer: pritamdeka/S-PubMedBert-MS-MARCO
+2026-03-08 21:40:09,819 - INFO - [1/5] Linking cortical morphology and neurophysiological dynamics 
+2026-03-08 21:40:09,819 - INFO - Storing abstract...
+2026-03-08 21:40:09,832 - INFO - Storing 2 chunks for: Linking cortical morphology an...
+2026-03-08 21:40:11,357 - INFO - [2/5] [Selective neurodegeneration in patients with parkinson's di
+2026-03-08 21:40:11,357 - INFO - Storing abstract...
+2026-03-08 21:40:11,358 - INFO - Storing 5 chunks for: [Selective neurodegeneration i...
+2026-03-08 21:40:12,448 - INFO - [3/5] Neurofilament light chain protein exposure contributes to pr
+2026-03-08 21:40:12,449 - INFO - Storing abstract...
+2026-03-08 21:40:12,449 - INFO - Storing 3 chunks for: Neurofilament light chain prot...
+2026-03-08 21:40:12,908 - INFO - [4/5] Deep learning-based MRI segmentation for substantia nigra in
+2026-03-08 21:40:12,908 - INFO - Storing abstract...
+2026-03-08 21:40:12,909 - INFO - Storing 2 chunks for: Deep learning-based MRI segmen...
+2026-03-08 21:40:12,995 - INFO - [5/5] Exosomes and microRNAs in the treatment of in vivo and in vi
+2026-03-08 21:40:12,995 - INFO - Storing abstract...
+2026-03-08 21:40:12,995 - INFO - Storing 3 chunks for: Exosomes and microRNAs in the ...
+2026-03-08 21:40:13,331 - INFO - 
+completed. 0/5 papers have full text, 5 have abstracts
+2026-03-08 21:40:13,331 - INFO - Database connection closed.
+2026-03-08 21:40:43,390 - INFO - Searching PubMed...
+2026-03-08 21:40:43,975 - INFO - Found 10 PMIDs
+2026-03-08 21:40:43,976 - INFO - [1/10] Processing PMID 41786819
+2026-03-08 21:40:45,600 - INFO - Abstract only (no PMC)
+2026-03-08 21:40:46,005 - INFO - [2/10] Processing PMID 41782527
+2026-03-08 21:40:47,512 - INFO - Abstract only (no PMC)
+2026-03-08 21:40:47,915 - INFO - [3/10] Processing PMID 41780778
+2026-03-08 21:40:49,465 - INFO - Abstract only (no PMC)
+2026-03-08 21:40:49,867 - INFO - [4/10] Processing PMID 41780488
+2026-03-08 21:40:51,479 - INFO - Abstract only (no PMC)
+2026-03-08 21:40:51,883 - INFO - [5/10] Processing PMID 41778714
+2026-03-08 21:40:53,356 - INFO - Abstract only (no PMC)
+2026-03-08 21:40:53,760 - INFO - [6/10] Processing PMID 41776571
+2026-03-08 21:40:55,171 - INFO - Abstract only (no PMC)
+2026-03-08 21:40:55,575 - INFO - [7/10] Processing PMID 41750699
+2026-03-08 21:40:57,288 - INFO - PMC full-text available: PMC12939763
+2026-03-08 21:40:57,691 - INFO - [8/10] Processing PMID 41750176
+2026-03-08 21:40:59,338 - INFO - PMC full-text available: PMC12939130
+2026-03-08 21:40:59,743 - INFO - [9/10] Processing PMID 41744388
+2026-03-08 21:41:01,626 - INFO - Abstract only (no PMC)
+2026-03-08 21:41:02,032 - INFO - [10/10] Processing PMID 41738058
+2026-03-08 21:41:03,373 - INFO - PMC full-text available: PMC12927845
+2026-03-08 21:41:03,780 - INFO - Processing completed. 10 papers saved --> 3 have PMC full-text, 10 have abstracts. 
+2026-03-08 21:41:16,609 - INFO - Use pytorch device_name: mps
+2026-03-08 21:41:16,609 - INFO - Load pretrained SentenceTransformer: pritamdeka/S-PubMedBert-MS-MARCO
+2026-03-08 21:41:19,956 - INFO - [1/10] Linking cortical morphology and neurophysiological dynamics 
+2026-03-08 21:41:19,956 - INFO - Storing abstract...
+2026-03-08 21:41:19,958 - INFO - Skipping Linking cortical morphology an - already exists in DB.
+2026-03-08 21:41:19,958 - INFO - [2/10] [Selective neurodegeneration in patients with parkinson's di
+2026-03-08 21:41:19,958 - INFO - Storing abstract...
+2026-03-08 21:41:19,958 - INFO - Skipping [Selective neurodegeneration i - already exists in DB.
+2026-03-08 21:41:19,958 - INFO - [3/10] Neurofilament light chain protein exposure contributes to pr
+2026-03-08 21:41:19,958 - INFO - Storing abstract...
+2026-03-08 21:41:19,958 - INFO - Skipping Neurofilament light chain prot - already exists in DB.
+2026-03-08 21:41:19,958 - INFO - [4/10] Deep learning-based MRI segmentation for substantia nigra in
+2026-03-08 21:41:19,958 - INFO - Storing abstract...
+2026-03-08 21:41:19,959 - INFO - Skipping Deep learning-based MRI segmen - already exists in DB.
+2026-03-08 21:41:19,959 - INFO - [5/10] Exosomes and microRNAs in the treatment of in vivo and in vi
+2026-03-08 21:41:19,959 - INFO - Storing abstract...
+2026-03-08 21:41:19,959 - INFO - Skipping Exosomes and microRNAs in the  - already exists in DB.
+2026-03-08 21:41:19,959 - INFO - [6/10] Sex-specific metabolic and microbial remodeling in a rotenon
+2026-03-08 21:41:19,959 - INFO - Storing abstract...
+2026-03-08 21:41:19,960 - INFO - Storing 5 chunks for: Sex-specific metabolic and mic...
+2026-03-08 21:41:20,652 - INFO - [7/10] Early Diagnosis of Parkinson's Disease Through Lite HGWA-Net
+2026-03-08 21:41:20,652 - INFO - Storing abstract...
+2026-03-08 21:41:20,653 - INFO - Storing 3 chunks for: Early Diagnosis of Parkinson's...
+2026-03-08 21:41:20,964 - INFO - Trying PMC (PMC12939763)...
+2026-03-08 21:41:22,308 - INFO - Storing 127 chunks for: Early Diagnosis of Parkinson's...
+2026-03-08 21:41:33,257 - INFO - [8/10] Computational Modeling of Parkinson's Disease Across Scales:
+2026-03-08 21:41:33,259 - INFO - Storing abstract...
+2026-03-08 21:41:33,260 - INFO - Storing 3 chunks for: Computational Modeling of Park...
+2026-03-08 21:41:33,507 - INFO - Trying PMC (PMC12939130)...
+2026-03-08 21:41:34,732 - INFO - Storing 223 chunks for: Computational Modeling of Park...
+2026-03-08 21:41:48,469 - INFO - [9/10] Quantitative measures of total and phosphorylated alpha-synu
+2026-03-08 21:41:48,471 - INFO - Storing abstract...
+2026-03-08 21:41:48,473 - INFO - Storing 4 chunks for: Quantitative measures of total...
+2026-03-08 21:41:48,743 - INFO - [10/10] Functional MRI in Multiple System Atrophy: A Promising Bioma
+2026-03-08 21:41:48,743 - INFO - Storing abstract...
+2026-03-08 21:41:48,744 - INFO - Storing 3 chunks for: Functional MRI in Multiple Sys...
+2026-03-08 21:41:48,815 - INFO - Trying PMC (PMC12927845)...
+2026-03-08 21:41:50,130 - INFO - Storing 144 chunks for: Functional MRI in Multiple Sys...
+2026-03-08 21:41:59,665 - INFO - 
+completed. 3/10 papers have full text, 10 have abstracts
+2026-03-08 21:41:59,666 - INFO - Database connection closed.
+2026-03-08 21:55:29,328 - INFO - Use pytorch device_name: mps
+2026-03-08 21:55:29,329 - INFO - Load pretrained SentenceTransformer: pritamdeka/S-PubMedBert-MS-MARCO
+2026-03-08 21:55:32,446 - ERROR - Pipeline crashed: name 'DocumentConverter' is not defined
+2026-03-08 21:55:32,446 - INFO - Database connection closed.
+2026-03-08 21:55:58,206 - INFO - Use pytorch device_name: mps
+2026-03-08 21:55:58,206 - INFO - Load pretrained SentenceTransformer: pritamdeka/S-PubMedBert-MS-MARCO
+2026-03-08 21:56:01,164 - INFO - [1/10] Linking cortical morphology and neurophysiological dynamics 
+2026-03-08 21:56:01,165 - INFO - Storing abstract...
+2026-03-08 21:56:01,565 - INFO - [2/10] [Selective neurodegeneration in patients with parkinson's di
+2026-03-08 21:56:01,565 - INFO - Storing abstract...
+2026-03-08 21:56:01,843 - INFO - [3/10] Neurofilament light chain protein exposure contributes to pr
+2026-03-08 21:56:01,843 - INFO - Storing abstract...
+2026-03-08 21:56:02,057 - INFO - [4/10] Deep learning-based MRI segmentation for substantia nigra in
+2026-03-08 21:56:02,057 - INFO - Storing abstract...
+2026-03-08 21:56:02,151 - INFO - [5/10] Exosomes and microRNAs in the treatment of in vivo and in vi
+2026-03-08 21:56:02,151 - INFO - Storing abstract...
+2026-03-08 21:56:02,331 - INFO - [6/10] Sex-specific metabolic and microbial remodeling in a rotenon
+2026-03-08 21:56:02,331 - INFO - Storing abstract...
+2026-03-08 21:56:02,591 - INFO - [7/10] Early Diagnosis of Parkinson's Disease Through Lite HGWA-Net
+2026-03-08 21:56:02,592 - INFO - Storing abstract...
+2026-03-08 21:56:02,744 - INFO - Trying PMC (PMC12939763)...
+2026-03-08 21:56:07,117 - INFO - [8/10] Computational Modeling of Parkinson's Disease Across Scales:
+2026-03-08 21:56:07,117 - INFO - Storing abstract...
+2026-03-08 21:56:07,323 - INFO - Trying PMC (PMC12939130)...
+2026-03-08 21:56:13,023 - INFO - [9/10] Quantitative measures of total and phosphorylated alpha-synu
+2026-03-08 21:56:13,024 - INFO - Storing abstract...
+2026-03-08 21:56:13,253 - INFO - [10/10] Functional MRI in Multiple System Atrophy: A Promising Bioma
+2026-03-08 21:56:13,253 - INFO - Storing abstract...
+2026-03-08 21:56:13,356 - INFO - Trying PMC (PMC12927845)...
+2026-03-08 21:56:17,910 - INFO - 
+completed. 3/10 papers have full text, 10 have abstracts
+2026-03-08 21:56:17,910 - INFO - Database connection closed.
+2026-03-08 21:58:40,479 - INFO - Use pytorch device_name: mps
+2026-03-08 21:58:40,481 - INFO - Load pretrained SentenceTransformer: pritamdeka/S-PubMedBert-MS-MARCO
+2026-03-08 21:58:44,013 - INFO - [1/10] Linking cortical morphology and neurophysiological dynamics 
+2026-03-08 21:58:44,014 - INFO - Storing abstract...
+2026-03-08 21:58:44,303 - INFO - [2/10] [Selective neurodegeneration in patients with parkinson's di
+2026-03-08 21:58:44,304 - INFO - Storing abstract...
+2026-03-08 21:58:44,611 - INFO - [3/10] Neurofilament light chain protein exposure contributes to pr
+2026-03-08 21:58:44,611 - INFO - Storing abstract...
+2026-03-08 21:58:44,831 - INFO - [4/10] Deep learning-based MRI segmentation for substantia nigra in
+2026-03-08 21:58:44,831 - INFO - Storing abstract...
+2026-03-08 21:58:44,960 - INFO - [5/10] Exosomes and microRNAs in the treatment of in vivo and in vi
+2026-03-08 21:58:44,960 - INFO - Storing abstract...
+2026-03-08 21:58:45,126 - INFO - [6/10] Sex-specific metabolic and microbial remodeling in a rotenon
+2026-03-08 21:58:45,126 - INFO - Storing abstract...
+2026-03-08 21:58:45,342 - INFO - [7/10] Early Diagnosis of Parkinson's Disease Through Lite HGWA-Net
+2026-03-08 21:58:45,342 - INFO - Storing abstract...
+2026-03-08 21:58:45,483 - INFO - Trying PMC (PMC12939763)...
+2026-03-08 21:58:49,912 - INFO - [8/10] Computational Modeling of Parkinson's Disease Across Scales:
+2026-03-08 21:58:49,912 - INFO - Storing abstract...
+2026-03-08 21:58:50,123 - INFO - Trying PMC (PMC12939130)...
+2026-03-08 21:58:55,582 - INFO - [9/10] Quantitative measures of total and phosphorylated alpha-synu
+2026-03-08 21:58:55,583 - INFO - Storing abstract...
+2026-03-08 21:58:55,840 - INFO - [10/10] Functional MRI in Multiple System Atrophy: A Promising Bioma
+2026-03-08 21:58:55,840 - INFO - Storing abstract...
+2026-03-08 21:58:55,974 - INFO - Trying PMC (PMC12927845)...
+2026-03-08 21:58:59,774 - INFO - 
+completed. 3/10 papers have full text, 10 have abstracts
+2026-03-08 21:58:59,774 - INFO - Database connection closed.
+2026-03-15 11:31:26,217 - INFO - Found 10 existing papers in index
+2026-03-15 11:31:26,218 - INFO - Searching PubMed...
+2026-03-15 11:31:28,178 - INFO - Found 200 PMIDs, 190 are new
+2026-03-15 11:31:28,178 - INFO - [1/190] Processing PMID 41828349
+2026-03-15 11:31:31,048 - INFO - Abstract only (no PMC)
+2026-03-15 11:31:31,453 - INFO - [2/190] Processing PMID 41824184
+2026-03-15 11:31:35,757 - INFO - Abstract only (no PMC)
+2026-03-15 11:31:36,162 - INFO - [3/190] Processing PMID 41816040
+2026-03-15 11:31:39,577 - INFO - PMC full-text available: PMC12971341
+2026-03-15 11:31:39,983 - INFO - [4/190] Processing PMID 41814734
+2026-03-15 11:31:43,900 - INFO - Abstract only (no PMC)
+2026-03-15 11:31:44,305 - INFO - [5/190] Processing PMID 41737006
+2026-03-15 11:31:47,843 - INFO - PMC full-text available: PMC12926348
+2026-03-15 11:31:48,248 - INFO - [6/190] Processing PMID 41730497
+2026-03-15 11:31:52,291 - INFO - Abstract only (no PMC)
+2026-03-15 11:31:52,697 - INFO - [7/190] Processing PMID 41699128
+2026-03-15 11:31:56,078 - INFO - Abstract only (no PMC)
+2026-03-15 11:31:56,484 - INFO - [8/190] Processing PMID 41696884
+2026-03-15 11:31:59,280 - INFO - Abstract only (no PMC)
+2026-03-15 11:31:59,686 - INFO - [9/190] Processing PMID 41688474
+2026-03-15 11:32:02,779 - INFO - Abstract only (no PMC)
+2026-03-15 11:32:03,183 - INFO - [10/190] Processing PMID 41686905
+2026-03-15 11:32:07,169 - INFO - PMC full-text available: PMC12904197
+2026-03-15 11:32:07,570 - INFO - [11/190] Processing PMID 41682687
+2026-03-15 11:32:11,708 - INFO - PMC full-text available: PMC12898416
+2026-03-15 11:32:12,109 - INFO - [12/190] Processing PMID 41677652
+2026-03-15 11:32:15,596 - INFO - PMC full-text available: PMC12896428
+2026-03-15 11:32:16,000 - INFO - [13/190] Processing PMID 41673341
+2026-03-15 11:32:20,616 - INFO - Abstract only (no PMC)
+2026-03-15 11:32:21,022 - INFO - [14/190] Processing PMID 41673053
+2026-03-15 11:32:25,117 - INFO - Abstract only (no PMC)
+2026-03-15 11:32:25,520 - INFO - [15/190] Processing PMID 41670296
+2026-03-15 11:32:28,088 - INFO - PMC full-text available: PMC12892403
+2026-03-15 11:32:28,494 - INFO - [16/190] Processing PMID 41665706
+2026-03-15 11:32:30,773 - INFO - PMC full-text available: PMC12891262
+2026-03-15 11:32:31,178 - INFO - [17/190] Processing PMID 41659980
+2026-03-15 11:32:33,410 - INFO - PMC full-text available: PMC12873708
+2026-03-15 11:32:33,816 - INFO - [18/190] Processing PMID 41654200
+2026-03-15 11:32:37,175 - INFO - Abstract only (no PMC)
+2026-03-15 11:32:37,580 - INFO - [19/190] Processing PMID 41646362
+2026-03-15 11:32:41,283 - INFO - PMC full-text available: PMC12869688
+2026-03-15 11:32:41,689 - INFO - [20/190] Processing PMID 41633447
+2026-03-15 11:32:45,051 - INFO - Abstract only (no PMC)
+2026-03-15 11:32:45,457 - INFO - [21/190] Processing PMID 41622469
+2026-03-15 11:32:50,002 - INFO - Abstract only (no PMC)
+2026-03-15 11:32:50,409 - INFO - [22/190] Processing PMID 41620489
+2026-03-15 11:32:54,690 - INFO - PMC full-text available: PMC12963478
+2026-03-15 11:32:55,093 - INFO - [23/190] Processing PMID 41619527
+2026-03-15 11:32:58,882 - INFO - Abstract only (no PMC)
+2026-03-15 11:32:59,283 - INFO - [24/190] Processing PMID 41606412
+2026-03-15 11:33:04,541 - INFO - Abstract only (no PMC)
+2026-03-15 11:33:04,943 - INFO - [25/190] Processing PMID 41603647
+2026-03-15 11:33:07,812 - INFO - Abstract only (no PMC)
+2026-03-15 11:33:08,218 - INFO - [26/190] Processing PMID 41603617
+2026-03-15 11:33:12,165 - INFO - Abstract only (no PMC)
+2026-03-15 11:33:12,570 - INFO - [27/190] Processing PMID 41598431
+2026-03-15 11:33:16,267 - INFO - PMC full-text available: PMC12842032
+2026-03-15 11:33:16,670 - INFO - [28/190] Processing PMID 41594601
+2026-03-15 11:33:19,591 - INFO - PMC full-text available: PMC12838655
+2026-03-15 11:33:19,996 - INFO - [29/190] Processing PMID 41571695
+2026-03-15 11:33:24,046 - INFO - PMC full-text available: PMC12909943
+2026-03-15 11:33:24,447 - INFO - [30/190] Processing PMID 41571558
+2026-03-15 11:33:27,993 - INFO - Abstract only (no PMC)
+2026-03-15 11:33:28,398 - INFO - [31/190] Processing PMID 41549883
+2026-03-15 11:33:31,985 - INFO - Abstract only (no PMC)
+2026-03-15 11:33:32,389 - INFO - [32/190] Processing PMID 41549084
+2026-03-15 11:33:36,184 - INFO - PMC full-text available: PMC12891709
+2026-03-15 11:33:36,589 - INFO - [33/190] Processing PMID 41540043
+2026-03-15 11:33:40,373 - INFO - PMC full-text available: PMC12820131
+2026-03-15 11:33:40,779 - INFO - [34/190] Processing PMID 41540037
+2026-03-15 11:33:43,577 - INFO - PMC full-text available: PMC12909848
+2026-03-15 11:33:43,982 - INFO - [35/190] Processing PMID 41525793
+2026-03-15 11:33:47,639 - INFO - Abstract only (no PMC)
+2026-03-15 11:33:48,044 - INFO - [36/190] Processing PMID 41517809
+2026-03-15 11:33:51,470 - INFO - PMC full-text available: PMC12802056
+2026-03-15 11:33:51,876 - INFO - [37/190] Processing PMID 41516359
+2026-03-15 11:33:57,463 - INFO - PMC full-text available: PMC12786970
+2026-03-15 11:33:57,868 - INFO - [38/190] Processing PMID 41495462
+2026-03-15 11:34:00,781 - INFO - PMC full-text available: PMC12819914
+2026-03-15 11:34:01,182 - INFO - [39/190] Processing PMID 41492395
+2026-03-15 11:34:04,068 - INFO - PMC full-text available: PMC12765053
+2026-03-15 11:34:04,475 - INFO - [40/190] Processing PMID 41484429
+2026-03-15 11:34:08,265 - INFO - Abstract only (no PMC)
+2026-03-15 11:34:08,670 - INFO - [41/190] Processing PMID 41480095
+2026-03-15 11:34:11,872 - INFO - PMC full-text available: PMC12753937
+2026-03-15 11:34:12,277 - INFO - [42/190] Processing PMID 41479687
+2026-03-15 11:34:15,427 - INFO - PMC full-text available: PMC12754217
+2026-03-15 11:34:15,833 - INFO - [43/190] Processing PMID 41467326
+2026-03-15 11:34:20,319 - INFO - Abstract only (no PMC)
+2026-03-15 11:34:20,725 - INFO - [44/190] Processing PMID 41462629
+2026-03-15 11:34:25,645 - INFO - PMC full-text available: PMC12729909
+2026-03-15 11:34:26,047 - INFO - [45/190] Processing PMID 41462565
+2026-03-15 11:34:29,585 - INFO - PMC full-text available: PMC12955899
+2026-03-15 11:34:29,990 - INFO - [46/190] Processing PMID 41440056
+2026-03-15 11:34:33,084 - INFO - PMC full-text available: PMC12731173
+2026-03-15 11:34:33,489 - INFO - [47/190] Processing PMID 41425069
+2026-03-15 11:34:36,075 - INFO - PMC full-text available: PMC12712803
+2026-03-15 11:34:36,481 - INFO - [48/190] Processing PMID 41415889
+2026-03-15 11:34:39,777 - INFO - PMC full-text available: PMC12708609
+2026-03-15 11:34:40,182 - INFO - [49/190] Processing PMID 41408061
+2026-03-15 11:34:44,167 - INFO - PMC full-text available: PMC12711994
+2026-03-15 11:34:44,569 - INFO - [50/190] Processing PMID 41399243
+2026-03-15 11:34:48,984 - INFO - Abstract only (no PMC)
+2026-03-15 11:34:49,389 - INFO - [51/190] Processing PMID 41390775
+2026-03-15 11:34:54,111 - INFO - PMC full-text available: PMC12738572
+2026-03-15 11:34:54,516 - INFO - [52/190] Processing PMID 41373767
+2026-03-15 11:34:57,699 - INFO - PMC full-text available: PMC12692639
+2026-03-15 11:34:58,103 - INFO - [53/190] Processing PMID 41371383
+2026-03-15 11:35:01,566 - INFO - Abstract only (no PMC)
+2026-03-15 11:35:01,969 - INFO - [54/190] Processing PMID 41367207
+2026-03-15 11:35:04,368 - INFO - Abstract only (no PMC)
+2026-03-15 11:35:04,773 - INFO - [55/190] Processing PMID 41361705
+2026-03-15 11:35:08,279 - INFO - Abstract only (no PMC)
+2026-03-15 11:35:08,682 - INFO - [56/190] Processing PMID 41356369
+2026-03-15 11:35:12,050 - INFO - PMC full-text available: PMC12676390
+2026-03-15 11:35:12,456 - INFO - [57/190] Processing PMID 41354321
+2026-03-15 11:35:17,564 - INFO - PMC full-text available: PMC12828830
+2026-03-15 11:35:17,966 - INFO - [58/190] Processing PMID 41346780
+2026-03-15 11:35:20,569 - INFO - PMC full-text available: PMC12672545
+2026-03-15 11:35:20,974 - INFO - [59/190] Processing PMID 41334620
+2026-03-15 11:35:23,188 - INFO - Abstract only (no PMC)
+2026-03-15 11:35:23,593 - INFO - [60/190] Processing PMID 41334612
+2026-03-15 11:35:28,068 - INFO - Abstract only (no PMC)
+2026-03-15 11:35:28,469 - INFO - [61/190] Processing PMID 41324729
+2026-03-15 11:35:31,694 - INFO - PMC full-text available: PMC12669358
+2026-03-15 11:35:32,100 - INFO - [62/190] Processing PMID 41323222
+2026-03-15 11:35:34,789 - INFO - PMC full-text available: PMC12657439
+2026-03-15 11:35:35,191 - INFO - [63/190] Processing PMID 41320758
+2026-03-15 11:35:40,076 - INFO - Abstract only (no PMC)
+2026-03-15 11:35:40,482 - INFO - [64/190] Processing PMID 41316345
+2026-03-15 11:35:42,581 - INFO - PMC full-text available: PMC12661803
+2026-03-15 11:35:42,983 - INFO - [65/190] Processing PMID 41316227
+2026-03-15 11:35:46,132 - INFO - PMC full-text available: PMC12752232
+2026-03-15 11:35:46,533 - INFO - [66/190] Processing PMID 41315429
+2026-03-15 11:35:50,689 - INFO - PMC full-text available: PMC12663206
+2026-03-15 11:35:51,094 - INFO - [67/190] Processing PMID 41309400
+2026-03-15 11:35:53,996 - INFO - Abstract only (no PMC)
+2026-03-15 11:35:54,402 - INFO - [68/190] Processing PMID 41302488
+2026-03-15 11:35:57,887 - INFO - PMC full-text available: PMC12655267
+2026-03-15 11:35:58,292 - INFO - [69/190] Processing PMID 41301903
+2026-03-15 11:36:02,107 - INFO - PMC full-text available: PMC12649921
+2026-03-15 11:36:02,513 - INFO - [70/190] Processing PMID 41298978
+2026-03-15 11:36:06,209 - INFO - Abstract only (no PMC)
+2026-03-15 11:36:06,610 - INFO - [71/190] Processing PMID 41284151
+2026-03-15 11:36:10,475 - INFO - PMC full-text available: PMC12644372
+2026-03-15 11:36:10,881 - INFO - [72/190] Processing PMID 41256487
+2026-03-15 11:36:14,770 - INFO - PMC full-text available: PMC12622019
+2026-03-15 11:36:15,175 - INFO - [73/190] Processing PMID 41254231
+2026-03-15 11:36:19,162 - INFO - PMC full-text available: PMC12627653
+2026-03-15 11:36:19,568 - INFO - [74/190] Processing PMID 41238316
+2026-03-15 11:36:22,834 - INFO - Abstract only (no PMC)
+2026-03-15 11:36:23,237 - INFO - [75/190] Processing PMID 41230915
+2026-03-15 11:36:26,396 - INFO - Abstract only (no PMC)
+2026-03-15 11:36:26,801 - INFO - [76/190] Processing PMID 41226792
+2026-03-15 11:36:28,980 - INFO - PMC full-text available: PMC12611073
+2026-03-15 11:36:29,385 - INFO - [77/190] Processing PMID 41226780
+2026-03-15 11:36:34,067 - INFO - PMC full-text available: PMC12608514
+2026-03-15 11:36:34,473 - INFO - [78/190] Processing PMID 41221779
+2026-03-15 11:36:36,567 - INFO - Abstract only (no PMC)
+2026-03-15 11:36:36,973 - INFO - [79/190] Processing PMID 41189023
+2026-03-15 11:36:39,182 - INFO - PMC full-text available: PMC12584206
+2026-03-15 11:36:39,587 - INFO - [80/190] Processing PMID 41184000
+2026-03-15 11:36:43,327 - INFO - Abstract only (no PMC)
+2026-03-15 11:36:43,733 - INFO - [81/190] Processing PMID 41173226
+2026-03-15 11:36:46,555 - INFO - Abstract only (no PMC)
+2026-03-15 11:36:46,956 - INFO - [82/190] Processing PMID 41168073
+2026-03-15 11:36:51,180 - INFO - PMC full-text available: PMC12790593
+2026-03-15 11:36:51,586 - INFO - [83/190] Processing PMID 41166007
+2026-03-15 11:36:54,644 - INFO - PMC full-text available: PMC12575455
+2026-03-15 11:36:55,051 - INFO - [84/190] Processing PMID 41163272
+2026-03-15 11:36:58,686 - INFO - Abstract only (no PMC)
+2026-03-15 11:36:59,089 - INFO - [85/190] Processing PMID 41152463
+2026-03-15 11:37:01,774 - INFO - PMC full-text available: PMC12569090
+2026-03-15 11:37:02,176 - INFO - [86/190] Processing PMID 41143877
+2026-03-15 11:37:04,576 - INFO - Abstract only (no PMC)
+2026-03-15 11:37:04,982 - INFO - [87/190] Processing PMID 41138763
+2026-03-15 11:37:07,751 - INFO - Abstract only (no PMC)
+2026-03-15 11:37:08,154 - INFO - [88/190] Processing PMID 41137866
+2026-03-15 11:37:11,282 - INFO - Abstract only (no PMC)
+2026-03-15 11:37:11,687 - INFO - [89/190] Processing PMID 41130067
+2026-03-15 11:37:14,216 - INFO - Abstract only (no PMC)
+2026-03-15 11:37:14,620 - INFO - [90/190] Processing PMID 41126410
+2026-03-15 11:37:17,480 - INFO - Abstract only (no PMC)
+2026-03-15 11:37:17,886 - INFO - [91/190] Processing PMID 41125573
+2026-03-15 11:37:20,346 - INFO - PMC full-text available: PMC12546768
+2026-03-15 11:37:20,750 - INFO - [92/190] Processing PMID 41103725
+2026-03-15 11:37:24,033 - INFO - PMC full-text available: PMC12521202
+2026-03-15 11:37:24,435 - INFO - [93/190] Processing PMID 41101605
+2026-03-15 11:37:26,998 - INFO - Abstract only (no PMC)
+2026-03-15 11:37:27,403 - INFO - [94/190] Processing PMID 41099888
+2026-03-15 11:37:30,485 - INFO - PMC full-text available: PMC12532642
+2026-03-15 11:37:30,889 - INFO - [95/190] Processing PMID 41081873
+2026-03-15 11:37:33,088 - INFO - Abstract only (no PMC)
+2026-03-15 11:37:33,493 - INFO - [96/190] Processing PMID 41074605
+2026-03-15 11:37:35,810 - INFO - Abstract only (no PMC)
+2026-03-15 11:37:36,216 - INFO - [97/190] Processing PMID 41069425
+2026-03-15 11:37:38,369 - INFO - PMC full-text available: PMC12507083
+2026-03-15 11:37:38,770 - INFO - [98/190] Processing PMID 41062303
+2026-03-15 11:37:42,877 - INFO - Abstract only (no PMC)
+2026-03-15 11:37:43,282 - INFO - [99/190] Processing PMID 41059096
+2026-03-15 11:37:45,471 - INFO - PMC full-text available: PMC12497787
+2026-03-15 11:37:45,873 - INFO - [100/190] Processing PMID 41049533
+2026-03-15 11:37:48,201 - INFO - PMC full-text available: PMC12488584
+2026-03-15 11:37:48,605 - INFO - [101/190] Processing PMID 41044307
+2026-03-15 11:37:51,964 - INFO - PMC full-text available: PMC12494885
+2026-03-15 11:37:52,369 - INFO - [102/190] Processing PMID 41044086
+2026-03-15 11:37:56,160 - INFO - PMC full-text available: PMC12494779
+2026-03-15 11:37:56,562 - INFO - [103/190] Processing PMID 41041724
+2026-03-15 11:37:59,362 - INFO - PMC full-text available: PMC12710186
+2026-03-15 11:37:59,768 - INFO - [104/190] Processing PMID 41035621
+2026-03-15 11:38:04,021 - INFO - PMC full-text available: PMC12479381
+2026-03-15 11:38:04,422 - INFO - [105/190] Processing PMID 41032219
+2026-03-15 11:38:07,555 - INFO - Abstract only (no PMC)
+2026-03-15 11:38:07,962 - INFO - [106/190] Processing PMID 41009402
+2026-03-15 11:38:10,727 - INFO - PMC full-text available: PMC12469328
+2026-03-15 11:38:11,133 - INFO - [107/190] Processing PMID 41000014
+2026-03-15 11:38:13,570 - INFO - PMC full-text available: PMC12882043
+2026-03-15 11:38:13,976 - INFO - [108/190] Processing PMID 40990107
+2026-03-15 11:38:16,361 - INFO - PMC full-text available: PMC12882056
+2026-03-15 11:38:16,766 - INFO - [109/190] Processing PMID 40986261
+2026-03-15 11:38:19,380 - INFO - Abstract only (no PMC)
+2026-03-15 11:38:19,785 - INFO - [110/190] Processing PMID 40970479
+2026-03-15 11:38:22,608 - INFO - PMC full-text available: PMC12447249
+2026-03-15 11:38:23,014 - INFO - [111/190] Processing PMID 40953773
+2026-03-15 11:38:25,681 - INFO - Abstract only (no PMC)
+2026-03-15 11:38:26,087 - INFO - [112/190] Processing PMID 40953027
+2026-03-15 11:38:28,853 - INFO - PMC full-text available: PMC12541117
+2026-03-15 11:38:29,257 - INFO - [113/190] Processing PMID 40944725
+2026-03-15 11:38:32,335 - INFO - Abstract only (no PMC)
+2026-03-15 11:38:32,737 - INFO - [114/190] Processing PMID 40943199
+2026-03-15 11:38:35,818 - INFO - PMC full-text available: PMC12428065
+2026-03-15 11:38:36,223 - INFO - [115/190] Processing PMID 40928631
+2026-03-15 11:38:39,501 - WARNING - No abstract or PMC
+2026-03-15 11:38:39,906 - INFO - [116/190] Processing PMID 40926450
+2026-03-15 11:38:43,499 - INFO - Abstract only (no PMC)
+2026-03-15 11:38:43,902 - INFO - [117/190] Processing PMID 40926219
+2026-03-15 11:38:46,265 - INFO - PMC full-text available: PMC12418677
+2026-03-15 11:38:46,670 - INFO - [118/190] Processing PMID 40917632
+2026-03-15 11:38:48,925 - INFO - PMC full-text available: PMC12408395
+2026-03-15 11:38:49,330 - INFO - [119/190] Processing PMID 40913219
+2026-03-15 11:38:51,793 - INFO - PMC full-text available: PMC12443628
+2026-03-15 11:38:52,203 - INFO - [120/190] Processing PMID 40904193
+2026-03-15 11:38:55,478 - INFO - Abstract only (no PMC)
+2026-03-15 11:38:55,889 - INFO - [121/190] Processing PMID 40886858
+2026-03-15 11:38:59,071 - INFO - Abstract only (no PMC)
+2026-03-15 11:38:59,482 - INFO - [122/190] Processing PMID 40883328
+2026-03-15 11:39:01,922 - INFO - PMC full-text available: PMC12397205
+2026-03-15 11:39:02,332 - INFO - [123/190] Processing PMID 40885039
+2026-03-15 11:39:05,387 - INFO - Abstract only (no PMC)
+2026-03-15 11:39:05,797 - INFO - [124/190] Processing PMID 40877302
+2026-03-15 11:39:09,180 - INFO - PMC full-text available: PMC12394596
+2026-03-15 11:39:09,590 - INFO - [125/190] Processing PMID 40868280
+2026-03-15 11:39:12,274 - INFO - PMC full-text available: PMC12383787
+2026-03-15 11:39:12,685 - INFO - [126/190] Processing PMID 40866174
+2026-03-15 11:39:15,847 - INFO - Abstract only (no PMC)
+2026-03-15 11:39:16,257 - INFO - [127/190] Processing PMID 40859216
+2026-03-15 11:39:19,581 - INFO - PMC full-text available: PMC12382031
+2026-03-15 11:39:19,991 - INFO - [128/190] Processing PMID 40842884
+2026-03-15 11:39:20,563 - ERROR - Network error fetching pmid 40842884: 502 Server Error: Bad Gateway for url: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=40842884&retmode=xml
+2026-03-15 11:39:20,565 - INFO - [129/190] Processing PMID 40854731
+2026-03-15 11:39:23,873 - INFO - Abstract only (no PMC)
+2026-03-15 11:39:24,273 - INFO - [130/190] Processing PMID 40849829
+2026-03-15 11:39:26,098 - INFO - Abstract only (no PMC)
+2026-03-15 11:39:26,508 - INFO - [131/190] Processing PMID 40849762
+2026-03-15 11:39:29,269 - INFO - Abstract only (no PMC)
+2026-03-15 11:39:29,680 - INFO - [132/190] Processing PMID 40817940
+2026-03-15 11:39:33,777 - INFO - PMC full-text available: PMC12827315
+2026-03-15 11:39:34,188 - INFO - [133/190] Processing PMID 40813952
+2026-03-15 11:39:36,819 - INFO - Abstract only (no PMC)
+2026-03-15 11:39:37,229 - INFO - [134/190] Processing PMID 40808403
+2026-03-15 11:39:40,079 - INFO - Abstract only (no PMC)
+2026-03-15 11:39:40,489 - INFO - [135/190] Processing PMID 40804794
+2026-03-15 11:39:42,993 - INFO - Abstract only (no PMC)
+2026-03-15 11:39:43,404 - INFO - [136/190] Processing PMID 40796318
+2026-03-15 11:39:45,883 - INFO - PMC full-text available: PMC12782169
+2026-03-15 11:39:46,290 - INFO - [137/190] Processing PMID 40793816
+2026-03-15 11:39:48,114 - INFO - Abstract only (no PMC)
+2026-03-15 11:39:48,523 - INFO - [138/190] Processing PMID 40787696
+2026-03-15 11:39:50,982 - INFO - PMC full-text available: PMC12336846
+2026-03-15 11:39:51,387 - INFO - [139/190] Processing PMID 40785005
+2026-03-15 11:39:54,469 - INFO - Abstract only (no PMC)
+2026-03-15 11:39:54,872 - INFO - [140/190] Processing PMID 40771809
+2026-03-15 11:39:56,611 - INFO - PMC full-text available: PMC12325044
+2026-03-15 11:39:57,019 - INFO - [141/190] Processing PMID 40766432
+2026-03-15 11:40:01,079 - INFO - PMC full-text available: PMC12324308
+2026-03-15 11:40:01,490 - INFO - [142/190] Processing PMID 40753721
+2026-03-15 11:40:04,604 - INFO - PMC full-text available: PMC12368294
+2026-03-15 11:40:05,015 - INFO - [143/190] Processing PMID 40752659
+2026-03-15 11:40:08,081 - INFO - Abstract only (no PMC)
+2026-03-15 11:40:08,483 - INFO - [144/190] Processing PMID 40712453
+2026-03-15 11:40:10,475 - INFO - PMC full-text available: PMC12312120
+2026-03-15 11:40:10,885 - INFO - [145/190] Processing PMID 40708841
+2026-03-15 11:40:12,997 - INFO - PMC full-text available: PMC12286813
+2026-03-15 11:40:13,403 - INFO - [146/190] Processing PMID 40702763
+2026-03-15 11:40:15,618 - INFO - PMC full-text available: PMC12287542
+2026-03-15 11:40:16,021 - INFO - [147/190] Processing PMID 40685704
+2026-03-15 11:40:18,762 - INFO - PMC full-text available: PMC12520555
+2026-03-15 11:40:19,164 - INFO - [148/190] Processing PMID 40671962
+2026-03-15 11:40:19,937 - WARNING - Invalid/missing DOI for pmid 40671962: None
+2026-03-15 11:40:20,875 - INFO - PMC full-text available: PMC12265577
+2026-03-15 11:40:21,285 - INFO - [149/190] Processing PMID 40624388
+2026-03-15 11:40:24,675 - INFO - Abstract only (no PMC)
+2026-03-15 11:40:25,086 - INFO - [150/190] Processing PMID 40616442
+2026-03-15 11:40:27,180 - INFO - Abstract only (no PMC)
+2026-03-15 11:40:27,581 - INFO - [151/190] Processing PMID 40616129
+2026-03-15 11:40:29,282 - INFO - PMC full-text available: PMC12231697
+2026-03-15 11:40:29,690 - INFO - [152/190] Processing PMID 40614023
+2026-03-15 11:40:32,964 - INFO - Abstract only (no PMC)
+2026-03-15 11:40:33,372 - INFO - [153/190] Processing PMID 40595525
+2026-03-15 11:40:38,188 - INFO - PMC full-text available: PMC12219618
+2026-03-15 11:40:38,598 - INFO - [154/190] Processing PMID 40580649
+2026-03-15 11:40:40,371 - INFO - Abstract only (no PMC)
+2026-03-15 11:40:40,779 - INFO - [155/190] Processing PMID 40567888
+2026-03-15 11:40:44,543 - INFO - PMC full-text available: PMC12172737
+2026-03-15 11:40:44,952 - INFO - [156/190] Processing PMID 40545947
+2026-03-15 11:40:48,529 - INFO - PMC full-text available: PMC12354321
+2026-03-15 11:40:48,939 - INFO - [157/190] Processing PMID 40544981
+2026-03-15 11:40:51,087 - INFO - Abstract only (no PMC)
+2026-03-15 11:40:51,496 - INFO - [158/190] Processing PMID 40529248
+2026-03-15 11:40:54,264 - INFO - PMC full-text available: PMC12170622
+2026-03-15 11:40:54,669 - INFO - [159/190] Processing PMID 40524254
+2026-03-15 11:40:58,360 - INFO - PMC full-text available: PMC12168260
+2026-03-15 11:40:58,771 - INFO - [160/190] Processing PMID 40512809
+2026-03-15 11:41:01,369 - INFO - PMC full-text available: PMC12588715
+2026-03-15 11:41:01,772 - INFO - [161/190] Processing PMID 40507121
+2026-03-15 11:41:05,221 - INFO - PMC full-text available: PMC12157143
+2026-03-15 11:41:05,629 - INFO - [162/190] Processing PMID 40505974
+2026-03-15 11:41:09,311 - INFO - Abstract only (no PMC)
+2026-03-15 11:41:09,717 - INFO - [163/190] Processing PMID 40496671
+2026-03-15 11:41:13,287 - INFO - PMC full-text available: PMC12149847
+2026-03-15 11:41:13,693 - INFO - [164/190] Processing PMID 40483299
+2026-03-15 11:41:16,957 - INFO - PMC full-text available: PMC12145438
+2026-03-15 11:41:17,363 - INFO - [165/190] Processing PMID 40482943
+2026-03-15 11:41:20,679 - INFO - Abstract only (no PMC)
+2026-03-15 11:41:21,084 - INFO - [166/190] Processing PMID 40481012
+2026-03-15 11:41:23,885 - INFO - PMC full-text available: PMC12144259
+2026-03-15 11:41:24,290 - INFO - [167/190] Processing PMID 40471272
+2026-03-15 11:41:28,568 - INFO - Abstract only (no PMC)
+2026-03-15 11:41:28,970 - INFO - [168/190] Processing PMID 40468922
+2026-03-15 11:41:32,186 - INFO - Abstract only (no PMC)
+2026-03-15 11:41:32,591 - INFO - [169/190] Processing PMID 40466936
+2026-03-15 11:41:36,043 - INFO - Abstract only (no PMC)
+2026-03-15 11:41:36,444 - INFO - [170/190] Processing PMID 40464816
+2026-03-15 11:41:38,981 - INFO - PMC full-text available: PMC12137432
+2026-03-15 11:41:39,385 - INFO - [171/190] Processing PMID 40445293
+2026-03-15 11:41:42,647 - INFO - PMC full-text available: PMC12125439
+2026-03-15 11:41:43,051 - INFO - [172/190] Processing PMID 40435723
+2026-03-15 11:41:45,273 - INFO - PMC full-text available: PMC12155752
+2026-03-15 11:41:45,679 - INFO - [173/190] Processing PMID 40425132
+2026-03-15 11:41:48,580 - INFO - Abstract only (no PMC)
+2026-03-15 11:41:48,985 - INFO - [174/190] Processing PMID 40423044
+2026-03-15 11:41:52,779 - INFO - PMC full-text available: PMC12112995
+2026-03-15 11:41:53,185 - INFO - [175/190] Processing PMID 40422019
+2026-03-15 11:41:56,523 - INFO - PMC full-text available: PMC12110663
+2026-03-15 11:41:56,927 - INFO - [176/190] Processing PMID 40414959
+2026-03-15 11:41:59,953 - INFO - PMC full-text available: PMC12105257
+2026-03-15 11:42:00,358 - INFO - [177/190] Processing PMID 40400910
+2026-03-15 11:42:02,070 - INFO - PMC full-text available: PMC12092470
+2026-03-15 11:42:02,475 - INFO - [178/190] Processing PMID 40398513
+2026-03-15 11:42:06,085 - INFO - Abstract only (no PMC)
+2026-03-15 11:42:06,490 - INFO - [179/190] Processing PMID 40385486
+2026-03-15 11:42:09,914 - INFO - PMC full-text available: PMC12081955
+2026-03-15 11:42:10,318 - INFO - [180/190] Processing PMID 40379880
+2026-03-15 11:42:13,419 - INFO - Abstract only (no PMC)
+2026-03-15 11:42:13,824 - INFO - [181/190] Processing PMID 40376431
+2026-03-15 11:42:17,297 - INFO - PMC full-text available: PMC12075179
+2026-03-15 11:42:17,701 - INFO - [182/190] Processing PMID 40375464
+2026-03-15 11:42:21,292 - INFO - Abstract only (no PMC)
+2026-03-15 11:42:21,693 - INFO - [183/190] Processing PMID 40374370
+2026-03-15 11:42:24,479 - INFO - Abstract only (no PMC)
+2026-03-15 11:42:24,881 - INFO - [184/190] Processing PMID 40370660
+2026-03-15 11:42:26,938 - INFO - PMC full-text available: PMC12075271
+2026-03-15 11:42:27,343 - INFO - [185/190] Processing PMID 40369387
+2026-03-15 11:42:30,624 - INFO - Abstract only (no PMC)
+2026-03-15 11:42:31,031 - INFO - [186/190] Processing PMID 40347998
+2026-03-15 11:42:34,924 - INFO - Abstract only (no PMC)
+2026-03-15 11:42:35,329 - INFO - [187/190] Processing PMID 40326282
+2026-03-15 11:42:37,997 - INFO - PMC full-text available: PMC12782177
+2026-03-15 11:42:38,403 - INFO - [188/190] Processing PMID 40326091
+2026-03-15 11:42:41,274 - INFO - Abstract only (no PMC)
+2026-03-15 11:42:41,679 - INFO - [189/190] Processing PMID 40325027
+2026-03-15 11:42:43,993 - INFO - PMC full-text available: PMC12053755
+2026-03-15 11:42:44,399 - INFO - [190/190] Processing PMID 40280271
+2026-03-15 11:42:46,377 - INFO - Abstract only (no PMC)
+2026-03-15 11:42:46,794 - INFO - Done. 199 total papers in index (190 new)
+2026-03-15 11:43:54,616 - INFO - Use pytorch device_name: mps
+2026-03-15 11:43:54,619 - INFO - Load pretrained SentenceTransformer: pritamdeka/S-PubMedBert-MS-MARCO
+2026-03-15 11:43:58,661 - INFO - [1/199] Linking cortical morphology and neurophysiological dynamics 
+2026-03-15 11:43:58,667 - INFO - Abstract already in DB, skipping
+2026-03-15 11:43:58,667 - INFO - Full text already in DB, skipping
+2026-03-15 11:43:58,667 - INFO - [2/199] [Selective neurodegeneration in patients with parkinson's di
+2026-03-15 11:43:58,667 - INFO - Abstract already in DB, skipping
+2026-03-15 11:43:58,667 - INFO - Full text already in DB, skipping
+2026-03-15 11:43:58,667 - INFO - [3/199] Neurofilament light chain protein exposure contributes to pr
+2026-03-15 11:43:58,667 - INFO - Abstract already in DB, skipping
+2026-03-15 11:43:58,667 - INFO - Full text already in DB, skipping
+2026-03-15 11:43:58,667 - INFO - [4/199] Deep learning-based MRI segmentation for substantia nigra in
+2026-03-15 11:43:58,667 - INFO - Abstract already in DB, skipping
+2026-03-15 11:43:58,667 - INFO - Full text already in DB, skipping
+2026-03-15 11:43:58,668 - INFO - [5/199] Exosomes and microRNAs in the treatment of in vivo and in vi
+2026-03-15 11:43:58,668 - INFO - Abstract already in DB, skipping
+2026-03-15 11:43:58,668 - INFO - Full text already in DB, skipping
+2026-03-15 11:43:58,668 - INFO - [6/199] Sex-specific metabolic and microbial remodeling in a rotenon
+2026-03-15 11:43:58,668 - INFO - Abstract already in DB, skipping
+2026-03-15 11:43:58,668 - INFO - Full text already in DB, skipping
+2026-03-15 11:43:58,668 - INFO - [7/199] Early Diagnosis of Parkinson's Disease Through Lite HGWA-Net
+2026-03-15 11:43:58,668 - INFO - Abstract already in DB, skipping
+2026-03-15 11:43:58,668 - INFO - Full text already in DB, skipping
+2026-03-15 11:43:58,668 - INFO - [8/199] Computational Modeling of Parkinson's Disease Across Scales:
+2026-03-15 11:43:58,668 - INFO - Abstract already in DB, skipping
+2026-03-15 11:43:58,669 - INFO - Full text already in DB, skipping
+2026-03-15 11:43:58,669 - INFO - [9/199] Quantitative measures of total and phosphorylated alpha-synu
+2026-03-15 11:43:58,669 - INFO - Abstract already in DB, skipping
+2026-03-15 11:43:58,669 - INFO - Full text already in DB, skipping
+2026-03-15 11:43:58,669 - INFO - [10/199] Functional MRI in Multiple System Atrophy: A Promising Bioma
+2026-03-15 11:43:58,670 - INFO - Abstract already in DB, skipping
+2026-03-15 11:43:58,670 - INFO - Full text already in DB, skipping
+2026-03-15 11:43:58,670 - INFO - [11/199] The Impact of Motor Symptom Asymmetry on the Relationship Be
+2026-03-15 11:43:58,671 - INFO - Storing abstract...
+2026-03-15 11:44:00,218 - INFO - Full text already in DB, skipping
+2026-03-15 11:44:00,218 - INFO - [12/199] Prebiotics attenuate depressive-like behavior, neuroinflamma
+2026-03-15 11:44:00,219 - INFO - Storing abstract...
+2026-03-15 11:44:00,633 - INFO - Full text already in DB, skipping
+2026-03-15 11:44:00,633 - INFO - [13/199] Progressive iron deposition and widespread neural dysfunctio
+2026-03-15 11:44:00,633 - INFO - Storing abstract...
+2026-03-15 11:44:01,188 - INFO - Trying PMC (PMC12971341)...
+2026-03-15 11:44:07,765 - INFO - [14/199] [Effects of Acanthopanax senticosus extract on Parkinson's d
+2026-03-15 11:44:07,767 - INFO - Storing abstract...
+2026-03-15 11:44:08,150 - INFO - Full text already in DB, skipping
+2026-03-15 11:44:08,150 - INFO - [15/199] Volumetric signatures of basal ganglia-thalamo-cortical and 
+2026-03-15 11:44:08,151 - INFO - Storing abstract...
+2026-03-15 11:44:08,277 - INFO - Trying PMC (PMC12926348)...
+2026-03-15 11:44:18,811 - INFO - [16/199] How cytochrome P450 enzymes in humans are involved in Parkin
+2026-03-15 11:44:18,813 - INFO - Storing abstract...
+2026-03-15 11:44:19,133 - INFO - Full text already in DB, skipping
+2026-03-15 11:44:19,133 - INFO - [17/199] A quantitative DOPA decarboxylase biomarker for diagnosis in
+2026-03-15 11:44:19,134 - INFO - Storing abstract...
+2026-03-15 11:44:19,246 - INFO - Full text already in DB, skipping
+2026-03-15 11:44:19,247 - INFO - [18/199] Model-Based Design of Subthalamic Nucleus Neurons using Hybr
+2026-03-15 11:44:19,247 - INFO - Storing abstract...
+2026-03-15 11:44:19,439 - INFO - Full text already in DB, skipping
+2026-03-15 11:44:19,439 - INFO - [19/199] Neuromelanin imaging outperforms free water imaging in diagn
+2026-03-15 11:44:19,439 - INFO - Storing abstract...
+2026-03-15 11:44:19,568 - INFO - Full text already in DB, skipping
+2026-03-15 11:44:19,568 - INFO - [20/199] At-home movement state classification using totally implanta
+2026-03-15 11:44:19,569 - INFO - Storing abstract...
+2026-03-15 11:44:19,809 - INFO - Trying PMC (PMC12904197)...
+2026-03-15 11:44:27,086 - INFO - [21/199] Speech Impairment in Early Parkinson's Disease Is Associated
+2026-03-15 11:44:27,088 - INFO - Storing abstract...
+2026-03-15 11:44:27,425 - INFO - Trying PMC (PMC12898416)...
+2026-03-15 11:44:33,391 - INFO - [22/199] Copper, Ceruloplasmin, Zinc, and Manganese Levels in Brain a
+2026-03-15 11:44:33,394 - INFO - Storing abstract...
+2026-03-15 11:44:33,725 - INFO - Trying PMC (PMC12896428)...
+2026-03-15 11:44:53,104 - INFO - [23/199] Resting-state motor network connectivity as a biomarker of L
+2026-03-15 11:44:53,107 - INFO - Storing abstract...
+2026-03-15 11:44:53,250 - INFO - Full text already in DB, skipping
+2026-03-15 11:44:53,251 - INFO - [24/199] Free water in the external globus pallidus predicts mild cog
+2026-03-15 11:44:53,251 - INFO - Storing abstract...
+2026-03-15 11:44:53,366 - INFO - Full text already in DB, skipping
+2026-03-15 11:44:53,366 - INFO - [25/199] Cycloastragenol Derivatives Improve Tyrosine Metabolism, Reg
+2026-03-15 11:44:53,367 - INFO - Storing abstract...
+2026-03-15 11:44:53,542 - INFO - Trying PMC (PMC12892403)...
+2026-03-15 11:44:58,504 - INFO - [26/199] Eye tracking as a digital biomarker in neurodegenerative dis
+2026-03-15 11:44:58,506 - INFO - Storing abstract...
+2026-03-15 11:44:58,670 - INFO - Trying PMC (PMC12891262)...
+2026-03-15 11:45:06,528 - INFO - [27/199] Smooth pursuit and memory saccades are impaired in early-sta
+2026-03-15 11:45:06,530 - INFO - Storing abstract...
+2026-03-15 11:45:06,660 - INFO - Trying PMC (PMC12873708)...
+2026-03-15 11:45:13,161 - INFO - [28/199] Cognitive impairment in SCA3: A multi-center cohort study wi
+2026-03-15 11:45:13,164 - INFO - Storing abstract...
+2026-03-15 11:45:13,315 - INFO - Full text already in DB, skipping
+2026-03-15 11:45:13,315 - INFO - [29/199] A Canonical Neural Map and Its Deviations Shape Parkinson's 
+2026-03-15 11:45:13,315 - INFO - Storing abstract...
+2026-03-15 11:45:13,408 - INFO - Trying PMC (PMC12869688)...
+2026-03-15 11:45:21,444 - INFO - [30/199] Leukocytic Dopamine D2 Receptors as Biomarkers for Brain Dop
+2026-03-15 11:45:21,447 - INFO - Storing abstract...
+2026-03-15 11:45:21,601 - INFO - Full text already in DB, skipping
+2026-03-15 11:45:21,601 - INFO - [31/199] Photonic biosensing and optogenetic technologies: Emerging t
+2026-03-15 11:45:21,602 - INFO - Storing abstract...
+2026-03-15 11:45:21,775 - INFO - Full text already in DB, skipping
+2026-03-15 11:45:21,775 - INFO - [32/199] Decoding the impact of visual states on adaptive deep brain 
+2026-03-15 11:45:21,776 - INFO - Storing abstract...
+2026-03-15 11:45:21,818 - INFO - Trying PMC (PMC12963478)...
+2026-03-15 11:45:28,452 - INFO - [33/199] Neuromelanin-sensitive MRI as a biomarker for individualized
+2026-03-15 11:45:28,454 - INFO - Storing abstract...
+2026-03-15 11:45:28,615 - INFO - Full text already in DB, skipping
+2026-03-15 11:45:28,615 - INFO - [34/199] Roseburia intestinalis Offers Vagus-Dependent Neuroprotectio
+2026-03-15 11:45:28,616 - INFO - Storing abstract...
+2026-03-15 11:45:28,738 - INFO - Full text already in DB, skipping
+2026-03-15 11:45:28,739 - INFO - [35/199] Discordance of Dopaminergic Dysfunction and Subcortical Atro
+2026-03-15 11:45:28,740 - INFO - Storing abstract...
+2026-03-15 11:45:29,080 - INFO - Full text already in DB, skipping
+2026-03-15 11:45:29,081 - INFO - [36/199] Clinical and Imaging Characteristics of Parkinson's Disease 
+2026-03-15 11:45:29,081 - INFO - Storing abstract...
+2026-03-15 11:45:29,229 - INFO - Full text already in DB, skipping
+2026-03-15 11:45:29,229 - INFO - [37/199] Deep Brain Stimulation as a Rehabilitation Amplifier: A Prec
+2026-03-15 11:45:29,230 - INFO - Storing abstract...
+2026-03-15 11:45:29,378 - INFO - Trying PMC (PMC12842032)...
+2026-03-15 11:45:33,310 - INFO - [38/199] Melanin and Neuromelanin in Humans: Insights Across Health, 
+2026-03-15 11:45:33,314 - INFO - Storing abstract...
+2026-03-15 11:45:33,485 - INFO - Trying PMC (PMC12838655)...
+2026-03-15 11:45:42,660 - INFO - [39/199] Pallidal beta power is associated with depression in Parkins
+2026-03-15 11:45:42,663 - INFO - Storing abstract...
+2026-03-15 11:45:42,849 - INFO - Trying PMC (PMC12909943)...
+2026-03-15 11:45:49,942 - INFO - [40/199] Hypergraph-Based Multimodal MRI Reveals Thalamus-Mediated Ne
+2026-03-15 11:45:49,944 - INFO - Storing abstract...
+2026-03-15 11:45:50,142 - INFO - Full text already in DB, skipping
+2026-03-15 11:45:50,142 - INFO - [41/199] MRI Assessment of Nigrosome in Parkinson's Disease: Is it Cu
+2026-03-15 11:45:50,143 - INFO - Storing abstract...
+2026-03-15 11:45:50,237 - INFO - Full text already in DB, skipping
+2026-03-15 11:45:50,238 - INFO - [42/199] Elevated cerebral oxygen extraction fraction in Parkinson's 
+2026-03-15 11:45:50,238 - INFO - Storing abstract...
+2026-03-15 11:45:50,339 - INFO - Trying PMC (PMC12891709)...
+2026-03-15 11:45:56,418 - INFO - [43/199] Low-frequency activity in the subthalamic nucleus informs ab
+2026-03-15 11:45:56,421 - INFO - Storing abstract...
+2026-03-15 11:45:56,528 - INFO - Trying PMC (PMC12820131)...
+2026-03-15 11:46:02,151 - INFO - [44/199] UQCRC1 deficiency impairs mitophagy via PINK1-dependent mech
+2026-03-15 11:46:02,153 - INFO - Storing abstract...
+2026-03-15 11:46:02,289 - INFO - Trying PMC (PMC12909848)...
+2026-03-15 11:46:09,997 - INFO - [45/199] Study of blood linear RNA nominates CD55 and DLD as early-st
+2026-03-15 11:46:10,000 - INFO - Storing abstract...
+2026-03-15 11:46:10,160 - INFO - Full text already in DB, skipping
+2026-03-15 11:46:10,160 - INFO - [46/199] Preclinical Catecholaminergic Biomarkers of Central Lewy Bod
+2026-03-15 11:46:10,161 - INFO - Storing abstract...
+2026-03-15 11:46:10,325 - INFO - Trying PMC (PMC12802056)...
+2026-03-15 11:46:14,838 - INFO - [47/199] Mitophagy-NLRP3 Inflammasome Crosstalk in Parkinson's Diseas
+2026-03-15 11:46:14,841 - INFO - Storing abstract...
+2026-03-15 11:46:14,973 - INFO - Trying PMC (PMC12786970)...
+2026-03-15 11:46:20,804 - INFO - [48/199] RRx-001 ameliorates astrocyte pyroptosis by regulating LCN2-
+2026-03-15 11:46:20,806 - INFO - Storing abstract...
+2026-03-15 11:46:20,944 - INFO - Trying PMC (PMC12819914)...
+2026-03-15 11:46:27,955 - INFO - [49/199] Neural and biomarker correlates of the Parkinson's Disease-C
+2026-03-15 11:46:27,958 - INFO - Storing abstract...
+2026-03-15 11:46:28,180 - INFO - Trying PMC (PMC12765053)...
+2026-03-15 11:46:33,300 - INFO - [50/199] Parkinson's disease subtypes and their relationship to demen
+2026-03-15 11:46:33,304 - INFO - Storing abstract...
+2026-03-15 11:46:33,448 - INFO - Full text already in DB, skipping
+2026-03-15 11:46:33,448 - INFO - [51/199] The application of fecal microbiota transplantation in Parki
+2026-03-15 11:46:33,450 - INFO - Storing abstract...
+2026-03-15 11:46:33,511 - INFO - Trying PMC (PMC12753937)...
+2026-03-15 11:46:40,870 - INFO - [52/199] The diagnostic value of transcranial sonography in Swedish p
+2026-03-15 11:46:40,874 - INFO - Storing abstract...
+2026-03-15 11:46:41,014 - INFO - Trying PMC (PMC12754217)...
+2026-03-15 11:46:46,386 - INFO - [53/199] Integration of Volumetric, Iron, and Neuromelanin Magnetic R
+2026-03-15 11:46:46,388 - INFO - Storing abstract...
+2026-03-15 11:46:46,537 - INFO - Full text already in DB, skipping
+2026-03-15 11:46:46,537 - INFO - [54/199] Short-Chain Fatty Acids Enhance EAAT2-Mediated Glutamate Cle
+2026-03-15 11:46:46,538 - INFO - Storing abstract...
+2026-03-15 11:46:46,662 - INFO - Trying PMC (PMC12729909)...
+2026-03-15 11:46:52,070 - INFO - [55/199] Targeting Microglial CD49a Inhibits Neuroinflammation and De
+2026-03-15 11:46:52,072 - INFO - Storing abstract...
+2026-03-15 11:46:52,185 - INFO - Trying PMC (PMC12955899)...
+2026-03-15 11:47:02,530 - INFO - [56/199] Alpha-Synuclein Neurobiology in Parkinson's Disease: A Compr
+2026-03-15 11:47:02,535 - INFO - Storing abstract...
+2026-03-15 11:47:02,678 - INFO - Trying PMC (PMC12731173)...
+2026-03-15 11:47:10,973 - INFO - [57/199] Brain atrophy and cholinergic denervation in progressive sup
+2026-03-15 11:47:10,977 - INFO - Storing abstract...
+2026-03-15 11:47:11,132 - INFO - Trying PMC (PMC12712803)...
+2026-03-15 11:47:15,961 - INFO - [58/199] Abnormal subthalamic nucleus functional connectivity and mac
+2026-03-15 11:47:15,965 - INFO - Storing abstract...
+2026-03-15 11:47:16,172 - INFO - Trying PMC (PMC12708609)...
+2026-03-15 11:47:21,705 - INFO - [59/199] Alternate-day fasting ameliorates α-synuclein pathology and 
+2026-03-15 11:47:21,710 - INFO - Storing abstract...
+2026-03-15 11:47:21,871 - INFO - Trying PMC (PMC12711994)...
+2026-03-15 11:47:29,767 - INFO - [60/199] Cortico-basal oscillations index naturalistic movements duri
+2026-03-15 11:47:29,771 - INFO - Storing abstract...
+2026-03-15 11:47:29,984 - INFO - Full text already in DB, skipping
+2026-03-15 11:47:29,984 - INFO - [61/199] Optogenetic-induced α-synuclein accumulation reveals early s
+2026-03-15 11:47:29,986 - INFO - Storing abstract...
+2026-03-15 11:47:30,052 - INFO - Trying PMC (PMC12738572)...
+2026-03-15 11:47:39,483 - INFO - [62/199] Cell-Free DNA and Mitochondria in Parkinson's Disease.
+2026-03-15 11:47:39,486 - INFO - Storing abstract...
+2026-03-15 11:47:39,644 - INFO - Trying PMC (PMC12692639)...
+2026-03-15 11:47:47,610 - INFO - [63/199] OCT-based retinal biomarkers forecast central nervous system
+2026-03-15 11:47:47,614 - INFO - Storing abstract...
+2026-03-15 11:47:47,747 - INFO - Full text already in DB, skipping
+2026-03-15 11:47:47,747 - INFO - [64/199] Quantification of Neuromelanin as a Neuroimaging Biomarker f
+2026-03-15 11:47:47,748 - INFO - Storing abstract...
+2026-03-15 11:47:47,814 - INFO - Full text already in DB, skipping
+2026-03-15 11:47:47,814 - INFO - [65/199] Changing chronomics of clock, immune and Parkinson's disease
+2026-03-15 11:47:47,816 - INFO - Storing abstract...
+2026-03-15 11:47:47,901 - INFO - Full text already in DB, skipping
+2026-03-15 11:47:47,901 - INFO - [66/199] Linking Cortical Morphology and Neurophysiological Dynamics 
+2026-03-15 11:47:47,902 - INFO - Storing abstract...
+2026-03-15 11:47:48,017 - INFO - Trying PMC (PMC12676390)...
+2026-03-15 11:47:52,810 - INFO - [67/199] Dysregulated metabolism of ceramides and glycosphingolipids 
+2026-03-15 11:47:52,814 - INFO - Storing abstract...
+2026-03-15 11:47:53,083 - INFO - Trying PMC (PMC12828830)...
+2026-03-15 11:47:59,786 - INFO - [68/199] Computational analysis of transcriptome data and mapping of 
+2026-03-15 11:47:59,789 - INFO - Storing abstract...
+2026-03-15 11:47:59,923 - INFO - Trying PMC (PMC12672545)...
+2026-03-15 11:48:06,159 - INFO - [69/199] MRI susceptibility map weighted imaging (SMWI) as a neurodeg
+2026-03-15 11:48:06,163 - INFO - Storing abstract...
+2026-03-15 11:48:06,326 - INFO - Full text already in DB, skipping
+2026-03-15 11:48:06,326 - INFO - [70/199] Evaluation of Hemodynamic and Blood Oxygen Metabolism Altera
+2026-03-15 11:48:06,327 - INFO - Storing abstract...
+2026-03-15 11:48:06,432 - INFO - Full text already in DB, skipping
+2026-03-15 11:48:06,432 - INFO - [71/199] Deciphering Ferroptosis-Related Astrocyte Subpopulations and
+2026-03-15 11:48:06,434 - INFO - Storing abstract...
+2026-03-15 11:48:06,592 - INFO - Trying PMC (PMC12669358)...
+2026-03-15 11:48:13,224 - INFO - [72/199] Metabolic-stem cell crosstalk in PD: NK1 cells as key mediat
+2026-03-15 11:48:13,229 - INFO - Storing abstract...
+2026-03-15 11:48:13,370 - INFO - Trying PMC (PMC12657439)...
+2026-03-15 11:48:18,614 - INFO - [73/199] Beyond Parkinson's Disease: A Narrative Review of Neuromelan
+2026-03-15 11:48:18,618 - INFO - Storing abstract...
+2026-03-15 11:48:18,747 - INFO - Full text already in DB, skipping
+2026-03-15 11:48:18,747 - INFO - [74/199] Isoliquiritigenin ameliorates Parkinson's disease via gut mi
+2026-03-15 11:48:18,749 - INFO - Storing abstract...
+2026-03-15 11:48:18,870 - INFO - Trying PMC (PMC12661803)...
+2026-03-15 11:48:26,443 - INFO - [75/199] Early classification of functional connectomes in Parkinson'
+2026-03-15 11:48:26,449 - INFO - Storing abstract...
+2026-03-15 11:48:26,636 - INFO - Trying PMC (PMC12752232)...
+2026-03-15 11:48:33,942 - INFO - [76/199] Limited predictive value of preoperative nigrosome integrity
+2026-03-15 11:48:33,948 - INFO - Storing abstract...
+2026-03-15 11:48:34,127 - INFO - Trying PMC (PMC12663206)...
+2026-03-15 11:48:38,332 - INFO - [77/199] The Association of Enlarged Perivascular Space with Cerebros
+2026-03-15 11:48:38,337 - INFO - Storing abstract...
+2026-03-15 11:48:38,490 - INFO - Full text already in DB, skipping
+2026-03-15 11:48:38,491 - INFO - [78/199] Summarizing the Role of Selected Adipokines in Parkinson's D
+2026-03-15 11:48:38,492 - INFO - Storing abstract...
+2026-03-15 11:48:38,578 - INFO - Trying PMC (PMC12655267)...
+2026-03-15 11:48:48,661 - INFO - [79/199] Unraveling the Function of PPARα in Neurodegenerative Disord
+2026-03-15 11:48:48,667 - INFO - Storing abstract...
+2026-03-15 11:48:48,864 - INFO - Trying PMC (PMC12649921)...
+2026-03-15 11:48:59,110 - INFO - [80/199] Kynurenine pathway in Parkinson's disease: pathophysiologica
+2026-03-15 11:48:59,112 - INFO - Storing abstract...
+2026-03-15 11:48:59,283 - INFO - Full text already in DB, skipping
+2026-03-15 11:48:59,284 - INFO - [81/199] Neuromelanin-targeted 18F-P3BZA PET/MR imaging of the substa
+2026-03-15 11:48:59,286 - INFO - Storing abstract...
+2026-03-15 11:48:59,487 - INFO - Trying PMC (PMC12644372)...
+2026-03-15 11:49:03,208 - INFO - [82/199] Independent Associations of Sleep and Walking with Cognition
+2026-03-15 11:49:03,213 - INFO - Storing abstract...
+2026-03-15 11:49:03,377 - INFO - Trying PMC (PMC12622019)...
+2026-03-15 11:49:09,404 - INFO - [83/199] Functional PET for mapping metabolic dynamics in Parkinson's
+2026-03-15 11:49:09,410 - INFO - Storing abstract...
+2026-03-15 11:49:09,540 - INFO - Trying PMC (PMC12627653)...
+2026-03-15 11:49:15,935 - INFO - [84/199] Prodromal Parkinson's disease.
+2026-03-15 11:49:15,939 - INFO - Storing abstract...
+2026-03-15 11:49:16,099 - INFO - Full text already in DB, skipping
+2026-03-15 11:49:16,099 - INFO - [85/199] A Preliminary Investigation of Dopamine Transporter Binding 
+2026-03-15 11:49:16,101 - INFO - Storing abstract...
+2026-03-15 11:49:16,241 - INFO - Full text already in DB, skipping
+2026-03-15 11:49:16,241 - INFO - [86/199] Contribution of Cerebellar Glutamatergic and GABAergic Syste
+2026-03-15 11:49:16,243 - INFO - Storing abstract...
+2026-03-15 11:49:16,359 - INFO - Trying PMC (PMC12611073)...
+2026-03-15 11:49:23,716 - INFO - [87/199] GLP-1 and the Degenerating Brain: Exploring Mechanistic Insi
+2026-03-15 11:49:23,720 - INFO - Storing abstract...
+2026-03-15 11:49:23,863 - INFO - Trying PMC (PMC12608514)...
+2026-03-15 11:49:33,230 - INFO - [88/199] Depression in Premanifest Huntington's Disease: Aberrant Eff
+2026-03-15 11:49:33,237 - INFO - Storing abstract...
+2026-03-15 11:49:33,407 - INFO - Full text already in DB, skipping
+2026-03-15 11:49:33,407 - INFO - [89/199] Transaldolase 1 impacts Parkinson's disease pathogenesis via
+2026-03-15 11:49:33,409 - INFO - Storing abstract...
+2026-03-15 11:49:33,503 - INFO - Trying PMC (PMC12584206)...
+2026-03-15 11:49:41,311 - INFO - [90/199] Utility of Locus Coeruleus Signal Intensity on High-resoluti
+2026-03-15 11:49:41,317 - INFO - Storing abstract...
+2026-03-15 11:49:41,491 - INFO - Full text already in DB, skipping
+2026-03-15 11:49:41,491 - INFO - [91/199] Histo-radiological correlations in an early-stage model of a
+2026-03-15 11:49:41,492 - INFO - Storing abstract...
+2026-03-15 11:49:41,558 - INFO - Full text already in DB, skipping
+2026-03-15 11:49:41,558 - INFO - [92/199] Beyond beta rhythms: subthalamic aperiodic broadband power s
+2026-03-15 11:49:41,560 - INFO - Storing abstract...
+2026-03-15 11:49:41,683 - INFO - Trying PMC (PMC12790593)...
+2026-03-15 11:49:50,422 - INFO - [93/199] Early Dopaminergic Dysfunction Induces PRO-VGF Changes in Bl
+2026-03-15 11:49:50,427 - INFO - Storing abstract...
+2026-03-15 11:49:50,560 - INFO - Trying PMC (PMC12575455)...
+2026-03-15 11:49:56,532 - INFO - [94/199] Nanocarrier-Based Therapies: A Breakthrough in Parkinson's D
+2026-03-15 11:49:56,536 - INFO - Storing abstract...
+2026-03-15 11:49:56,674 - INFO - Full text already in DB, skipping
+2026-03-15 11:49:56,674 - INFO - [95/199] Machine learning identifies lactate metabolism biomarkers an
+2026-03-15 11:49:56,676 - INFO - Storing abstract...
+2026-03-15 11:49:56,803 - INFO - Trying PMC (PMC12569090)...
+2026-03-15 11:50:01,651 - INFO - [96/199] Relationship between striatal dopaminergic depletion and cog
+2026-03-15 11:50:01,655 - INFO - Storing abstract...
+2026-03-15 11:50:01,800 - INFO - Full text already in DB, skipping
+2026-03-15 11:50:01,800 - INFO - [97/199] The enhanced Wnt/β-catenin pathway upregulation by sacubitri
+2026-03-15 11:50:01,802 - INFO - Storing abstract...
+2026-03-15 11:50:01,888 - INFO - Full text already in DB, skipping
+2026-03-15 11:50:01,888 - INFO - [98/199] Neuroprotective mechanisms of sodium butyrate in Parkinson's
+2026-03-15 11:50:01,891 - INFO - Storing abstract...
+2026-03-15 11:50:02,017 - INFO - Full text already in DB, skipping
+2026-03-15 11:50:02,017 - INFO - [99/199] Atrazine induces neurotoxic effects in dopaminergic systems 
+2026-03-15 11:50:02,018 - INFO - Storing abstract...
+2026-03-15 11:50:02,128 - INFO - Full text already in DB, skipping
+2026-03-15 11:50:02,128 - INFO - [100/199] Role of 5-Hydroxydecanoate in the Neuroprotective Activity o
+2026-03-15 11:50:02,130 - INFO - Storing abstract...
+2026-03-15 11:50:02,254 - INFO - Full text already in DB, skipping
+2026-03-15 11:50:02,254 - INFO - [101/199] Status dystonicus is a distinct state characterized by palli
+2026-03-15 11:50:02,255 - INFO - Storing abstract...
+2026-03-15 11:50:02,339 - INFO - Trying PMC (PMC12546768)...
+2026-03-15 11:50:06,569 - WARNING - PMC fetch failed for PMC12546768: ("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))
+2026-03-15 11:50:08,073 - INFO - [102/199] Evaluating the efficacy of probiotics in treating Parkinson'
+2026-03-15 11:50:08,076 - INFO - Storing abstract...
+2026-03-15 11:50:08,244 - INFO - Trying PMC (PMC12521202)...
+2026-03-15 11:50:13,152 - INFO - [103/199] Rhynchophylline self-micelle solid dispersion integrated in 
+2026-03-15 11:50:13,157 - INFO - Storing abstract...
+2026-03-15 11:50:13,312 - INFO - Full text already in DB, skipping
+2026-03-15 11:50:13,312 - INFO - [104/199] Spatial metabolomics reveals the effects of Acanthopanax sen
+2026-03-15 11:50:13,314 - INFO - Storing abstract...
+2026-03-15 11:50:13,420 - INFO - Trying PMC (PMC12532642)...
+2026-03-15 11:50:22,703 - INFO - [105/199] Association between nigrosome-1 appearance on MRI and fine m
+2026-03-15 11:50:22,708 - INFO - Storing abstract...
+2026-03-15 11:50:22,840 - INFO - Full text already in DB, skipping
+2026-03-15 11:50:22,840 - INFO - [106/199] The Role of Basal Ganglia Theta Oscillations in Predicting t
+2026-03-15 11:50:22,842 - INFO - Storing abstract...
+2026-03-15 11:50:22,905 - INFO - Full text already in DB, skipping
+2026-03-15 11:50:22,905 - INFO - [107/199] Glymphatic dysfunction as a potential driver of cerebral iro
+2026-03-15 11:50:22,907 - INFO - Storing abstract...
+2026-03-15 11:50:23,053 - INFO - Trying PMC (PMC12507083)...
+2026-03-15 11:50:30,541 - INFO - [108/199] Diagnostic Potential of Macromolecular Proton Fraction Mappi
+2026-03-15 11:50:30,547 - INFO - Storing abstract...
+2026-03-15 11:50:30,746 - INFO - Full text already in DB, skipping
+2026-03-15 11:50:30,746 - INFO - [109/199] Neuroprotective effects of bavachalcone in a mouse model of 
+2026-03-15 11:50:30,749 - INFO - Storing abstract...
+2026-03-15 11:50:30,905 - INFO - Trying PMC (PMC12497787)...
+2026-03-15 11:50:35,953 - INFO - [110/199] Understanding Parkinson's disease: current trends and its mu
+2026-03-15 11:50:35,957 - INFO - Storing abstract...
+2026-03-15 11:50:36,128 - INFO - Trying PMC (PMC12488584)...
+2026-03-15 11:50:41,198 - INFO - [111/199] Evaluating Parkinson's disease biomarkers in substantia nigr
+2026-03-15 11:50:41,203 - INFO - Storing abstract...
+2026-03-15 11:50:41,377 - INFO - Trying PMC (PMC12494885)...
+2026-03-15 11:50:47,601 - INFO - [112/199] Capsaicin and nicotine alleviate MPTP induced olfactory dysf
+2026-03-15 11:50:47,605 - INFO - Storing abstract...
+2026-03-15 11:50:47,821 - INFO - Trying PMC (PMC12494779)...
+2026-03-15 11:50:58,224 - INFO - [113/199] Prediction of Pathological Subthalamic Nucleus Beta Burst Oc
+2026-03-15 11:50:58,230 - INFO - Storing abstract...
+2026-03-15 11:50:58,360 - INFO - Trying PMC (PMC12710186)...
+2026-03-15 11:51:03,644 - INFO - [114/199] Deep-learning segmentation of the substantia nigra from mult
+2026-03-15 11:51:03,648 - INFO - Storing abstract...
+2026-03-15 11:51:03,774 - INFO - Trying PMC (PMC12479381)...
+2026-03-15 11:51:10,948 - INFO - [115/199] Quantitative analysis of striatal subregional asymmetry on 9
+2026-03-15 11:51:10,954 - INFO - Storing abstract...
+2026-03-15 11:51:11,098 - INFO - Full text already in DB, skipping
+2026-03-15 11:51:11,098 - INFO - [116/199] Cinnarizine, a Calcium Channel Blocker, Partially Prevents t
+2026-03-15 11:51:11,100 - INFO - Storing abstract...
+2026-03-15 11:51:11,194 - INFO - Trying PMC (PMC12469328)...
+2026-03-15 11:51:18,799 - INFO - [117/199] Cerebrospinal Fluid Proenkephalin Predicts Striatal Atrophy 
+2026-03-15 11:51:18,804 - INFO - Storing abstract...
+2026-03-15 11:51:18,972 - INFO - Trying PMC (PMC12882043)...
+2026-03-15 11:51:25,236 - INFO - [118/199] Preoperative Functional Connectivity Predicts Antiparkinson 
+2026-03-15 11:51:25,242 - INFO - Storing abstract...
+2026-03-15 11:51:25,407 - INFO - Trying PMC (PMC12882056)...
+2026-03-15 11:51:32,883 - INFO - [119/199] Targeting mGluR7 in Parkinson's disease: a novel approach to
+2026-03-15 11:51:32,889 - INFO - Storing abstract...
+2026-03-15 11:51:33,097 - INFO - Full text already in DB, skipping
+2026-03-15 11:51:33,097 - INFO - [120/199] Free water predicts dementia with Lewy bodies in isolated RE
+2026-03-15 11:51:33,099 - INFO - Storing abstract...
+2026-03-15 11:51:33,234 - INFO - Trying PMC (PMC12447249)...
+2026-03-15 11:51:39,009 - INFO - [121/199] Neuroprotective effect of the herbal pair Coptidis Rhizoma-C
+2026-03-15 11:51:39,016 - INFO - Storing abstract...
+2026-03-15 11:51:39,173 - INFO - Full text already in DB, skipping
+2026-03-15 11:51:39,174 - INFO - [122/199] Predictors of MRI-estimated brain iron deposition in dementi
+2026-03-15 11:51:39,175 - INFO - Storing abstract...
+2026-03-15 11:51:39,304 - INFO - Trying PMC (PMC12541117)...
+2026-03-15 11:51:45,643 - INFO - [123/199] Longitudinal decline in striatal DAT binding in LRRK2 Parkin
+2026-03-15 11:51:45,650 - INFO - Storing abstract...
+2026-03-15 11:51:45,792 - INFO - Full text already in DB, skipping
+2026-03-15 11:51:45,792 - INFO - [124/199] A Review of FDG-PET in Progressive Supranuclear Palsy and Co
+2026-03-15 11:51:45,794 - INFO - Storing abstract...
+2026-03-15 11:51:45,946 - INFO - Trying PMC (PMC12428065)...
+2026-03-15 11:51:55,352 - INFO - [125/199] Editorial for "Hemispheric Asymmetry of Neuromelanin-Iron Dy
+2026-03-15 11:51:55,352 - INFO - Abstract already in DB, skipping
+2026-03-15 11:51:55,353 - INFO - Full text already in DB, skipping
+2026-03-15 11:51:55,353 - INFO - [126/199] Hand muscle strength in Parkinson's disease: A Sarcopenic ep
+2026-03-15 11:51:55,356 - INFO - Storing abstract...
+2026-03-15 11:51:55,497 - INFO - Full text already in DB, skipping
+2026-03-15 11:51:55,497 - INFO - [127/199] Nigral stimulation for freezing of gait: kinematic gait para
+2026-03-15 11:51:55,500 - INFO - Storing abstract...
+2026-03-15 11:51:55,566 - INFO - Trying PMC (PMC12418677)...
+2026-03-15 11:52:01,483 - INFO - [128/199] Striatal metabolomic alterations in a mouse model of Parkins
+2026-03-15 11:52:01,488 - INFO - Storing abstract...
+2026-03-15 11:52:01,635 - INFO - Trying PMC (PMC12408395)...
+2026-03-15 11:52:05,632 - INFO - [129/199] A blood-based DNA damage signature in patients with Parkinso
+2026-03-15 11:52:05,637 - INFO - Storing abstract...
+2026-03-15 11:52:05,769 - INFO - Trying PMC (PMC12443628)...
+2026-03-15 11:52:16,352 - INFO - [130/199] Quantitative susceptibility mapping reveals differences betw
+2026-03-15 11:52:16,356 - INFO - Storing abstract...
+2026-03-15 11:52:16,536 - INFO - Full text already in DB, skipping
+2026-03-15 11:52:16,536 - INFO - [131/199] Multimodal MRI biomarkers optimize differentiation between p
+2026-03-15 11:52:16,537 - INFO - Storing abstract...
+2026-03-15 11:52:16,640 - INFO - Full text already in DB, skipping
+2026-03-15 11:52:16,641 - INFO - [132/199] Chronic adaptive deep brain stimulation for Parkinson's dise
+2026-03-15 11:52:16,644 - INFO - Storing abstract...
+2026-03-15 11:52:16,720 - INFO - Trying PMC (PMC12397205)...
+2026-03-15 11:52:21,563 - INFO - [133/199] CSF markers of neuroinflammation, synaptic dysfunction and [
+2026-03-15 11:52:21,570 - INFO - Storing abstract...
+2026-03-15 11:52:21,761 - INFO - Full text already in DB, skipping
+2026-03-15 11:52:21,761 - INFO - [134/199] Longitudinal non-negative matrix factorization identifies th
+2026-03-15 11:52:21,764 - INFO - Storing abstract...
+2026-03-15 11:52:21,862 - INFO - Trying PMC (PMC12394596)...
+2026-03-15 11:52:26,802 - INFO - [135/199] The Relationship Between Systemic Inflammatory Index and Oth
+2026-03-15 11:52:26,807 - INFO - Storing abstract...
+2026-03-15 11:52:26,945 - INFO - Trying PMC (PMC12383787)...
+2026-03-15 11:52:30,152 - INFO - [136/199] Diagnostic performance of T1-Weighted MRI gray matter biomar
+2026-03-15 11:52:30,159 - INFO - Storing abstract...
+2026-03-15 11:52:30,296 - INFO - Full text already in DB, skipping
+2026-03-15 11:52:30,296 - INFO - [137/199] Differential gene expression and immune profiling in Parkins
+2026-03-15 11:52:30,299 - INFO - Storing abstract...
+2026-03-15 11:52:30,403 - INFO - Trying PMC (PMC12382031)...
+2026-03-15 11:52:36,131 - INFO - [138/199] Optical Detection of the Spatial Structural Alteration in th
+2026-03-15 11:52:36,137 - INFO - Storing abstract...
+2026-03-15 11:52:36,271 - INFO - Full text already in DB, skipping
+2026-03-15 11:52:36,271 - INFO - [139/199] Association between serum inflammatory cytokines, substantia
+2026-03-15 11:52:36,274 - INFO - Storing abstract...
+2026-03-15 11:52:36,363 - INFO - Full text already in DB, skipping
+2026-03-15 11:52:36,363 - INFO - [140/199] Artificial Intelligence Approaches for Early Prediction of P
+2026-03-15 11:52:36,365 - INFO - Storing abstract...
+2026-03-15 11:52:36,438 - INFO - Full text already in DB, skipping
+2026-03-15 11:52:36,438 - INFO - [141/199] Early parkinson's disease: levodopa requirements are associa
+2026-03-15 11:52:36,442 - INFO - Storing abstract...
+2026-03-15 11:52:36,555 - INFO - Trying PMC (PMC12827315)...
+2026-03-15 11:52:40,631 - INFO - [142/199] Mitochondrial dysfunction and oxidative stress in Parkinson'
+2026-03-15 11:52:40,638 - INFO - Storing abstract...
+2026-03-15 11:52:40,774 - INFO - Full text already in DB, skipping
+2026-03-15 11:52:40,774 - INFO - [143/199] Nigrostriatal dopaminergic vulnerability in Parkinson's dise
+2026-03-15 11:52:40,776 - INFO - Storing abstract...
+2026-03-15 11:52:40,849 - INFO - Full text already in DB, skipping
+2026-03-15 11:52:40,850 - INFO - [144/199] Neuroprotective impacts of taurine nanoparticles against rot
+2026-03-15 11:52:40,852 - INFO - Storing abstract...
+2026-03-15 11:52:40,982 - INFO - Full text already in DB, skipping
+2026-03-15 11:52:40,982 - INFO - [145/199] Parkinson's disease progression is shaped by longitudinal ch
+2026-03-15 11:52:40,985 - INFO - Storing abstract...
+2026-03-15 11:52:41,128 - INFO - Trying PMC (PMC12782169)...
+2026-03-15 11:52:48,075 - INFO - [146/199] Predicting Cognition and Affective Changes in Newly Diagnose
+2026-03-15 11:52:48,079 - INFO - Storing abstract...
+2026-03-15 11:52:48,200 - INFO - Full text already in DB, skipping
+2026-03-15 11:52:48,200 - INFO - [147/199] Substantia Nigra Hyperechogenicity Predicts Parkinson's Dise
+2026-03-15 11:52:48,203 - INFO - Storing abstract...
+2026-03-15 11:52:48,298 - INFO - Trying PMC (PMC12336846)...
+2026-03-15 11:52:53,548 - INFO - [148/199] The association of glymphatic system function with cognitive
+2026-03-15 11:52:53,554 - INFO - Storing abstract...
+2026-03-15 11:52:53,701 - INFO - Full text already in DB, skipping
+2026-03-15 11:52:53,702 - INFO - [149/199] Peripheral monocyte transcriptional signatures of inflammati
+2026-03-15 11:52:53,704 - INFO - Storing abstract...
+2026-03-15 11:52:53,784 - INFO - Trying PMC (PMC12325044)...
+2026-03-15 11:52:59,275 - INFO - [150/199] Multivariate Associations Between Neurophysiological Activit
+2026-03-15 11:52:59,283 - INFO - Storing abstract...
+2026-03-15 11:52:59,420 - INFO - Trying PMC (PMC12324308)...
+2026-03-15 11:53:06,108 - INFO - [151/199] Discovery and validation of biomarkers for Parkinson's disea
+2026-03-15 11:53:06,115 - INFO - Storing abstract...
+2026-03-15 11:53:06,338 - INFO - Trying PMC (PMC12368294)...
+2026-03-15 11:53:13,652 - INFO - [152/199] Crosstalk between DNA damage and cGAS-STING immune pathway d
+2026-03-15 11:53:13,659 - INFO - Storing abstract...
+2026-03-15 11:53:13,827 - INFO - Full text already in DB, skipping
+2026-03-15 11:53:13,827 - INFO - [153/199] Decoding Parkinson's Disease: The interplay of cell death pa
+2026-03-15 11:53:13,829 - INFO - Storing abstract...
+2026-03-15 11:53:14,019 - INFO - Trying PMC (PMC12312120)...
+2026-03-15 11:53:23,942 - INFO - [154/199] Subtle concentration changes in zinc hold the key to fibrill
+2026-03-15 11:53:23,949 - INFO - Storing abstract...
+2026-03-15 11:53:24,122 - INFO - Trying PMC (PMC12286813)...
+2026-03-15 11:53:30,569 - INFO - [155/199] Uncovering the Associations of LILRB4 Genotypes With Parkins
+2026-03-15 11:53:30,575 - INFO - Storing abstract...
+2026-03-15 11:53:30,817 - INFO - Trying PMC (PMC12287542)...
+2026-03-15 11:53:37,249 - INFO - [156/199] NAD+-Boosters Improve Mitochondria Quality Control In Parkin
+2026-03-15 11:53:37,255 - INFO - Storing abstract...
+2026-03-15 11:53:37,389 - INFO - Trying PMC (PMC12520555)...
+2026-03-15 11:53:45,466 - INFO - [157/199] Sample-Efficient Reinforcement Learning Controller for Deep 
+2026-03-15 11:53:45,473 - INFO - Storing abstract...
+2026-03-15 11:53:45,605 - INFO - Trying PMC (PMC12265577)...
+2026-03-15 11:53:49,345 - INFO - [158/199] Prediction of Motor Symptom Progression of Parkinson's Disea
+2026-03-15 11:53:49,353 - INFO - Storing abstract...
+2026-03-15 11:53:49,620 - INFO - Full text already in DB, skipping
+2026-03-15 11:53:49,620 - INFO - [159/199] Substantia Nigra Elasticity Measurement Using Transcranial S
+2026-03-15 11:53:49,622 - INFO - Storing abstract...
+2026-03-15 11:53:49,709 - INFO - Full text already in DB, skipping
+2026-03-15 11:53:49,709 - INFO - [160/199] Dorsal hyperintensity and iron deposition patterns in the su
+2026-03-15 11:53:49,713 - INFO - Storing abstract...
+2026-03-15 11:53:49,843 - INFO - Trying PMC (PMC12231697)...
+2026-03-15 11:53:56,304 - INFO - [161/199] Trichloroethylene Exposure and Parkinson's Disease: Environm
+2026-03-15 11:53:56,312 - INFO - Storing abstract...
+2026-03-15 11:53:56,458 - INFO - Full text already in DB, skipping
+2026-03-15 11:53:56,458 - INFO - [162/199] Boundary complexity of cortical and subcortical areas predic
+2026-03-15 11:53:56,460 - INFO - Storing abstract...
+2026-03-15 11:53:56,554 - INFO - Trying PMC (PMC12219618)...
+2026-03-15 11:54:02,985 - INFO - [163/199] GDF15 upregulation in Parkinson's disease: Compensatory mech
+2026-03-15 11:54:02,991 - INFO - Storing abstract...
+2026-03-15 11:54:03,135 - INFO - Full text already in DB, skipping
+2026-03-15 11:54:03,135 - INFO - [164/199] Attentional dysfunction arises from right frontocentral and 
+2026-03-15 11:54:03,137 - INFO - Storing abstract...
+2026-03-15 11:54:03,287 - INFO - Trying PMC (PMC12172737)...
+2026-03-15 11:54:08,788 - INFO - [165/199] Substantia Nigra Iron Deposition in Lewy Body Disease: A Mag
+2026-03-15 11:54:08,796 - INFO - Storing abstract...
+2026-03-15 11:54:08,946 - INFO - Trying PMC (PMC12354321)...
+2026-03-15 11:54:14,015 - INFO - [166/199] Exploring the potential protective mechanism of Gastrodia el
+2026-03-15 11:54:14,021 - INFO - Storing abstract...
+2026-03-15 11:54:14,198 - INFO - Full text already in DB, skipping
+2026-03-15 11:54:14,198 - INFO - [167/199] Alterations in functional and structural connectivity in the
+2026-03-15 11:54:14,200 - INFO - Storing abstract...
+2026-03-15 11:54:14,298 - INFO - Trying PMC (PMC12170622)...
+2026-03-15 11:54:21,248 - INFO - [168/199] Dingzhen pills inhibit neuronal ferroptosis and neuroinflamm
+2026-03-15 11:54:21,256 - INFO - Storing abstract...
+2026-03-15 11:54:21,402 - INFO - Trying PMC (PMC12168260)...
+2026-03-15 11:54:28,935 - INFO - [169/199] Amygdalar and hippocampal volume loss in limbic-predominant 
+2026-03-15 11:54:28,941 - INFO - Storing abstract...
+2026-03-15 11:54:29,111 - INFO - Trying PMC (PMC12588715)...
+2026-03-15 11:54:33,349 - INFO - [170/199] Actual Data on Essential Trace Elements in Parkinson's Disea
+2026-03-15 11:54:33,354 - INFO - Storing abstract...
+2026-03-15 11:54:33,531 - INFO - Trying PMC (PMC12157143)...
+2026-03-15 11:54:39,348 - INFO - [171/199] Evaluating alpha-synuclein proteinopathy and consequences fo
+2026-03-15 11:54:39,354 - INFO - Storing abstract...
+2026-03-15 11:54:39,492 - INFO - Full text already in DB, skipping
+2026-03-15 11:54:39,492 - INFO - [172/199] Longitudinal neuromelanin changes in prodromal and early Par
+2026-03-15 11:54:39,494 - INFO - Storing abstract...
+2026-03-15 11:54:39,559 - INFO - Trying PMC (PMC12149847)...
+2026-03-15 11:54:46,772 - INFO - [173/199] High resolution multi-parametric probabilistic in vivo atlas
+2026-03-15 11:54:46,781 - INFO - Storing abstract...
+2026-03-15 11:54:46,923 - INFO - Trying PMC (PMC12145438)...
+2026-03-15 11:54:50,561 - INFO - [174/199] Comprehensive account of exosome isolation from rat substant
+2026-03-15 11:54:50,568 - INFO - Storing abstract...
+2026-03-15 11:54:50,710 - INFO - Full text already in DB, skipping
+2026-03-15 11:54:50,710 - INFO - [175/199] The combination of the 18F-FDG PET and susceptibility-weight
+2026-03-15 11:54:50,713 - INFO - Storing abstract...
+2026-03-15 11:54:50,819 - INFO - Trying PMC (PMC12144259)...
+2026-03-15 11:54:55,919 - INFO - [176/199] Vascular parkinsonism: an update.
+2026-03-15 11:54:55,924 - INFO - Storing abstract...
+2026-03-15 11:54:56,070 - INFO - Full text already in DB, skipping
+2026-03-15 11:54:56,070 - INFO - [177/199] Neurological Inflammation in Parkinsonism: Current Prognosti
+2026-03-15 11:54:56,072 - INFO - Storing abstract...
+2026-03-15 11:54:56,145 - INFO - Full text already in DB, skipping
+2026-03-15 11:54:56,146 - INFO - [178/199] Unlocking molecular secrets: The role of miRNAs in Parkinson
+2026-03-15 11:54:56,150 - INFO - Storing abstract...
+2026-03-15 11:54:56,229 - INFO - Full text already in DB, skipping
+2026-03-15 11:54:56,229 - INFO - [179/199] Vitamin D and Neurodegenerative Diseases Such as Multiple Sc
+2026-03-15 11:54:56,233 - INFO - Storing abstract...
+2026-03-15 11:54:56,335 - INFO - Trying PMC (PMC12137432)...
+2026-03-15 11:55:00,599 - INFO - [180/199] Fibrinogen and Complement Factor H Induce Parkinsonian and C
+2026-03-15 11:55:00,605 - INFO - Storing abstract...
+2026-03-15 11:55:00,746 - INFO - Trying PMC (PMC12125439)...
+2026-03-15 11:55:05,853 - INFO - [181/199] Automatic identification of Parkinsonism using clinical mult
+2026-03-15 11:55:05,861 - INFO - Storing abstract...
+2026-03-15 11:55:06,169 - INFO - Trying PMC (PMC12155752)...
+2026-03-15 11:55:10,561 - INFO - [182/199] Multimodal markers of immune activation predict cognitive ou
+2026-03-15 11:55:10,571 - INFO - Storing abstract...
+2026-03-15 11:55:10,742 - INFO - Full text already in DB, skipping
+2026-03-15 11:55:10,742 - INFO - [183/199] Redefining Non-Motor Symptoms in Parkinson's Disease.
+2026-03-15 11:55:10,743 - INFO - Storing abstract...
+2026-03-15 11:55:10,801 - INFO - Trying PMC (PMC12112995)...
+2026-03-15 11:55:17,623 - INFO - [184/199] Biosensors for Early Detection of Parkinson's Disease: Princ
+2026-03-15 11:55:17,629 - INFO - Storing abstract...
+2026-03-15 11:55:17,755 - INFO - Trying PMC (PMC12110663)...
+2026-03-15 11:55:25,390 - INFO - [185/199] Choroid plexus enlargement correlates with subcortical tau d
+2026-03-15 11:55:25,398 - INFO - Storing abstract...
+2026-03-15 11:55:25,552 - INFO - Trying PMC (PMC12105257)...
+2026-03-15 11:55:29,882 - INFO - [186/199] The mechanism of electroacupuncture-mediated improvement in 
+2026-03-15 11:55:29,887 - INFO - Storing abstract...
+2026-03-15 11:55:30,031 - INFO - Trying PMC (PMC12092470)...
+2026-03-15 11:55:35,333 - INFO - [187/199] Texture features of T2w magnetic resonance imaging mirror ti
+2026-03-15 11:55:35,341 - INFO - Storing abstract...
+2026-03-15 11:55:35,484 - INFO - Full text already in DB, skipping
+2026-03-15 11:55:35,484 - INFO - [188/199] Randomized, double-blind, placebo-controlled pilot study of 
+2026-03-15 11:55:35,487 - INFO - Storing abstract...
+2026-03-15 11:55:35,616 - INFO - Trying PMC (PMC12081955)...
+2026-03-15 11:55:41,724 - INFO - [189/199] Ferrous sulfate and lipopolysaccharide co-exposure induce ne
+2026-03-15 11:55:41,733 - INFO - Storing abstract...
+2026-03-15 11:55:41,918 - INFO - Full text already in DB, skipping
+2026-03-15 11:55:41,918 - INFO - [190/199] Long-term Probiotics Intervention Facilitates Recovery of Mo
+2026-03-15 11:55:41,922 - INFO - Storing abstract...
+2026-03-15 11:55:42,019 - INFO - Trying PMC (PMC12075179)...
+2026-03-15 11:55:48,084 - INFO - [191/199] Linking polygenic risk scores to dopaminergic neuron loss us
+2026-03-15 11:55:48,092 - INFO - Storing abstract...
+2026-03-15 11:55:48,217 - INFO - Full text already in DB, skipping
+2026-03-15 11:55:48,217 - INFO - [192/199] Neuroprotective Effects of Paeonia lactiflora Through the Re
+2026-03-15 11:55:48,221 - INFO - Storing abstract...
+2026-03-15 11:55:48,341 - INFO - Full text already in DB, skipping
+2026-03-15 11:55:48,341 - INFO - [193/199] In vitro electrophysiological characterization of Parkinson'
+2026-03-15 11:55:48,345 - INFO - Storing abstract...
+2026-03-15 11:55:48,426 - INFO - Trying PMC (PMC12075271)...
+2026-03-15 11:55:53,779 - INFO - [194/199] Development of 18F-Labeled Deuterated Tropane Derivatives wi
+2026-03-15 11:55:53,788 - INFO - Storing abstract...
+2026-03-15 11:55:53,931 - INFO - Full text already in DB, skipping
+2026-03-15 11:55:53,931 - INFO - [195/199] Robust computation of subcortical functional connectivity gu
+2026-03-15 11:55:53,936 - INFO - Storing abstract...
+2026-03-15 11:55:54,044 - INFO - Full text already in DB, skipping
+2026-03-15 11:55:54,044 - INFO - [196/199] Cholinergic degeneration in prodromal and early Parkinson's 
+2026-03-15 11:55:54,047 - INFO - Storing abstract...
+2026-03-15 11:55:54,193 - INFO - Trying PMC (PMC12782177)...
+2026-03-15 11:55:59,614 - INFO - [197/199] Neuroprotective effects of Saccharomyces boulardii and bacte
+2026-03-15 11:55:59,620 - INFO - Storing abstract...
+2026-03-15 11:55:59,727 - INFO - Full text already in DB, skipping
+2026-03-15 11:55:59,727 - INFO - [198/199] Corneal confocal microscopy differentiates patients with sec
+2026-03-15 11:55:59,729 - INFO - Storing abstract...
+2026-03-15 11:55:59,801 - INFO - Trying PMC (PMC12053755)...
+2026-03-15 11:56:03,226 - INFO - [199/199] Neuroadaptation in neurodegenerative diseases: compensatory 
+2026-03-15 11:56:03,236 - INFO - Storing abstract...
+2026-03-15 11:56:03,400 - INFO - Full text already in DB, skipping
+2026-03-15 11:56:03,406 - INFO - 
+completed. 3/199 papers have full text, 198 have abstracts
+2026-03-15 11:56:03,406 - INFO - Database connection closed.

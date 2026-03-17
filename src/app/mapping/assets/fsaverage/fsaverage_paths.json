@@ -1,0 +1,7 @@
+{
+    "left_pial": "/Users/pilarbourg/nilearn_data/fsaverage/pial_left.gii.gz",
+    "right_pial": "/Users/pilarbourg/nilearn_data/fsaverage/pial_right.gii.gz",
+    "left_inflated": "/Users/pilarbourg/nilearn_data/fsaverage/infl_left.gii.gz",
+    "right_inflated": "/Users/pilarbourg/nilearn_data/fsaverage/infl_right.gii.gz",
+    "description": "Full-resolution fsaverage surface mesh."
+}
