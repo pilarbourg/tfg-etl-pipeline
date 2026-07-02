@@ -2,6 +2,9 @@ from dataclasses import dataclass
 
 @dataclass
 class ResearchPaper:
+    """
+    Provides the schema for a research paper and its associated metadata.
+    """
     pmid: str
     title: str
     year: str

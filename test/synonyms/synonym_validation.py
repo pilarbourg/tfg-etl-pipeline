@@ -27,6 +27,9 @@ test_set = [
 TOP_K = 10
 
 def find_rank(chunks, target_doi):
+    """
+    Finds the retrieval position of the target DOI within the top chunk results to verify position.
+    """
     target = target_doi.replace("_abs", "").lower().strip()
     for i, chunk in enumerate(chunks[:TOP_K], start=1):
         doi = chunk["meta"].get("url", "").replace("_abs", "").lower().strip()

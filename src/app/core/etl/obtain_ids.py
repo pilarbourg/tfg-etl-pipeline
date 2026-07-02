@@ -23,19 +23,7 @@ def validate_doi(doi: str | None) -> bool:
 
 def extract_ids_paginated(batch_size: int, offset: int) -> list[str]:
     """
-    Fetches a single paginated batch of PMIDs from PubMed.
-
-    Parameters
-    ----------
-    batch_size : int
-        Number of results to fetch in this batch.
-    offset : int
-        Starting position in the result set.
-
-    Returns
-    -------
-    list[str]
-        List of PMIDs in this batch.
+    Fetches a set of PMIDs from PubMed according to the defined query.
     """
     url = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi"
     params = {
@@ -56,19 +44,8 @@ def extract_ids_paginated(batch_size: int, offset: int) -> list[str]:
 
 def fetch_paper_metadata(pmid: str) -> dict | None:
     """
-    Fetches title, year, DOI, and abstract for a given PMID.
-
-    Parameters
-    ----------
-    pmid : str
-        PubMed identifier for the paper.
-
-    Returns
-    -------
-    dict or None
-        Dictionary containing paper metadata, or None if the request fails.
+    Fetches metadata (title, year, DOI, and abstract) for a given PMID.
     """
-        
     url = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi"
     params = {"db": "pubmed", "id": pmid, "retmode": "xml"}
     try:
@@ -109,6 +86,9 @@ def fetch_paper_metadata(pmid: str) -> dict | None:
         return None
     
 def get_pmcid_from_pmid(pmid: str) -> str | None:
+    """
+    Obtains PMCID from PMID using the NCBI API converter.
+    """
     url = "https://www.ncbi.nlm.nih.gov/pmc/utils/idconv/v1.0/"
     params = {
         "ids": pmid,
@@ -129,17 +109,7 @@ def get_pmcid_from_pmid(pmid: str) -> str | None:
     
 def get_pmid_from_pmcid(pmcid: str) -> str | None:
     """
-    Gets PMID from PMCID using the NCBI elink API.
-
-    Parameters
-    ----------
-    pmcid : str
-        PubMed Central identifier for the paper.
-
-    Returns
-    -------
-    str or None
-        PubMed identifier for the paper, or None if the request fails.
+    Gets PMID from PMCID using the NCBI API converter.
     """
     url = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi"
     params = {
@@ -171,13 +141,8 @@ def get_pmid_from_pmcid(pmcid: str) -> str | None:
     
 def build_pmid_library(max_results: int = 200) -> None:
     """
-    Builds the PMID library of PubMed article IDs and their corresponding metadata.
+    Builds the PMID "library" of PubMed article IDs and their corresponding metadata (seen in metadata_index.json)
     Paginates through PubMed results until max_results new papers are found.
-
-    Parameters
-    ----------
-    max_results : int
-        Number of new papers to add to the index.
     """
     os.makedirs("data", exist_ok=True)
 

@@ -26,7 +26,6 @@ CONVERTER = DocumentConverter(
     }
 )
 
-
 def _is_junk_line(stripped: str) -> bool:
     """
     Returns true for single stray characters or lines containing no letters
@@ -45,20 +44,9 @@ def _is_junk_line(stripped: str) -> bool:
 
 def process_pdf(pmcid: str) -> str | None:
     """
-    Processes the PubMed article in PDF format to ensure tabular data and
-    chemical nomenclature are maintained, especially for complex metabolic data.
-
-    Parameters
-    ----------
-    pmcid : str
-        PubMed Central identifier for the paper.
-
-    Returns
-    -------
-    str or None
-        Path to the processed markdown file on success, or None if processing fails.
+    Processes the PubMed article in PDF format to ensure tabular data and chemical nomenclature are maintained,
+    returning the path if successful.
     """
-
     pdf_path = f"downloads/PMC{pmcid}.pdf"
     output_path = f"results/PMC{pmcid}.md"
 

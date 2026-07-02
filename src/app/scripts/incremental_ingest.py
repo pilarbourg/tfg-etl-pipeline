@@ -28,12 +28,18 @@ logging.basicConfig(
 )
 
 def get_last_run_date(conn) -> str:
+    """
+    Returns the date of last successful pipeline execution from the database.
+    """
     with conn.cursor() as cur:
         cur.execute("SELECT value FROM ingestion_state WHERE key = 'last_run_date'")
         row = cur.fetchone()
         return row[0] if row else "2024/01/01"
 
 def update_last_run_date(conn, date_str: str) -> None:
+    """
+    Updates the pipeline checkpoint date in the database.
+    """
     with conn.cursor() as cur:
         cur.execute("""
             INSERT INTO ingestion_state (key, value, updated_at)
@@ -44,6 +50,9 @@ def update_last_run_date(conn, date_str: str) -> None:
     conn.commit()
 
 def fetch_new_pmids(since_date: str, until_date: str, max_papers: int = 10) -> list[str]:
+    """
+    Returns new PMIDs from PubMed E-utilities API within a window.
+    """
     url = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi"
     pmids = []
     offset = 0
@@ -81,6 +90,9 @@ def fetch_new_pmids(since_date: str, until_date: str, max_papers: int = 10) -> l
 
 
 def process_paper_end_to_end(pmid: str, conn) -> None:
+    """
+    Gets metadata, downloads full-text if available, processes, and ingests a single paper.
+    """
     entry = fetch_paper_metadata(pmid)
     if not entry:
         return

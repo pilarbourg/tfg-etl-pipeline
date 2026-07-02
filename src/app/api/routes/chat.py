@@ -16,7 +16,7 @@ class ChatRequest(BaseModel):
 async def chat_endpoint(request: ChatRequest):
     """
     Streams a RAG-powered response to a research query about PD metabolomics.
-    Returns sources followed by streamed text chunks as newline-delimited JSON.
+    Returns sources followed by streamed text chunks.
     """
     def generate_stream():
         try:

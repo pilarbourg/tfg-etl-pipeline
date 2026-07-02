@@ -11,6 +11,9 @@ def search_metabolite_mentions(
     limit: int = 10, 
     conn = Depends(get_db)
 ):
+    """
+    Returns the top-10 papers that contain the keyword (metabolite), ignoring if it is abstract or full text.
+    """
     with conn.cursor(cursor_factory=RealDictCursor) as cur:
         cur.execute("""
             SELECT DISTINCT ON (pmid)

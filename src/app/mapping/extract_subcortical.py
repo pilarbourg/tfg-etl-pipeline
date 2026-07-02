@@ -42,6 +42,9 @@ PARKINSONS_RELEVANT = {
 }
 
 def write_obj(filepath: str, vertices: np.ndarray, faces: np.ndarray):
+    """
+    Write 3D mesh vertices and faces to a standard Wavefront OBJ file.
+    """
     os.makedirs(os.path.dirname(filepath), exist_ok=True)
     with open(filepath, "w") as f:
         f.write(f"# Subcortical mesh — {os.path.basename(filepath)}\n")
@@ -53,6 +56,9 @@ def write_obj(filepath: str, vertices: np.ndarray, faces: np.ndarray):
             f.write(f"f {face[0]+1} {face[1]+1} {face[2]+1}\n")
 
 def extract_structure(vol_data: np.ndarray, label_id: int, affine: np.ndarray):
+    """
+    Generate a 3D surface mesh from a specific voxel label using marching cubes.
+    """
     mask = (vol_data == label_id).astype(np.float32)
 
     if mask.sum() < 100:
@@ -70,6 +76,9 @@ def extract_structure(vol_data: np.ndarray, label_id: int, affine: np.ndarray):
     return verts_mm.astype(np.float32), faces.astype(np.int32)
 
 def extract_all_subcortical():
+    """
+    Process the segmentation volume to extract all designated subcortical structures.
+    """
     if not os.path.exists(ASEG_PATH):
         raise FileNotFoundError(f"aseg.mgz not found at {ASEG_PATH}")
 
@@ -106,8 +115,10 @@ def extract_all_subcortical():
 
     return new_regions
 
-
 def update_mapping(new_regions: list):
+    """
+    Append or update subcortical region properties in JSON mapping.
+    """
     if os.path.exists(MAPPING_PATH):
         with open(MAPPING_PATH, "r", encoding="utf-8") as f:
             mapping = json.load(f)
@@ -135,4 +146,3 @@ def update_mapping(new_regions: list):
 if __name__ == "__main__":
     new_regions = extract_all_subcortical()
     mapping     = update_mapping(new_regions)
-    print(f"Subcortical extraction complete. Updated mapping saved to {MAPPING_PATH}")

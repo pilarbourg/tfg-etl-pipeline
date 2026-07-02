@@ -1,0 +1,458 @@
+{
+  "info": {
+    "_postman_id": "d62c9021-9d17-4542-ac4f-9aad08e58da8",
+    "name": "PD Metabolomics Atlas Integration Testing",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "_exporter_id": "42738876"
+  },
+  "item": [
+    {
+      "name": "Conversational search (chat)",
+      "request": {
+        "method": "POST",
+        "header": [],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n    \"query\": \"What are the key disrupted metabolic pathways in PD metabolomics?\"\n}",
+          "options": {
+            "raw": {
+              "language": "json"
+            }
+          }
+        },
+        "url": {
+          "raw": "{{baseUrl}}/api/chat",
+          "host": [
+            "{{baseUrl}}"
+          ],
+          "path": [
+            "api",
+            "chat"
+          ]
+        }
+      },
+      "response": [
+        {
+          "name": "200 OK Response",
+          "originalRequest": {
+            "method": "POST",
+            "header": [],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n    \"query\": \"What are the key disrupted metabolic pathways in PD metabolomics?\"\n}",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            },
+            "url": {
+              "raw": "{{baseUrl}}/api/chat",
+              "host": [
+                "{{baseUrl}}"
+              ],
+              "path": [
+                "api",
+                "chat"
+              ]
+            }
+          },
+          "status": "OK",
+          "code": 200,
+          "_postman_previewlanguage": null,
+          "header": [
+            {
+              "key": "date",
+              "value": "Wed, 01 Jul 2026 15:44:13 GMT"
+            },
+            {
+              "key": "server",
+              "value": "uvicorn"
+            },
+            {
+              "key": "content-type",
+              "value": "application/x-ndjson"
+            },
+            {
+              "key": "Transfer-Encoding",
+              "value": "chunked"
+            }
+          ],
+          "cookie": [],
+          "body": "[\n    {\n        \"title\": \"Association of a five-metabolite and early-symptom profile with Parkinson's disease and its clinical progression.\",\n        \"url\": \"10.1038/s41598-026-36756-z\"\n    },\n    {\n        \"title\": \"Cerebrospinal fluid and plasma metabolites in Parkinson's disease: a Mendelian randomization study.\",\n        \"url\": \"10.1038/s41598-025-30521-4\"\n    },\n    {\n        \"title\": \"Association of a five-metabolite and early-symptom profile with Parkinson's disease and its clinical progression.\",\n        \"url\": \"10.1038/s41598-026-36756-z\"\n    },\n    {\n        \"title\": \"Cerebrospinal fluid and plasma metabolites in Parkinson's disease: a Mendelian randomization study.\",\n        \"url\": \"10.1038/s41598-025-30521-4\"\n    },\n    {\n        \"title\": \"Association of a five-metabolite and early-symptom profile with Parkinson's disease and its clinical progression.\",\n        \"url\": \"10.1038/s41598-026-36756-z\"\n    },\n    {\n        \"title\": \"Metabolomics Unveils Disrupted Pathways in Parkinson's Disease: Toward Biomarker-Based Diagnosis.\",\n        \"url\": \"10.1021/acschemneuro.4c00355\"\n    },\n    {\n        \"title\": \"Untargeted serum metabolomics reveals novel metabolite associations and disruptions in amino acid and lipid metabolism in Parkinson's disease.\",\n        \"url\": \"10.1186/s13024-023-00694-5\"\n    },\n    {\n        \"title\": \"Metabolomics Unveils Disrupted Pathways in Parkinson's Disease: Toward Biomarker-Based Diagnosis.\",\n        \"url\": \"10.1021/acschemneuro.4c00355\"\n    },\n    {\n        \"title\": \"Association of a five-metabolite and early-symptom profile with Parkinson's disease and its clinical progression.\",\n        \"url\": \"10.1038/s41598-026-36756-z\"\n    },\n    {\n        \"title\": \"Cerebrospinal fluid and plasma metabolites in Parkinson's disease: a Mendelian randomization study.\",\n        \"url\": \"10.1038/s41598-025-30521-4\"\n    }\n]"
+        }
+      ]
+    },
+    {
+      "name": "Atlas interface (chat)",
+      "request": {
+        "method": "POST",
+        "header": [],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n    \"query\": \"Serotonin\"\n}",
+          "options": {
+            "raw": {
+              "language": "json"
+            }
+          }
+        },
+        "url": {
+          "raw": "{{baseUrl}}/api/atlas-describe",
+          "host": [
+            "{{baseUrl}}"
+          ],
+          "path": [
+            "api",
+            "atlas-describe"
+          ]
+        }
+      },
+      "response": [
+        {
+          "name": "200 OK Response",
+          "originalRequest": {
+            "method": "POST",
+            "header": [],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n    \"query\": \"Serotonin\"\n}",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            },
+            "url": {
+              "raw": "{{baseUrl}}/api/atlas-describe",
+              "host": [
+                "{{baseUrl}}"
+              ],
+              "path": [
+                "api",
+                "atlas-describe"
+              ]
+            }
+          },
+          "status": "OK",
+          "code": 200,
+          "_postman_previewlanguage": null,
+          "header": [
+            {
+              "key": "date",
+              "value": "Wed, 01 Jul 2026 15:50:13 GMT"
+            },
+            {
+              "key": "server",
+              "value": "uvicorn"
+            },
+            {
+              "key": "content-type",
+              "value": "application/x-ndjson"
+            },
+            {
+              "key": "Transfer-Encoding",
+              "value": "chunked"
+            }
+          ],
+          "cookie": [],
+          "body": "[\n    {\n        \"title\": \"Cerebrospinal fluid and plasma metabolites in Parkinson's disease: a Mendelian randomization study.\",\n        \"url\": \"10.1038/s41598-025-30521-4\"\n    },\n    {\n        \"title\": \"Identification of gut metabolites associated with Parkinson's disease using bioinformatic analyses.\",\n        \"url\": \"10.3389/fnagi.2022.927625\"\n    },\n    {\n        \"title\": \"Association of a five-metabolite and early-symptom profile with Parkinson's disease and its clinical progression.\",\n        \"url\": \"10.1038/s41598-026-36756-z\"\n    },\n    {\n        \"title\": \"Amyloids of α-Synuclein Promote Chemical Transformations of Neuronal Cell Metabolites.\",\n        \"url\": \"10.3390/ijms241612849\"\n    },\n    {\n        \"title\": \"Association of a five-metabolite and early-symptom profile with Parkinson's disease and its clinical progression.\",\n        \"url\": \"10.1038/s41598-026-36756-z\"\n    },\n    {\n        \"title\": \"Longitudinal Analysis of Multiple Neurotransmitter Metabolites in Cerebrospinal Fluid in Early Parkinson's Disease.\",\n        \"url\": \"10.1002/mds.28608\"\n    },\n    {\n        \"title\": \"Unraveling the Relation of Parkinson's Disease and Metabolites: A Combined Analysis of Stool and Plasma Metabolites Based on Untargeted Metabolomics Technology.\",\n        \"url\": \"10.1111/cns.70424\"\n    },\n    {\n        \"title\": \"A metabolic profile of polyamines in parkinson disease: A promising biomarker.\",\n        \"url\": \"10.1002/ana.25516\"\n    },\n    {\n        \"title\": \"Association of a five-metabolite and early-symptom profile with Parkinson's disease and its clinical progression.\",\n        \"url\": \"10.1038/s41598-026-36756-z\"\n    },\n    {\n        \"title\": \"Longitudinal Analysis of Multiple Neurotransmitter Metabolites in Cerebrospinal Fluid in Early Parkinson's Disease.\",\n        \"url\": \"10.1002/mds.28608\"\n    }\n]"
+        }
+      ]
+    },
+    {
+      "name": "Admin login",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": [
+        {
+          "name": "401 ERROR Response",
+          "originalRequest": {
+            "method": "POST",
+            "header": [],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n    \"username\": \"ceu_admin\",\n    \"password\": \"wrong\"\n}",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            },
+            "url": {
+              "raw": "{{baseUrl}}/api/auth/login",
+              "host": [
+                "{{baseUrl}}"
+              ],
+              "path": [
+                "api",
+                "auth",
+                "login"
+              ]
+            }
+          },
+          "status": "Unauthorized",
+          "code": 401,
+          "_postman_previewlanguage": null,
+          "header": [
+            {
+              "key": "date",
+              "value": "Thu, 02 Jul 2026 20:05:47 GMT"
+            },
+            {
+              "key": "server",
+              "value": "uvicorn"
+            },
+            {
+              "key": "content-length",
+              "value": "33"
+            },
+            {
+              "key": "content-type",
+              "value": "application/json"
+            }
+          ],
+          "cookie": [],
+          "body": "{\n    \"detail\": \"Invalid credentials.\"\n}"
+        },
+        {
+          "name": "200 OK Response",
+          "originalRequest": {
+            "method": "POST",
+            "header": [],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n    \"username\": \"ceu_admin\",\n    \"password\": \"admin\"\n}",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            },
+            "url": {
+              "raw": "{{baseUrl}}/api/auth/login",
+              "host": [
+                "{{baseUrl}}"
+              ],
+              "path": [
+                "api",
+                "auth",
+                "login"
+              ]
+            }
+          },
+          "status": "OK",
+          "code": 200,
+          "_postman_previewlanguage": null,
+          "header": [
+            {
+              "key": "date",
+              "value": "Thu, 02 Jul 2026 20:06:47 GMT"
+            },
+            {
+              "key": "server",
+              "value": "uvicorn"
+            },
+            {
+              "key": "content-length",
+              "value": "16"
+            },
+            {
+              "key": "content-type",
+              "value": "application/json"
+            }
+          ],
+          "cookie": [],
+          "body": "{\n    \"success\": true\n}"
+        }
+      ]
+    },
+    {
+      "name": "Dashboard stats",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": [
+        {
+          "name": "200 OK Response",
+          "originalRequest": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{baseUrl}}/api/dashboard/stats",
+              "host": [
+                "{{baseUrl}}"
+              ],
+              "path": [
+                "api",
+                "dashboard",
+                "stats"
+              ]
+            }
+          },
+          "status": "OK",
+          "code": 200,
+          "_postman_previewlanguage": null,
+          "header": [
+            {
+              "key": "date",
+              "value": "Thu, 02 Jul 2026 20:07:35 GMT"
+            },
+            {
+              "key": "server",
+              "value": "uvicorn"
+            },
+            {
+              "key": "content-length",
+              "value": "11350"
+            },
+            {
+              "key": "content-type",
+              "value": "application/json"
+            }
+          ],
+          "cookie": [],
+          "body": "{\n    \"total_papers\": 68,\n    \"full_text_count\": 45,\n    \"abstract_only\": 23,\n    \"total_chunks\": 2850,\n    \"avg_chunks_per_paper\": 61,\n    \"chunk_distribution\": [\n        {\n            \"range\": \"21-50\",\n            \"papers\": 18\n        },\n        {\n            \"range\": \"50+\",\n            \"papers\": 27\n        }\n    ],\n    \"recent_docs\": [\n        {\n            \"title\": \"The Gut-Brain-Immune Axis: Multi-Omics Insights into Neurodegenerative and Metabolic Diseases.\",\n            \"doi\": \"10.3390/cells15121089\",\n            \"ingested_at\": \"2026-06-29 17:13:41.262159\",\n            \"chunks\": 84\n        },\n        {\n            \"title\": \"The Gut-Brain-Immune Axis: Multi-Omics Insights into Neurodegenerative and Metabolic Diseases. (Abstract)\",\n            \"doi\": \"10.3390/cells15121089\",\n            \"ingested_at\": \"2026-06-29 17:13:39.942826\",\n            \"chunks\": 2\n        },\n        {\n            \"title\": \"Role of Microbial Toxins in Neurodegenerative Diseases: Insights and Future Perspectives.\",\n            \"doi\": \"10.3390/biom16060790\",\n            \"ingested_at\": \"2026-06-29 17:12:19.563432\",\n            \"chunks\": 68\n        },\n        {\n            \"title\": \"Role of Microbial Toxins in Neurodegenerative Diseases: Insights and Future Perspectives. (Abstract)\",\n            \"doi\": \"10.3390/biom16060790\",\n            \"ingested_at\": \"2026-06-29 17:12:18.801879\",\n            \"chunks\": 1\n        },\n        {\n            \"title\": \"Metabolic Remodeling of the Parkinson's Disease Frontal Cortex Revealed by LC-MS/MS Metabolomics.\",\n            \"doi\": \"10.3390/biom16060866\",\n            \"ingested_at\": \"2026-06-29 17:10:46.855832\",\n            \"chunks\": 37\n        },\n        {\n            \"title\": \"Metabolic Remodeling of the Parkinson's Disease Frontal Cortex Revealed by LC-MS/MS Metabolomics. (Abstract)\",\n            \"doi\": \"10.3390/biom16060866\",\n            \"ingested_at\": \"2026-06-29 17:10:46.081197\",\n            \"chunks\": 1\n        },\n        {\n            \"title\": \"Bile Acid Dysregulation in Parkinson's Disease: Longitudinal Changes and Altered Metabolic Interactions.\",\n            \"doi\": \"10.3390/biom16060875\",\n            \"ingested_at\": \"2026-06-29 17:09:34.117272\",\n            \"chunks\": 80\n        },\n        {\n            \"title\": \"Bile Acid Dysregulation in Parkinson's Disease: Longitudinal Changes and Altered Metabolic Interactions. (Abstract)\",\n            \"doi\": \"10.3390/biom16060875\",\n            \"ingested_at\": \"2026-06-29 17:09:33.370875\",\n            \"chunks\": 1\n        },\n        {\n            \"title\": \"Exploring Mechanistic Targets of Areca catechu Against Neurodegenerative Diseases Through an Integrated Network Pharmacology, Molecular Docking, and Experimental Approaches.\",\n            \"doi\": \"10.3390/ijms27125169\",\n            \"ingested_at\": \"2026-06-29 17:07:53.393393\",\n            \"chunks\": 77\n        },\n        {\n            \"title\": \"Exploring Mechanistic Targets of Areca catechu Against Neurodegenerative Diseases Through an Integrated Network Pharmacology, Molecular Docking, and Experimental Approaches. (Abstract)\",\n            \"doi\": \"10.3390/ijms27125169\",\n            \"ingested_at\": \"2026-06-29 17:07:52.518329\",\n            \"chunks\": 1\n        },\n        {\n            \"title\": \"Change in Swallowing Function and Substance P Levels Associated with Nicergoline in Neurological Disease: A Pilot Study.\",\n            \"doi\": \"10.3390/jcm15124728\",\n            \"ingested_at\": \"2026-06-29 17:05:45.122134\",\n            \"chunks\": 52\n        },\n        {\n            \"title\": \"Change in Swallowing Function and Substance P Levels Associated with Nicergoline in Neurological Disease: A Pilot Study. (Abstract)\",\n            \"doi\": \"10.3390/jcm15124728\",\n            \"ingested_at\": \"2026-06-29 17:05:43.790158\",\n            \"chunks\": 2\n        },\n        {\n            \"title\": \"Targeting the Human Gut Microbiota-Between Conventional Therapy and Precision Genetic Engineering.\",\n            \"doi\": \"10.3390/nu18121958\",\n            \"ingested_at\": \"2026-06-29 17:04:36.968737\",\n            \"chunks\": 51\n        },\n        {\n            \"title\": \"Targeting the Human Gut Microbiota-Between Conventional Therapy and Precision Genetic Engineering. (Abstract)\",\n            \"doi\": \"10.3390/nu18121958\",\n            \"ingested_at\": \"2026-06-29 17:04:36.131020\",\n            \"chunks\": 1\n        },\n        {\n            \"title\": \"Integration of the serum metabolome and gut microbiome underscores the importance of altered lipid metabolism and potential immune modulation in Parkinson's Disease.\",\n            \"doi\": \"10.1016/j.dscb.2026.100310\",\n            \"ingested_at\": \"2026-06-29 17:03:17.910929\",\n            \"chunks\": 74\n        },\n        {\n            \"title\": \"Integration of the serum metabolome and gut microbiome underscores the importance of altered lipid metabolism and potential immune modulation in Parkinson's Disease. (Abstract)\",\n            \"doi\": \"10.1016/j.dscb.2026.100310\",\n            \"ingested_at\": \"2026-06-29 17:03:16.998420\",\n            \"chunks\": 1\n        },\n        {\n            \"title\": \"From cellular heterogeneity to precision medicine: single-cell multi-omics in CNS disease research. (Abstract)\",\n            \"doi\": \"10.3389/fncel.2026.1848558\",\n            \"ingested_at\": \"2026-06-29 17:02:09.250874\",\n            \"chunks\": 1\n        },\n        {\n            \"title\": \"The microbiota-mitochondria axis: linking metabolic dysfunction to neurodegeneration. (Abstract)\",\n            \"doi\": \"10.1007/s11011-026-01914-9\",\n            \"ingested_at\": \"2026-06-29 17:02:03.936166\",\n            \"chunks\": 1\n        },\n        {\n            \"title\": \"Abnormal subthalamic nucleus functional connectivity and machine learning classification in Parkinson's disease: a multisite functional magnetic resonance imaging study.\",\n            \"doi\": \"10.3389/fnagi.2025.1695806\",\n            \"ingested_at\": \"2026-06-28 21:56:59.937339\",\n            \"chunks\": 26\n        },\n        {\n            \"title\": \"Abnormal subthalamic nucleus functional connectivity and machine learning classification in Parkinson's disease: a multisite functional magnetic resonance imaging study. (Abstract)\",\n            \"doi\": \"10.3389/fnagi.2025.1695806\",\n            \"ingested_at\": \"2026-06-28 21:56:59.577355\",\n            \"chunks\": 2\n        },\n        {\n            \"title\": \"Brain atrophy and cholinergic denervation in progressive supranuclear palsy: an MRI and [18F]-FEOBV PET study.\",\n            \"doi\": \"10.3389/fnins.2025.1695541\",\n            \"ingested_at\": \"2026-06-28 21:56:46.612579\",\n            \"chunks\": 43\n        },\n        {\n            \"title\": \"Brain atrophy and cholinergic denervation in progressive supranuclear palsy: an MRI and [18F]-FEOBV PET study. (Abstract)\",\n            \"doi\": \"10.3389/fnins.2025.1695541\",\n            \"ingested_at\": \"2026-06-28 21:56:46.341614\",\n            \"chunks\": 2\n        },\n        {\n            \"title\": \"Alpha-Synuclein Neurobiology in Parkinson's Disease: A Comprehensive Review of Its Role, Mechanisms, and Therapeutic Perspectives.\",\n            \"doi\": \"10.3390/brainsci15121260\",\n            \"ingested_at\": \"2026-06-28 21:56:22.056972\",\n            \"chunks\": 113\n        },\n        {\n            \"title\": \"Alpha-Synuclein Neurobiology in Parkinson's Disease: A Comprehensive Review of Its Role, Mechanisms, and Therapeutic Perspectives. (Abstract)\",\n            \"doi\": \"10.3390/brainsci15121260\",\n            \"ingested_at\": \"2026-06-28 21:56:21.782073\",\n            \"chunks\": 1\n        },\n        {\n            \"title\": \"Targeting Microglial CD49a Inhibits Neuroinflammation and Demonstrates Therapeutic Potential for Parkinson's Disease.\",\n            \"doi\": \"10.1002/advs.202515138\",\n            \"ingested_at\": \"2026-06-28 21:55:41.891926\",\n            \"chunks\": 87\n        },\n        {\n            \"title\": \"Targeting Microglial CD49a Inhibits Neuroinflammation and Demonstrates Therapeutic Potential for Parkinson's Disease. (Abstract)\",\n            \"doi\": \"10.1002/advs.202515138\",\n            \"ingested_at\": \"2026-06-28 21:55:41.653929\",\n            \"chunks\": 1\n        },\n        {\n            \"title\": \"Short-Chain Fatty Acids Enhance EAAT2-Mediated Glutamate Clearance and Alleviate Oxidative Stress in an MPTP Mouse Model of Parkinson's Disease.\",\n            \"doi\": \"10.3390/antiox14121429\",\n            \"ingested_at\": \"2026-06-28 21:55:03.149477\",\n            \"chunks\": 33\n        },\n        {\n            \"title\": \"Short-Chain Fatty Acids Enhance EAAT2-Mediated Glutamate Clearance and Alleviate Oxidative Stress in an MPTP Mouse Model of Parkinson's Disease. (Abstract)\",\n            \"doi\": \"10.3390/antiox14121429\",\n            \"ingested_at\": \"2026-06-28 21:55:02.883543\",\n            \"chunks\": 2\n        },\n        {\n            \"title\": \"Integration of Volumetric, Iron, and Neuromelanin Magnetic Resonance Imaging Measures Effectively Differentiates Parkinson's Disease from Multiple System Atrophy. (Abstract)\",\n            \"doi\": \"10.1002/mds.70153\",\n            \"ingested_at\": \"2026-06-28 21:54:48.216016\",\n            \"chunks\": 2\n        },\n        {\n            \"title\": \"The diagnostic value of transcranial sonography in Swedish parkinsonism patients: A retrospective cohort study with long-term follow-up.\",\n            \"doi\": \"10.1016/j.prdoa.2025.100411\",\n            \"ingested_at\": \"2026-06-28 21:54:45.128517\",\n            \"chunks\": 33\n        },\n        {\n            \"title\": \"The diagnostic value of transcranial sonography in Swedish parkinsonism patients: A retrospective cohort study with long-term follow-up. (Abstract)\",\n            \"doi\": \"10.1016/j.prdoa.2025.100411\",\n            \"ingested_at\": \"2026-06-28 21:54:44.832537\",\n            \"chunks\": 2\n        },\n        {\n            \"title\": \"The application of fecal microbiota transplantation in Parkinson's disease.\",\n            \"doi\": \"10.3389/fnagi.2025.1713899\",\n            \"ingested_at\": \"2026-06-28 21:54:24.783405\",\n            \"chunks\": 96\n        },\n        {\n            \"title\": \"The application of fecal microbiota transplantation in Parkinson's disease. (Abstract)\",\n            \"doi\": \"10.3389/fnagi.2025.1713899\",\n            \"ingested_at\": \"2026-06-28 21:54:24.472449\",\n            \"chunks\": 1\n        },\n        {\n            \"title\": \"Parkinson's disease subtypes and their relationship to dementia with Lewy bodies: a comparative neuroimaging analysis based on nigrostriatal degeneration. (Abstract)\",\n            \"doi\": \"10.1007/s00702-025-03097-6\",\n            \"ingested_at\": \"2026-06-28 21:54:03.921232\",\n            \"chunks\": 2\n        },\n        {\n            \"title\": \"Neural and biomarker correlates of the Parkinson's Disease-Cognitive Rating Scale in Huntington's disease.\",\n            \"doi\": \"10.1016/j.ynirp.2025.100311\",\n            \"ingested_at\": \"2026-06-28 21:53:57.919569\",\n            \"chunks\": 49\n        },\n        {\n            \"title\": \"Neural and biomarker correlates of the Parkinson's Disease-Cognitive Rating Scale in Huntington's disease. (Abstract)\",\n            \"doi\": \"10.1016/j.ynirp.2025.100311\",\n            \"ingested_at\": \"2026-06-28 21:53:57.651565\",\n            \"chunks\": 2\n        },\n        {\n            \"title\": \"RRx-001 ameliorates astrocyte pyroptosis by regulating LCN2-NLRP3 inflammasome activation in an MPTP-induced parkinson's disease mouse model.\",\n            \"doi\": \"10.1007/s00018-025-06003-1\",\n            \"ingested_at\": \"2026-06-28 21:53:39.210553\",\n            \"chunks\": 54\n        },\n        {\n            \"title\": \"RRx-001 ameliorates astrocyte pyroptosis by regulating LCN2-NLRP3 inflammasome activation in an MPTP-induced parkinson's disease mouse model. (Abstract)\",\n            \"doi\": \"10.1007/s00018-025-06003-1\",\n            \"ingested_at\": \"2026-06-28 21:53:38.891760\",\n            \"chunks\": 2\n        },\n        {\n            \"title\": \"Mitophagy-NLRP3 Inflammasome Crosstalk in Parkinson's Disease: Pathogenic Mechanisms and Emerging Therapeutic Strategies.\",\n            \"doi\": \"10.3390/ijms27010486\",\n            \"ingested_at\": \"2026-06-28 21:53:02.044412\",\n            \"chunks\": 114\n        },\n        {\n            \"title\": \"Mitophagy-NLRP3 Inflammasome Crosstalk in Parkinson's Disease: Pathogenic Mechanisms and Emerging Therapeutic Strategies. (Abstract)\",\n            \"doi\": \"10.3390/ijms27010486\",\n            \"ingested_at\": \"2026-06-28 21:53:01.745105\",\n            \"chunks\": 1\n        },\n        {\n            \"title\": \"Preclinical Catecholaminergic Biomarkers of Central Lewy Body Diseases.\",\n            \"doi\": \"10.3988/jcn.2025.0629\",\n            \"ingested_at\": \"2026-06-28 21:52:35.140443\",\n            \"chunks\": 30\n        },\n        {\n            \"title\": \"Preclinical Catecholaminergic Biomarkers of Central Lewy Body Diseases. (Abstract)\",\n            \"doi\": \"10.3988/jcn.2025.0629\",\n            \"ingested_at\": \"2026-06-28 21:52:34.908514\",\n            \"chunks\": 1\n        },\n        {\n            \"title\": \"Study of blood linear RNA nominates CD55 and DLD as early-stage biomarkers for Parkinson's sisease. (Abstract)\",\n            \"doi\": \"10.1093/brain/awag014\",\n            \"ingested_at\": \"2026-06-28 21:52:24.613280\",\n            \"chunks\": 2\n        },\n        {\n            \"title\": \"UQCRC1 deficiency impairs mitophagy via PINK1-dependent mechanisms in Parkinson's disease.\",\n            \"doi\": \"10.1038/s41531-026-01262-6\",\n            \"ingested_at\": \"2026-06-28 21:52:21.051790\",\n            \"chunks\": 45\n        },\n        {\n            \"title\": \"UQCRC1 deficiency impairs mitophagy via PINK1-dependent mechanisms in Parkinson's disease. (Abstract)\",\n            \"doi\": \"10.1038/s41531-026-01262-6\",\n            \"ingested_at\": \"2026-06-28 21:52:20.821753\",\n            \"chunks\": 1\n        },\n        {\n            \"title\": \"Low-frequency activity in the subthalamic nucleus informs about the acute neuropsychiatric state in Parkinson's disease.\",\n            \"doi\": \"10.1038/s41531-025-01233-3\",\n            \"ingested_at\": \"2026-06-28 21:52:04.433995\",\n            \"chunks\": 52\n        },\n        {\n            \"title\": \"Low-frequency activity in the subthalamic nucleus informs about the acute neuropsychiatric state in Parkinson's disease. (Abstract)\",\n            \"doi\": \"10.1038/s41531-025-01233-3\",\n            \"ingested_at\": \"2026-06-28 21:52:04.196991\",\n            \"chunks\": 1\n        },\n        {\n            \"title\": \"Elevated cerebral oxygen extraction fraction in Parkinson's disease correlates with motor impairment severity.\",\n            \"doi\": \"10.1038/s41598-026-36435-z\",\n            \"ingested_at\": \"2026-06-28 21:51:49.600459\",\n            \"chunks\": 29\n        },\n        {\n            \"title\": \"Elevated cerebral oxygen extraction fraction in Parkinson's disease correlates with motor impairment severity. (Abstract)\",\n            \"doi\": \"10.1038/s41598-026-36435-z\",\n            \"ingested_at\": \"2026-06-28 21:51:49.381483\",\n            \"chunks\": 1\n        },\n        {\n            \"title\": \"MRI Assessment of Nigrosome in Parkinson's Disease: Is it Currently a Valuable Tool in Clinical Practice? (Abstract)\",\n            \"doi\": \"10.1002/mdc3.70530\",\n            \"ingested_at\": \"2026-06-28 21:51:39.415406\",\n            \"chunks\": 1\n        }\n    ]\n}"
+        }
+      ]
+    },
+    {
+      "name": "Dashboard keywords",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": [
+        {
+          "name": "200 OK Response",
+          "originalRequest": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{baseUrl}}/api/dashboard/keywords",
+              "host": [
+                "{{baseUrl}}"
+              ],
+              "path": [
+                "api",
+                "dashboard",
+                "keywords"
+              ]
+            }
+          },
+          "status": "OK",
+          "code": 200,
+          "_postman_previewlanguage": null,
+          "header": [
+            {
+              "key": "date",
+              "value": "Thu, 02 Jul 2026 20:12:51 GMT"
+            },
+            {
+              "key": "server",
+              "value": "uvicorn"
+            },
+            {
+              "key": "content-length",
+              "value": "1258"
+            },
+            {
+              "key": "content-type",
+              "value": "application/json"
+            }
+          ],
+          "cookie": [],
+          "body": "{\n    \"keywords\": [\n        {\n            \"word\": \"correlation\",\n            \"freq\": 80\n        },\n        {\n            \"word\": \"cortical\",\n            \"freq\": 79\n        },\n        {\n            \"word\": \"structural\",\n            \"freq\": 72\n        },\n        {\n            \"word\": \"scores\",\n            \"freq\": 56\n        },\n        {\n            \"word\": \"neurophysiological\",\n            \"freq\": 49\n        },\n        {\n            \"word\": \"missing\",\n            \"freq\": 48\n        },\n        {\n            \"word\": \"latent\",\n            \"freq\": 45\n        },\n        {\n            \"word\": \"thickness\",\n            \"freq\": 45\n        },\n        {\n            \"word\": \"electrophysiological\",\n            \"freq\": 42\n        },\n        {\n            \"word\": \"variables\",\n            \"freq\": 41\n        },\n        {\n            \"word\": \"duration\",\n            \"freq\": 38\n        },\n        {\n            \"word\": \"coherence\",\n            \"freq\": 38\n        },\n        {\n            \"word\": \"across\",\n            \"freq\": 37\n        },\n        {\n            \"word\": \"correlations\",\n            \"freq\": 37\n        },\n        {\n            \"word\": \"structure\",\n            \"freq\": 34\n        },\n        {\n            \"word\": \"cortico\",\n            \"freq\": 34\n        },\n        {\n            \"word\": \"average\",\n            \"freq\": 32\n        },\n        {\n            \"word\": \"regions\",\n            \"freq\": 31\n        },\n        {\n            \"word\": \"volume\",\n            \"freq\": 31\n        },\n        {\n            \"word\": \"measures\",\n            \"freq\": 30\n        },\n        {\n            \"word\": \"biomarkers\",\n            \"freq\": 30\n        },\n        {\n            \"word\": \"cortex\",\n            \"freq\": 28\n        },\n        {\n            \"word\": \"neurophysiology\",\n            \"freq\": 27\n        },\n        {\n            \"word\": \"features\",\n            \"freq\": 26\n        },\n        {\n            \"word\": \"associations\",\n            \"freq\": 26\n        },\n        {\n            \"word\": \"surface\",\n            \"freq\": 25\n        },\n        {\n            \"word\": \"weights\",\n            \"freq\": 25\n        },\n        {\n            \"word\": \"pairwise\",\n            \"freq\": 25\n        },\n        {\n            \"word\": \"subcortical\",\n            \"freq\": 23\n        },\n        {\n            \"word\": \"specific\",\n            \"freq\": 23\n        },\n        {\n            \"word\": \"relationship\",\n            \"freq\": 22\n        },\n        {\n            \"word\": \"frequency\",\n            \"freq\": 21\n        },\n        {\n            \"word\": \"partial\",\n            \"freq\": 21\n        },\n        {\n            \"word\": \"primary\",\n            \"freq\": 19\n        },\n        {\n            \"word\": \"metrics\",\n            \"freq\": 19\n        },\n        {\n            \"word\": \"amplitude\",\n            \"freq\": 18\n        },\n        {\n            \"word\": \"morphometric\",\n            \"freq\": 17\n        },\n        {\n            \"word\": \"changes\",\n            \"freq\": 17\n        },\n        {\n            \"word\": \"analyses\",\n            \"freq\": 17\n        },\n        {\n            \"word\": \"permutation\",\n            \"freq\": 16\n        }\n    ]\n}"
+        }
+      ]
+    },
+    {
+      "name": "Keyword search",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": [
+        {
+          "name": "200 OK Response",
+          "originalRequest": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{baseUrl}}/api/search?query=Caffeine",
+              "host": [
+                "{{baseUrl}}"
+              ],
+              "path": [
+                "api",
+                "search"
+              ],
+              "query": [
+                {
+                  "key": "query",
+                  "value": "Caffeine"
+                }
+              ]
+            }
+          },
+          "status": "OK",
+          "code": 200,
+          "_postman_previewlanguage": null,
+          "header": [
+            {
+              "key": "date",
+              "value": "Thu, 02 Jul 2026 20:13:20 GMT"
+            },
+            {
+              "key": "server",
+              "value": "uvicorn"
+            },
+            {
+              "key": "content-length",
+              "value": "6645"
+            },
+            {
+              "key": "content-type",
+              "value": "application/json"
+            }
+          ],
+          "cookie": [],
+          "body": "{\n    \"results\": [\n        {\n            \"pmid\": \"30634989\",\n            \"title\": \"Recent advances and perspectives of metabolomics-based investigations in Parkinson's disease.\",\n            \"source_url\": \"10.1186/s13024-018-0304-2\",\n            \"content\": \"| Analytical platform               | Subjects                                                                                                                   | Differential metabolites/metabolic pathways                                                                                                                                    | Statistics                   | Validation   | Reference               |\\n| HILIC-TOF/MS                      | Early PD ( n =80) Controls ( n = 76)                                                                                       | Ethanolamine, N-Lauroylglycine, Alpha-N-Phenylacetyl-L-glutamine, Sarcosine, Glu-Ile, 1,3-Dimethyluracil, Arg-Ala, PCs, SMs, Lyso-PAF C-16, etc.                               | ROC (AUC =0.80)              | No           | Stoessel D et al. [52]  |\\n| CE-TOF/MS LC-TOOF/MS              | PD ( n =109) Controls ( n = 32)                                                                                            | Long chain acylcarnitines                                                                                                                                                      | ROC (AUC =0.895)             | Yes          | Saiki S et al. [102]    |\\n| LC-MS                             | PD (LID, n =10, non-LID, n =8, unmedicated, n = 8) Controls ( n = 14)                                                      | 3-hydroxykynurenine/kynurenic acid Ratio                                                                                                                                       | t-test, p < 0.05             | No           | Havelund JF et al. [6]  |\\n| Nontargeted MS-based metabolomics | Early PD ( n =41) Controls ( n = 40)                                                                                       | Hexanoylglutamine, Decanoylcarnitine, Myristoleoylcarnitine, Octanoylcarnitine, Oleoylcarnitine, Palmitoleoylcarnitine, Suberoylcarnitine, Octadecanedioate, 3-hydroxysebacate | ROC (AUC =0.857)             | No           | Burté F et al. [111]    |\\n| UPLC-MS/MS GC-MS                  | PD ( n =35) Controls ( n = 15)                                                                                             | Lower levels of tryptophan, caffeine, bilirubin and ergothioneine; higher levels of levodopa metabolites and biliverdin                                                        | random forest classification | No           | Hatano T et al. [112]   |\\n| NMR                               | PD ( n =43) Controls ( n = 37)                                                                                             | Myoinositol, sorbitol, citrate, acetate, succinate and pyruvate                                                                                                                | PLS-DA                       | No           | Ahmed SS et al. [113]   |\\n| LCECA                             | LRRK2 PD ( n = 12) idiopathic PD ( n = 41) Controls ( n = 46)                                                              | Purine metabolism (uric acid, hypoxanthine, xanthine, etc.)                                                                                                                    | PLS-DA                       | No           | Johansen KK et al. [16] |\",\n            \"snippet\": \"| Analytical platform               | Subjects                                                                                                                   | Differential metabolites/metabolic pathways                                                                                              ...\",\n            \"score\": 0.06079271\n        },\n        {\n            \"pmid\": \"40367158\",\n            \"title\": \"The role of dopaminergic medication and specific pathway alterations in idiopathic and PRKN/PINK1-mediated Parkinson's disease.\",\n            \"source_url\": \"10.1126/sciadv.adp7063\",\n            \"content\": \"## MitoPD\\n\\nOnly one study investigated the metabolome in PRKN -  linked PD ( 49 ), and no investigations addressing patients with PINK1 -  linked PD have been available so far. We combined these two autosomal recessively inherited forms of PD, as the proteins encoded by these genes act in a common biochemical pathway, mainly involved in the degradation of damaged mitochondria ( 8 ), but links to changes  in  the  innate  immune system have also been described to be associated with PRKN and PINK1 dysfunction ( 50 ). We were able to partly reproduce the differences described in the only other metabolomics  study  investigating  patients  with PRKN -  linked  PD, where  an  elevation  of  fatty  acids  and  oxidized  lipids  and  a  decrease of antioxidants, caffeine, and benzoate-  related metabolites were  reported.  We  found  several  hydroxyeicosatetraenoic  acids [5-  HETE, 8-  HETE, 11-  HETE, and 15(S)-  HETrE] elevated at nominal P values. These metabolites were not found to be different in the  comparison between IPD and HC. As explained above, this might reflect different pathways of oxidative dysfunction in these subsets of patients with PD known to display mitochondrial alterations.  This  idea  of  different  pathophysiological  pathways  in monogenic and IPD ( 51 ), as well as different mechanisms such as mitochondrial versus lysosomal dysfunction within idiopathic PD ( 52 ),  is  well-  established  and  should  be  considered  in  potential disease-  modifying trials. However, as almost all patients with PRKN/ PINK1 -  linked PD in this study were treated with l-  Dopa, conclusions drawn from these analyses are limited due to the substantial effect  of  l-  Dopa  treatment  on  the  metabolome.  Methoxytyrosine and methyldopa were the only metabolites that were significantly  different  between the mitoPD group and HC. Furthermore, most  metabolites  with  nominal P values &lt; 0.05-such  as  ( + / -) 16-  HDoHE, l-  tyrosine, putrescine, and ornithine-were identified as l-  Dopa-dependent within our study. Thus, investigating the mitoPD group did not allow us to draw definite conclusions, as almost all  patients  were  treated  with  l-  Dopa,  and  the  sample  size  was too small.\\n\\n## Strengths and limitations\",\n            \"snippet\": \"## MitoPD\\n\\nOnly one study investigated the metabolome in PRKN -  linked PD ( 49 ), and no investigations addressing patients with PINK1 -  linked PD have been available so far. We combined these two autosomal recessively inherited forms of PD, as the proteins encoded by these genes act in a common b...\",\n            \"score\": 0.06079271\n        }\n    ]\n}"
+        }
+      ]
+    }
+  ],
+  "event": [
+    {
+      "listen": "prerequest",
+      "script": {
+        "type": "text/javascript",
+        "packages": {},
+        "requests": {},
+        "exec": [
+          ""
+        ]
+      }
+    },
+    {
+      "listen": "test",
+      "script": {
+        "type": "text/javascript",
+        "packages": {},
+        "requests": {},
+        "exec": [
+          ""
+        ]
+      }
+    }
+  ],
+  "variable": [
+    {
+      "key": "baseUrl",
+      "value": ""
+    }
+  ]
+}

@@ -27,23 +27,11 @@ TEXT_SPLITTER = RecursiveCharacterTextSplitter.from_huggingface_tokenizer(
 
 def _already_ingested(source_id: str, conn: connection) -> bool:
     """
-    Checks if a document has already been ingested into the database.
-
-    Parameters
-    ----------
-    source_id : str
-        Unique identifier for the document (DOI or PMID).
-    conn : connection
-        Active psycopg2 database connection.
-
-    Returns
-    -------
-    bool
-        True if the document already exists, False otherwise.
+    Returns True if a document has already been ingested into the database.
     """
     with conn.cursor() as cur:
         cur.execute(
-            "SELECT 1 FROM limited_validation_papers WHERE source_url = %s LIMIT 1",
+            "SELECT 1 FROM limited_papers WHERE source_url = %s LIMIT 1",
             (source_id,)
         )
         
@@ -53,17 +41,6 @@ def _already_ingested(source_id: str, conn: connection) -> bool:
 def _store_chunks(title: str, text: str, source_id: str, pmid: str, pmcid: str | None, conn: connection) -> None:
     """
     Splits text into chunks, generates embeddings, and stores them in pgvector.
-
-    Parameters
-    ----------
-    title : str
-        Title of the paper.
-    text : str
-        Full text content to chunk and embed.
-    source_id : str
-        Unique identifier for the document (DOI or PMID).
-    conn : connection
-        Active psycopg2 database connection.
     """
     if not text:
         return
@@ -107,19 +84,6 @@ def ingest_paper(
 ) -> None:
     """
     Ingests a single paper's abstract and full text into the pgvector database.
-
-    Parameters
-    ----------
-    title : str
-        Title of the paper.
-    source_id : str
-        Unique identifier for the document (DOI or PMID).
-    abstract : str or None
-        Abstract text, if available.
-    md_path : str or None
-        Path to the processed markdown file, if available.
-    conn : connection
-        Active psycopg2 database connection.
     """
     abs_id = source_id + "_abs"
 

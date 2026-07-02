@@ -19,12 +19,7 @@ logging.basicConfig(
 
 def run_etl_pipeline(paper: ResearchPaper, conn: connection) -> None:
     """
-    Runs entire ETL pipeline.
-
-    Parameters
-    ----------
-    paper : ResearchPaper
-        Research article metadata including title, abstract, pmid
+    Runs complete Extract-Transform-Load pipeline for a single paper.
     """
     if os.path.exists(f"results/PMC{paper.pmcid}.md"):
       logging.info(f"PMC{paper.pmcid} already processed, skipping.")
@@ -57,7 +52,7 @@ def run_etl_pipeline(paper: ResearchPaper, conn: connection) -> None:
 
 def run_pipeline() -> None:
     """
-    Full ETL pipeline.
+    Full ETL pipeline for multiple papers, in this case for the papers found in metadata_validation.json (validation set).
     """
     conn = get_db_connection()
     try:
