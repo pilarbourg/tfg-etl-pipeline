@@ -10,3 +10,6 @@ data/metadata_validation.json
 .DS_Store
 *.egg-info/
 ragas_env/
+*.log
+pipeline.log
+get-pip.py
